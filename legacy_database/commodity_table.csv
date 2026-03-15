@@ -1,0 +1,3040 @@
+Commodity_ID,Date,Instrument_Name,Price ,Volume
+Commodity_1,2024-02-02,Natural_Gas,2.079,
+Commodity_1,2024-02-01,Natural_Gas,2.05,161340
+Commodity_1,2024-01-31,Natural_Gas,2.1,142860
+Commodity_1,2024-01-30,Natural_Gas,2.077,139750
+Commodity_1,2024-01-29,Natural_Gas,2.49,3590
+Commodity_1,2024-01-26,Natural_Gas,2.712,73020
+Commodity_1,2024-01-25,Natural_Gas,2.571,44980
+Commodity_1,2024-01-24,Natural_Gas,2.641,65500
+Commodity_1,2024-01-23,Natural_Gas,2.45,69160
+Commodity_1,2024-01-22,Natural_Gas,2.419,121580
+Commodity_1,2024-01-19,Natural_Gas,2.519,138430
+Commodity_1,2024-01-18,Natural_Gas,2.697,151820
+Commodity_1,2024-01-17,Natural_Gas,2.87,150330
+Commodity_1,2024-01-16,Natural_Gas,2.9,228160
+Commodity_1,2024-01-12,Natural_Gas,3.313,265880
+Commodity_1,2024-01-11,Natural_Gas,3.097,235030
+Commodity_1,2024-01-10,Natural_Gas,3.039,258010
+Commodity_1,2024-01-09,Natural_Gas,3.19,351780
+Commodity_1,2024-01-08,Natural_Gas,2.98,237670
+Commodity_1,2024-01-05,Natural_Gas,2.893,187500
+Commodity_1,2024-01-04,Natural_Gas,2.821,206310
+Commodity_1,2024-01-03,Natural_Gas,2.668,166470
+Commodity_1,2024-01-02,Natural_Gas,2.568,132450
+Commodity_1,2023-12-29,Natural_Gas,2.514,89600
+Commodity_1,2023-12-28,Natural_Gas,2.557,116060
+Commodity_1,2023-12-27,Natural_Gas,2.619,3930
+Commodity_1,2023-12-26,Natural_Gas,2.55,50760
+Commodity_1,2023-12-22,Natural_Gas,2.61,42840
+Commodity_1,2023-12-21,Natural_Gas,2.572,84550
+Commodity_1,2023-12-20,Natural_Gas,2.447,125260
+Commodity_1,2023-12-19,Natural_Gas,2.492,170440
+Commodity_1,2023-12-18,Natural_Gas,2.503,154300
+Commodity_1,2023-12-15,Natural_Gas,2.491,189240
+Commodity_1,2023-12-14,Natural_Gas,2.392,159490
+Commodity_1,2023-12-13,Natural_Gas,2.335,255190
+Commodity_1,2023-12-12,Natural_Gas,2.311,223460
+Commodity_1,2023-12-11,Natural_Gas,2.35,144300
+Commodity_1,2023-12-08,Natural_Gas,2.504,88300
+Commodity_1,2023-12-07,Natural_Gas,2.52,125250
+Commodity_1,2023-12-06,Natural_Gas,2.517,82950
+Commodity_1,2023-12-05,Natural_Gas,2.667,42490
+Commodity_1,2023-12-04,Natural_Gas,2.651,53830
+Commodity_1,2023-12-01,Natural_Gas,2.773,48470
+Commodity_1,2023-11-30,Natural_Gas,2.802,147750
+Commodity_1,2023-11-29,Natural_Gas,2.804,141590
+Commodity_1,2023-11-28,Natural_Gas,2.706,4140
+Commodity_1,2023-11-27,Natural_Gas,2.794,67040
+Commodity_1,2023-11-24,Natural_Gas,2.855,34120
+Commodity_1,2023-11-22,Natural_Gas,2.897,59220
+Commodity_1,2023-11-21,Natural_Gas,2.846,103670
+Commodity_1,2023-11-20,Natural_Gas,2.882,113700
+Commodity_1,2023-11-17,Natural_Gas,3.131,146650
+Commodity_1,2023-11-16,Natural_Gas,3.239,166400
+Commodity_1,2023-11-15,Natural_Gas,3.362,109450
+Commodity_1,2023-11-14,Natural_Gas,3.106,146720
+Commodity_1,2023-11-13,Natural_Gas,3.197,165650
+Commodity_1,2023-11-10,Natural_Gas,3.033,106720
+Commodity_1,2023-11-09,Natural_Gas,3.041,142580
+Commodity_1,2023-11-08,Natural_Gas,3.106,172750
+Commodity_1,2023-11-07,Natural_Gas,3.14,186180
+Commodity_1,2023-11-06,Natural_Gas,3.264,185740
+Commodity_1,2023-11-03,Natural_Gas,3.515,110110
+Commodity_1,2023-11-02,Natural_Gas,3.472,118510
+Commodity_1,2023-11-01,Natural_Gas,3.494,151260
+Commodity_1,2023-10-31,Natural_Gas,3.575,238330
+Commodity_1,2023-10-30,Natural_Gas,3.352,119530
+Commodity_1,2023-10-27,Natural_Gas,3.164,4090
+Commodity_1,2023-10-26,Natural_Gas,3.214,88610
+Commodity_1,2023-10-25,Natural_Gas,3.01,31460
+Commodity_1,2023-10-24,Natural_Gas,2.971,65430
+Commodity_1,2023-10-23,Natural_Gas,2.926,99130
+Commodity_1,2023-10-20,Natural_Gas,2.899,144040
+Commodity_1,2023-10-19,Natural_Gas,2.957,138650
+Commodity_1,2023-10-18,Natural_Gas,3.056,122850
+Commodity_1,2023-10-17,Natural_Gas,3.079,133590
+Commodity_1,2023-10-16,Natural_Gas,3.109,165020
+Commodity_1,2023-10-13,Natural_Gas,3.236,139190
+Commodity_1,2023-10-12,Natural_Gas,3.344,160320
+Commodity_1,2023-10-11,Natural_Gas,3.377,211410
+Commodity_1,2023-10-10,Natural_Gas,3.382,170100
+Commodity_1,2023-10-09,Natural_Gas,3.376,208300
+Commodity_1,2023-10-06,Natural_Gas,3.338,248000
+Commodity_1,2023-10-05,Natural_Gas,3.166,220410
+Commodity_1,2023-10-04,Natural_Gas,2.962,155570
+Commodity_1,2023-10-03,Natural_Gas,2.949,128580
+Commodity_1,2023-10-02,Natural_Gas,2.84,124340
+Commodity_1,2023-09-29,Natural_Gas,2.929,114660
+Commodity_1,2023-09-28,Natural_Gas,2.945,123670
+Commodity_1,2023-09-27,Natural_Gas,2.764,1880
+Commodity_1,2023-09-26,Natural_Gas,2.656,57090
+Commodity_1,2023-09-25,Natural_Gas,2.639,36180
+Commodity_1,2023-09-22,Natural_Gas,2.637,52640
+Commodity_1,2023-09-21,Natural_Gas,2.61,99970
+Commodity_1,2023-09-20,Natural_Gas,2.733,140310
+Commodity_1,2023-09-19,Natural_Gas,2.848,164810
+Commodity_1,2023-09-18,Natural_Gas,2.728,128310
+Commodity_1,2023-09-15,Natural_Gas,2.644,127780
+Commodity_1,2023-09-14,Natural_Gas,2.708,154080
+Commodity_1,2023-09-13,Natural_Gas,2.68,191710
+Commodity_1,2023-09-12,Natural_Gas,2.743,202190
+Commodity_1,2023-09-11,Natural_Gas,2.608,110880
+Commodity_1,2023-09-08,Natural_Gas,2.605,101230
+Commodity_1,2023-09-07,Natural_Gas,2.579,140330
+Commodity_1,2023-09-06,Natural_Gas,2.51,116660
+Commodity_1,2023-09-05,Natural_Gas,2.582,178330
+Commodity_1,2023-09-01,Natural_Gas,2.765,127250
+Commodity_1,2023-08-31,Natural_Gas,2.768,176020
+Commodity_1,2023-08-30,Natural_Gas,2.796,146880
+Commodity_1,2023-08-29,Natural_Gas,2.556,2350
+Commodity_1,2023-08-28,Natural_Gas,2.579,58220
+Commodity_1,2023-08-25,Natural_Gas,2.54,31330
+Commodity_1,2023-08-24,Natural_Gas,2.519,76080
+Commodity_1,2023-08-23,Natural_Gas,2.497,93840
+Commodity_1,2023-08-22,Natural_Gas,2.56,111970
+Commodity_1,2023-08-21,Natural_Gas,2.632,102630
+Commodity_1,2023-08-18,Natural_Gas,2.551,128030
+Commodity_1,2023-08-17,Natural_Gas,2.621,119540
+Commodity_1,2023-08-16,Natural_Gas,2.592,142520
+Commodity_1,2023-08-15,Natural_Gas,2.659,158890
+Commodity_1,2023-08-14,Natural_Gas,2.795,93500
+Commodity_1,2023-08-11,Natural_Gas,2.77,163960
+Commodity_1,2023-08-10,Natural_Gas,2.763,230510
+Commodity_1,2023-08-09,Natural_Gas,2.959,312250
+Commodity_1,2023-08-08,Natural_Gas,2.777,186800
+Commodity_1,2023-08-07,Natural_Gas,2.725,228910
+Commodity_1,2023-08-04,Natural_Gas,2.577,104010
+Commodity_1,2023-08-03,Natural_Gas,2.565,139150
+Commodity_1,2023-08-02,Natural_Gas,2.477,147610
+Commodity_1,2023-08-01,Natural_Gas,2.56,135520
+Commodity_1,2023-07-31,Natural_Gas,2.634,97880
+Commodity_1,2023-07-28,Natural_Gas,2.638,136510
+Commodity_1,2023-07-27,Natural_Gas,2.492,2420
+Commodity_1,2023-07-26,Natural_Gas,2.665,37310
+Commodity_1,2023-07-25,Natural_Gas,2.73,35550
+Commodity_1,2023-07-24,Natural_Gas,2.685,54170
+Commodity_1,2023-07-21,Natural_Gas,2.707,103190
+Commodity_1,2023-07-20,Natural_Gas,2.731,147710
+Commodity_1,2023-07-19,Natural_Gas,2.585,81160
+Commodity_1,2023-07-18,Natural_Gas,2.618,101520
+Commodity_1,2023-07-17,Natural_Gas,2.504,90910
+Commodity_1,2023-07-14,Natural_Gas,2.53,115680
+Commodity_1,2023-07-13,Natural_Gas,2.534,120190
+Commodity_1,2023-07-12,Natural_Gas,2.597,99290
+Commodity_1,2023-07-11,Natural_Gas,2.731,130580
+Commodity_1,2023-07-10,Natural_Gas,2.669,124500
+Commodity_1,2023-07-07,Natural_Gas,2.582,103590
+Commodity_1,2023-07-06,Natural_Gas,2.609,109300
+Commodity_1,2023-07-05,Natural_Gas,2.657,124910
+Commodity_1,2023-07-03,Natural_Gas,2.709,79620
+Commodity_1,2023-06-30,Natural_Gas,2.798,147270
+Commodity_1,2023-06-29,Natural_Gas,2.701,118610
+Commodity_1,2023-06-28,Natural_Gas,2.603,1320
+Commodity_1,2023-06-27,Natural_Gas,2.763,71150
+Commodity_1,2023-06-26,Natural_Gas,2.791,31600
+Commodity_1,2023-06-23,Natural_Gas,2.729,84430
+Commodity_1,2023-06-22,Natural_Gas,2.608,109160
+Commodity_1,2023-06-21,Natural_Gas,2.597,125410
+Commodity_1,2023-06-20,Natural_Gas,2.492,198220
+Commodity_1,2023-06-16,Natural_Gas,2.632,194540
+Commodity_1,2023-06-15,Natural_Gas,2.533,260280
+Commodity_1,2023-06-14,Natural_Gas,2.342,141180
+Commodity_1,2023-06-13,Natural_Gas,2.34,179760
+Commodity_1,2023-06-12,Natural_Gas,2.266,174480
+Commodity_1,2023-06-09,Natural_Gas,2.254,169480
+Commodity_1,2023-06-08,Natural_Gas,2.352,217010
+Commodity_1,2023-06-07,Natural_Gas,2.329,182390
+Commodity_1,2023-06-06,Natural_Gas,2.262,147730
+Commodity_1,2023-06-05,Natural_Gas,2.245,149920
+Commodity_1,2023-06-02,Natural_Gas,2.172,155170
+Commodity_1,2023-06-01,Natural_Gas,2.158,210620
+Commodity_1,2023-05-31,Natural_Gas,2.266,151830
+Commodity_1,2023-05-30,Natural_Gas,2.327,183530
+Commodity_1,2023-05-26,Natural_Gas,2.181,2170
+Commodity_1,2023-05-25,Natural_Gas,2.307,48660
+Commodity_1,2023-05-24,Natural_Gas,2.398,33040
+Commodity_1,2023-05-23,Natural_Gas,2.321,58740
+Commodity_1,2023-05-22,Natural_Gas,2.4,114480
+Commodity_1,2023-05-19,Natural_Gas,2.585,162130
+Commodity_1,2023-05-18,Natural_Gas,2.592,186290
+Commodity_1,2023-05-17,Natural_Gas,2.365,139260
+Commodity_1,2023-05-16,Natural_Gas,2.376,135430
+Commodity_1,2023-05-15,Natural_Gas,2.375,142750
+Commodity_1,2023-05-12,Natural_Gas,2.438,131020
+Commodity_1,2023-05-11,Natural_Gas,2.345,89130
+Commodity_1,2023-05-10,Natural_Gas,2.191,126490
+Commodity_1,2023-05-09,Natural_Gas,2.267,134530
+Commodity_1,2023-05-08,Natural_Gas,2.238,125350
+Commodity_1,2023-05-05,Natural_Gas,2.137,120690
+Commodity_1,2023-05-04,Natural_Gas,2.101,113280
+Commodity_1,2023-05-03,Natural_Gas,2.17,130330
+Commodity_1,2023-05-02,Natural_Gas,2.214,127230
+Commodity_1,2023-05-01,Natural_Gas,2.318,108990
+Commodity_1,2023-04-28,Natural_Gas,2.41,176420
+Commodity_1,2023-04-27,Natural_Gas,2.355,105220
+Commodity_1,2023-04-26,Natural_Gas,2.117,2410
+Commodity_1,2023-04-25,Natural_Gas,2.307,66130
+Commodity_1,2023-04-24,Natural_Gas,2.273,56320
+Commodity_1,2023-04-21,Natural_Gas,2.233,82960
+Commodity_1,2023-04-20,Natural_Gas,2.249,115590
+Commodity_1,2023-04-19,Natural_Gas,2.222,147570
+Commodity_1,2023-04-18,Natural_Gas,2.366,120610
+Commodity_1,2023-04-17,Natural_Gas,2.275,191440
+Commodity_1,2023-04-14,Natural_Gas,2.114,226790
+Commodity_1,2023-04-13,Natural_Gas,2.007,224380
+Commodity_1,2023-04-12,Natural_Gas,2.093,247320
+Commodity_1,2023-04-11,Natural_Gas,2.186,220670
+Commodity_1,2023-04-10,Natural_Gas,2.172,256800
+Commodity_1,2023-04-06,Natural_Gas,2.011,189060
+Commodity_1,2023-04-05,Natural_Gas,2.155,147110
+Commodity_1,2023-04-04,Natural_Gas,2.106,149120
+Commodity_1,2023-04-03,Natural_Gas,2.097,173580
+Commodity_1,2023-03-31,Natural_Gas,2.216,164650
+Commodity_1,2023-03-30,Natural_Gas,2.104,153730
+Commodity_1,2023-03-29,Natural_Gas,1.991,3490
+Commodity_1,2023-03-28,Natural_Gas,2.03,62600
+Commodity_1,2023-03-27,Natural_Gas,2.088,39810
+Commodity_1,2023-03-24,Natural_Gas,2.361,122740
+Commodity_1,2023-03-23,Natural_Gas,2.283,106540
+Commodity_1,2023-03-22,Natural_Gas,2.307,133980
+Commodity_1,2023-03-21,Natural_Gas,2.485,151460
+Commodity_1,2023-03-20,Natural_Gas,2.331,101860
+Commodity_1,2023-03-17,Natural_Gas,2.446,101400
+Commodity_1,2023-03-16,Natural_Gas,2.626,93850
+Commodity_1,2023-03-15,Natural_Gas,2.546,117570
+Commodity_1,2023-03-14,Natural_Gas,2.573,93920
+Commodity_1,2023-03-13,Natural_Gas,2.606,146570
+Commodity_1,2023-03-10,Natural_Gas,2.43,127170
+Commodity_1,2023-03-09,Natural_Gas,2.543,138150
+Commodity_1,2023-03-08,Natural_Gas,2.551,132610
+Commodity_1,2023-03-07,Natural_Gas,2.687,149480
+Commodity_1,2023-03-06,Natural_Gas,2.572,246370
+Commodity_1,2023-03-03,Natural_Gas,3.009,185070
+Commodity_1,2023-03-02,Natural_Gas,2.765,134240
+Commodity_1,2023-03-01,Natural_Gas,2.811,157120
+Commodity_1,2023-02-28,Natural_Gas,2.747,160840
+Commodity_1,2023-02-27,Natural_Gas,2.731,238900
+Commodity_1,2023-02-24,Natural_Gas,2.451,3050
+Commodity_1,2023-02-23,Natural_Gas,2.314,57090
+Commodity_1,2023-02-22,Natural_Gas,2.174,57850
+Commodity_1,2023-02-21,Natural_Gas,2.177,175520
+Commodity_1,2023-02-17,Natural_Gas,2.352,132580
+Commodity_1,2023-02-16,Natural_Gas,2.485,101080
+Commodity_1,2023-02-15,Natural_Gas,2.555,106900
+Commodity_1,2023-02-14,Natural_Gas,2.652,120080
+Commodity_1,2023-02-13,Natural_Gas,2.499,144730
+Commodity_1,2023-02-10,Natural_Gas,2.607,135220
+Commodity_1,2023-02-09,Natural_Gas,2.492,112910
+Commodity_1,2023-02-08,Natural_Gas,2.477,93350
+Commodity_1,2023-02-07,Natural_Gas,2.664,119360
+Commodity_1,2023-02-06,Natural_Gas,2.535,64960
+Commodity_1,2023-02-03,Natural_Gas,2.48,63360
+Commodity_1,2023-02-02,Natural_Gas,2.522,70790
+Commodity_1,2023-02-01,Natural_Gas,2.536,88090
+Commodity_1,2023-01-31,Natural_Gas,2.741,80030
+Commodity_1,2023-01-30,Natural_Gas,2.731,61800
+Commodity_1,2023-01-27,Natural_Gas,2.849,128690
+Commodity_1,2023-01-26,Natural_Gas,2.848,222210
+Commodity_1,2023-01-25,Natural_Gas,2.915,152920
+Commodity_1,2023-01-24,Natural_Gas,3.057,133730
+Commodity_1,2023-01-23,Natural_Gas,3.222,139300
+Commodity_1,2023-01-20,Natural_Gas,3.174,106740
+Commodity_1,2023-01-19,Natural_Gas,3.275,99670
+Commodity_1,2023-01-18,Natural_Gas,3.311,119850
+Commodity_1,2023-01-17,Natural_Gas,3.586,143310
+Commodity_1,2023-01-13,Natural_Gas,3.419,112100
+Commodity_1,2023-01-12,Natural_Gas,3.695,123740
+Commodity_1,2023-01-11,Natural_Gas,3.671,133200
+Commodity_1,2023-01-10,Natural_Gas,3.639,112230
+Commodity_1,2023-01-09,Natural_Gas,3.91,130280
+Commodity_1,2023-01-06,Natural_Gas,3.71,105050
+Commodity_1,2023-01-05,Natural_Gas,3.72,116680
+Commodity_1,2023-01-04,Natural_Gas,4.172,99760
+Commodity_1,2023-01-03,Natural_Gas,3.988,116840
+Commodity_1,2022-12-30,Natural_Gas,4.475,62280
+Commodity_1,2022-12-29,Natural_Gas,4.559,78440
+Commodity_1,2022-12-28,Natural_Gas,4.709,1720
+Commodity_1,2022-12-27,Natural_Gas,5.282,41150
+Commodity_1,2022-12-23,Natural_Gas,4.98,87380
+Commodity_1,2022-12-22,Natural_Gas,4.928,82270
+Commodity_1,2022-12-21,Natural_Gas,5.238,55520
+Commodity_1,2022-12-20,Natural_Gas,5.216,77840
+Commodity_1,2022-12-19,Natural_Gas,5.71,65660
+Commodity_1,2022-12-16,Natural_Gas,6.303,48450
+Commodity_1,2022-12-15,Natural_Gas,6.589,63690
+Commodity_1,2022-12-14,Natural_Gas,6.22,52190
+Commodity_1,2022-12-13,Natural_Gas,6.733,55830
+Commodity_1,2022-12-12,Natural_Gas,6.416,62490
+Commodity_1,2022-12-09,Natural_Gas,6.082,48190
+Commodity_1,2022-12-08,Natural_Gas,5.82,49950
+Commodity_1,2022-12-07,Natural_Gas,5.617,67440
+Commodity_1,2022-12-06,Natural_Gas,5.378,42690
+Commodity_1,2022-12-05,Natural_Gas,5.484,48480
+Commodity_1,2022-12-02,Natural_Gas,6.169,29960
+Commodity_1,2022-12-01,Natural_Gas,6.738,94560
+Commodity_1,2022-11-30,Natural_Gas,6.93,107310
+Commodity_1,2022-11-29,Natural_Gas,7.235,101680
+Commodity_1,2022-11-28,Natural_Gas,6.712,3650
+Commodity_1,2022-11-25,Natural_Gas,7.024,35510
+Commodity_1,2022-11-23,Natural_Gas,7.308,59050
+Commodity_1,2022-11-22,Natural_Gas,6.779,73120
+Commodity_1,2022-11-21,Natural_Gas,6.776,107820
+Commodity_1,2022-11-18,Natural_Gas,6.303,102560
+Commodity_1,2022-11-17,Natural_Gas,6.369,106770
+Commodity_1,2022-11-16,Natural_Gas,6.2,112920
+Commodity_1,2022-11-15,Natural_Gas,6.034,76930
+Commodity_1,2022-11-14,Natural_Gas,5.933,110910
+Commodity_1,2022-11-11,Natural_Gas,5.879,110490
+Commodity_1,2022-11-10,Natural_Gas,6.239,101640
+Commodity_1,2022-11-09,Natural_Gas,5.865,134650
+Commodity_1,2022-11-08,Natural_Gas,6.138,146540
+Commodity_1,2022-11-07,Natural_Gas,6.944,171260
+Commodity_1,2022-11-04,Natural_Gas,6.4,117250
+Commodity_1,2022-11-03,Natural_Gas,5.975,98530
+Commodity_1,2022-11-02,Natural_Gas,6.268,104850
+Commodity_1,2022-11-01,Natural_Gas,5.714,136650
+Commodity_1,2022-10-31,Natural_Gas,6.355,128750
+Commodity_1,2022-10-28,Natural_Gas,5.684,84710
+Commodity_1,2022-10-27,Natural_Gas,5.186,1730
+Commodity_1,2022-10-26,Natural_Gas,5.606,36780
+Commodity_1,2022-10-25,Natural_Gas,5.613,39950
+Commodity_1,2022-10-24,Natural_Gas,5.199,69670
+Commodity_1,2022-10-21,Natural_Gas,4.959,101730
+Commodity_1,2022-10-20,Natural_Gas,5.358,104220
+Commodity_1,2022-10-19,Natural_Gas,5.462,107160
+Commodity_1,2022-10-18,Natural_Gas,5.745,102090
+Commodity_1,2022-10-17,Natural_Gas,5.999,132420
+Commodity_1,2022-10-14,Natural_Gas,6.453,96730
+Commodity_1,2022-10-13,Natural_Gas,6.741,131390
+Commodity_1,2022-10-12,Natural_Gas,6.435,112380
+Commodity_1,2022-10-11,Natural_Gas,6.596,106890
+Commodity_1,2022-10-10,Natural_Gas,6.435,114240
+Commodity_1,2022-10-07,Natural_Gas,6.748,124710
+Commodity_1,2022-10-06,Natural_Gas,6.972,109940
+Commodity_1,2022-10-05,Natural_Gas,6.93,80870
+Commodity_1,2022-10-04,Natural_Gas,6.837,121680
+Commodity_1,2022-10-03,Natural_Gas,6.47,104480
+Commodity_1,2022-09-30,Natural_Gas,6.766,97370
+Commodity_1,2022-09-29,Natural_Gas,6.874,85720
+Commodity_1,2022-09-28,Natural_Gas,6.868,1870
+Commodity_1,2022-09-27,Natural_Gas,6.76,130920
+Commodity_1,2022-09-26,Natural_Gas,7.014,81080
+Commodity_1,2022-09-23,Natural_Gas,6.992,123600
+Commodity_1,2022-09-22,Natural_Gas,7.193,94310
+Commodity_1,2022-09-21,Natural_Gas,7.827,60250
+Commodity_1,2022-09-20,Natural_Gas,7.772,42910
+Commodity_1,2022-09-19,Natural_Gas,7.752,87550
+Commodity_1,2022-09-16,Natural_Gas,7.764,96570
+Commodity_1,2022-09-15,Natural_Gas,8.324,127210
+Commodity_1,2022-09-14,Natural_Gas,9.114,137210
+Commodity_1,2022-09-13,Natural_Gas,8.284,108830
+Commodity_1,2022-09-12,Natural_Gas,8.249,106170
+Commodity_1,2022-09-09,Natural_Gas,7.996,90500
+Commodity_1,2022-09-08,Natural_Gas,7.954,
+Commodity_1,2022-09-07,Natural_Gas,7.842,127190
+Commodity_1,2022-09-02,Natural_Gas,8.786,103170
+Commodity_1,2022-09-01,Natural_Gas,9.262,94240
+Commodity_1,2022-08-31,Natural_Gas,9.127,86290
+Commodity_1,2022-08-30,Natural_Gas,9.042,76600
+Commodity_1,2022-08-29,Natural_Gas,9.353,1200
+Commodity_1,2022-08-26,Natural_Gas,9.296,33980
+Commodity_1,2022-08-25,Natural_Gas,9.375,25830
+Commodity_1,2022-08-24,Natural_Gas,9.3,72190
+Commodity_1,2022-08-23,Natural_Gas,9.155,86530
+Commodity_1,2022-08-22,Natural_Gas,9.647,60480
+Commodity_1,2022-08-19,Natural_Gas,9.336,69810
+Commodity_1,2022-08-18,Natural_Gas,9.188,112100
+Commodity_1,2022-08-17,Natural_Gas,9.244,88680
+Commodity_1,2022-08-16,Natural_Gas,9.329,104090
+Commodity_1,2022-08-15,Natural_Gas,8.728,80220
+Commodity_1,2022-08-12,Natural_Gas,8.768,68130
+Commodity_1,2022-08-11,Natural_Gas,8.874,141750
+Commodity_1,2022-08-10,Natural_Gas,8.202,111810
+Commodity_1,2022-08-09,Natural_Gas,7.833,88510
+Commodity_1,2022-08-08,Natural_Gas,7.589,117790
+Commodity_1,2022-08-05,Natural_Gas,8.064,111700
+Commodity_1,2022-08-04,Natural_Gas,8.122,102540
+Commodity_1,2022-08-03,Natural_Gas,8.266,134210
+Commodity_1,2022-08-02,Natural_Gas,7.706,106080
+Commodity_1,2022-08-01,Natural_Gas,8.283,104020
+Commodity_1,2022-07-29,Natural_Gas,8.229,77770
+Commodity_1,2022-07-28,Natural_Gas,8.134,89240
+Commodity_1,2022-07-27,Natural_Gas,8.554,105220
+Commodity_1,2022-07-26,Natural_Gas,8.825,146560
+Commodity_1,2022-07-25,Natural_Gas,8.571,79050
+Commodity_1,2022-07-22,Natural_Gas,8.195,86580
+Commodity_1,2022-07-21,Natural_Gas,7.815,84550
+Commodity_1,2022-07-20,Natural_Gas,7.899,75270
+Commodity_1,2022-07-19,Natural_Gas,7.15,58010
+Commodity_1,2022-07-18,Natural_Gas,7.382,52890
+Commodity_1,2022-07-15,Natural_Gas,6.926,49320
+Commodity_1,2022-07-14,Natural_Gas,6.511,69080
+Commodity_1,2022-07-13,Natural_Gas,6.589,67360
+Commodity_1,2022-07-12,Natural_Gas,6.021,73230
+Commodity_1,2022-07-11,Natural_Gas,6.319,70940
+Commodity_1,2022-07-08,Natural_Gas,6.034,
+Commodity_1,2022-07-07,Natural_Gas,6.297,127670
+Commodity_1,2022-07-06,Natural_Gas,5.51,73510
+Commodity_1,2022-07-01,Natural_Gas,5.73,106970
+Commodity_1,2022-06-30,Natural_Gas,5.424,182580
+Commodity_1,2022-06-29,Natural_Gas,6.498,82210
+Commodity_1,2022-06-28,Natural_Gas,6.551,2460
+Commodity_1,2022-06-27,Natural_Gas,6.501,33100
+Commodity_1,2022-06-24,Natural_Gas,6.22,26570
+Commodity_1,2022-06-23,Natural_Gas,6.239,78030
+Commodity_1,2022-06-22,Natural_Gas,6.858,92470
+Commodity_1,2022-06-17,Natural_Gas,6.944,103760
+Commodity_1,2022-06-16,Natural_Gas,7.464,137430
+Commodity_1,2022-06-15,Natural_Gas,7.42,123590
+Commodity_1,2022-06-14,Natural_Gas,7.189,273720
+Commodity_1,2022-06-13,Natural_Gas,8.609,167560
+Commodity_1,2022-06-10,Natural_Gas,8.85,134610
+Commodity_1,2022-06-09,Natural_Gas,8.963,244480
+Commodity_1,2022-06-08,Natural_Gas,8.699,250300
+Commodity_1,2022-06-07,Natural_Gas,9.293,140030
+Commodity_1,2022-06-06,Natural_Gas,9.322,129100
+Commodity_1,2022-06-03,Natural_Gas,8.523,75230
+Commodity_1,2022-06-02,Natural_Gas,8.485,119010
+Commodity_1,2022-06-01,Natural_Gas,8.696,111960
+Commodity_1,2022-05-27,Natural_Gas,8.727,107090
+Commodity_1,2022-05-26,Natural_Gas,8.908,1470
+Commodity_1,2022-05-25,Natural_Gas,8.971,37390
+Commodity_1,2022-05-24,Natural_Gas,8.796,31660
+Commodity_1,2022-05-23,Natural_Gas,8.744,65550
+Commodity_1,2022-05-20,Natural_Gas,8.083,85460
+Commodity_1,2022-05-19,Natural_Gas,8.308,90580
+Commodity_1,2022-05-18,Natural_Gas,8.368,80720
+Commodity_1,2022-05-17,Natural_Gas,8.304,76670
+Commodity_1,2022-05-16,Natural_Gas,7.956,93520
+Commodity_1,2022-05-13,Natural_Gas,7.663,85040
+Commodity_1,2022-05-12,Natural_Gas,7.739,107060
+Commodity_1,2022-05-11,Natural_Gas,7.64,120930
+Commodity_1,2022-05-10,Natural_Gas,7.385,185460
+Commodity_1,2022-05-09,Natural_Gas,7.026,202620
+Commodity_1,2022-05-06,Natural_Gas,8.043,168300
+Commodity_1,2022-05-05,Natural_Gas,8.783,160160
+Commodity_1,2022-05-04,Natural_Gas,8.415,132320
+Commodity_1,2022-05-03,Natural_Gas,7.954,153340
+Commodity_1,2022-05-02,Natural_Gas,7.475,110920
+Commodity_1,2022-04-29,Natural_Gas,7.244,109240
+Commodity_1,2022-04-28,Natural_Gas,6.888,139570
+Commodity_1,2022-04-27,Natural_Gas,7.339,
+Commodity_1,2022-04-26,Natural_Gas,6.85,41410
+Commodity_1,2022-04-25,Natural_Gas,6.669,32520
+Commodity_1,2022-04-22,Natural_Gas,6.534,80600
+Commodity_1,2022-04-21,Natural_Gas,6.957,145260
+Commodity_1,2022-04-20,Natural_Gas,6.937,157960
+Commodity_1,2022-04-19,Natural_Gas,7.176,237000
+Commodity_1,2022-04-18,Natural_Gas,7.82,191080
+Commodity_1,2022-04-14,Natural_Gas,7.3,214220
+Commodity_1,2022-04-13,Natural_Gas,6.997,210550
+Commodity_1,2022-04-12,Natural_Gas,6.68,234250
+Commodity_1,2022-04-11,Natural_Gas,6.643,177960
+Commodity_1,2022-04-08,Natural_Gas,6.278,188340
+Commodity_1,2022-04-07,Natural_Gas,6.359,199510
+Commodity_1,2022-04-06,Natural_Gas,6.029,166720
+Commodity_1,2022-04-05,Natural_Gas,6.032,158220
+Commodity_1,2022-04-04,Natural_Gas,5.712,137180
+Commodity_1,2022-04-01,Natural_Gas,5.72,178520
+Commodity_1,2022-03-31,Natural_Gas,5.642,159720
+Commodity_1,2022-03-30,Natural_Gas,5.605,117850
+Commodity_1,2022-03-29,Natural_Gas,5.336,2270
+Commodity_1,2022-03-28,Natural_Gas,5.508,33910
+Commodity_1,2022-03-25,Natural_Gas,5.571,29470
+Commodity_1,2022-03-24,Natural_Gas,5.401,84230
+Commodity_1,2022-03-23,Natural_Gas,5.232,74540
+Commodity_1,2022-03-22,Natural_Gas,5.187,122750
+Commodity_1,2022-03-21,Natural_Gas,4.9,75460
+Commodity_1,2022-03-18,Natural_Gas,4.863,67270
+Commodity_1,2022-03-17,Natural_Gas,4.99,93840
+Commodity_1,2022-03-16,Natural_Gas,4.748,80520
+Commodity_1,2022-03-15,Natural_Gas,4.568,86940
+Commodity_1,2022-03-14,Natural_Gas,4.658,73960
+Commodity_1,2022-03-11,Natural_Gas,4.725,84510
+Commodity_1,2022-03-10,Natural_Gas,4.631,81810
+Commodity_1,2022-03-09,Natural_Gas,4.526,95130
+Commodity_1,2022-03-08,Natural_Gas,4.527,159170
+Commodity_1,2022-03-07,Natural_Gas,4.833,130860
+Commodity_1,2022-03-04,Natural_Gas,5.016,125390
+Commodity_1,2022-03-03,Natural_Gas,4.722,137150
+Commodity_1,2022-03-02,Natural_Gas,4.762,141690
+Commodity_1,2022-03-01,Natural_Gas,4.573,112550
+Commodity_1,2022-02-28,Natural_Gas,4.402,107190
+Commodity_1,2022-02-25,Natural_Gas,4.47,114860
+Commodity_1,2022-02-24,Natural_Gas,4.568,3540
+Commodity_1,2022-02-23,Natural_Gas,4.623,47180
+Commodity_1,2022-02-18,Natural_Gas,4.431,73220
+Commodity_1,2022-02-17,Natural_Gas,4.486,117790
+Commodity_1,2022-02-16,Natural_Gas,4.717,155480
+Commodity_1,2022-02-15,Natural_Gas,4.306,141950
+Commodity_1,2022-02-14,Natural_Gas,4.195,121200
+Commodity_1,2022-02-11,Natural_Gas,3.941,177370
+Commodity_1,2022-02-10,Natural_Gas,3.959,141740
+Commodity_1,2022-02-09,Natural_Gas,4.009,154600
+Commodity_1,2022-02-08,Natural_Gas,4.248,154440
+Commodity_1,2022-02-07,Natural_Gas,4.232,192860
+Commodity_1,2022-02-04,Natural_Gas,4.572,152120
+Commodity_1,2022-02-03,Natural_Gas,4.888,205840
+Commodity_1,2022-02-02,Natural_Gas,5.501,305900
+Commodity_1,2022-02-01,Natural_Gas,4.751,140790
+Commodity_1,2022-01-31,Natural_Gas,4.874,156750
+Commodity_1,2022-01-28,Natural_Gas,4.639,263420
+Commodity_1,2022-01-27,Natural_Gas,4.283,7180
+Commodity_1,2022-01-26,Natural_Gas,4.277,44320
+Commodity_1,2022-01-25,Natural_Gas,4.053,23440
+Commodity_1,2022-01-24,Natural_Gas,4.027,47100
+Commodity_1,2022-01-21,Natural_Gas,3.999,70260
+Commodity_1,2022-01-20,Natural_Gas,3.802,104200
+Commodity_1,2022-01-19,Natural_Gas,4.031,116540
+Commodity_1,2022-01-14,Natural_Gas,4.262,108860
+Commodity_1,2022-01-13,Natural_Gas,4.27,221610
+Commodity_1,2022-01-12,Natural_Gas,4.857,217500
+Commodity_1,2022-01-11,Natural_Gas,4.249,121620
+Commodity_1,2022-01-10,Natural_Gas,4.079,177630
+Commodity_1,2022-01-07,Natural_Gas,3.916,127010
+Commodity_1,2022-01-06,Natural_Gas,3.812,116580
+Commodity_1,2022-01-05,Natural_Gas,3.882,96810
+Commodity_1,2022-01-04,Natural_Gas,3.717,133390
+Commodity_1,2022-01-03,Natural_Gas,3.815,99070
+Commodity_1,2021-12-31,Natural_Gas,3.73,93100
+Commodity_1,2021-12-30,Natural_Gas,3.561,124670
+Commodity_1,2021-12-29,Natural_Gas,4.024,4820
+Commodity_1,2021-12-28,Natural_Gas,4.055,35640
+Commodity_1,2021-12-27,Natural_Gas,4.06,38910
+Commodity_1,2021-12-23,Natural_Gas,3.731,82230
+Commodity_1,2021-12-22,Natural_Gas,3.976,86620
+Commodity_1,2021-12-21,Natural_Gas,3.869,128440
+Commodity_1,2021-12-20,Natural_Gas,3.834,128580
+Commodity_1,2021-12-17,Natural_Gas,3.69,101630
+Commodity_1,2021-12-16,Natural_Gas,3.766,122850
+Commodity_1,2021-12-15,Natural_Gas,3.802,110310
+Commodity_1,2021-12-14,Natural_Gas,3.747,116830
+Commodity_1,2021-12-13,Natural_Gas,3.794,162590
+Commodity_1,2021-12-10,Natural_Gas,3.925,133280
+Commodity_1,2021-12-09,Natural_Gas,3.814,141110
+Commodity_1,2021-12-08,Natural_Gas,3.815,146870
+Commodity_1,2021-12-07,Natural_Gas,3.708,162970
+Commodity_1,2021-12-06,Natural_Gas,3.657,176720
+Commodity_1,2021-12-03,Natural_Gas,4.132,124770
+Commodity_1,2021-12-02,Natural_Gas,4.056,145510
+Commodity_1,2021-12-01,Natural_Gas,4.258,171940
+Commodity_1,2021-11-30,Natural_Gas,4.567,171820
+Commodity_1,2021-11-29,Natural_Gas,4.854,172470
+Commodity_1,2021-11-24,Natural_Gas,5.068,40860
+Commodity_1,2021-11-23,Natural_Gas,4.967,47430
+Commodity_1,2021-11-22,Natural_Gas,4.789,96190
+Commodity_1,2021-11-19,Natural_Gas,5.065,110060
+Commodity_1,2021-11-18,Natural_Gas,4.902,111030
+Commodity_1,2021-11-17,Natural_Gas,4.816,145610
+Commodity_1,2021-11-16,Natural_Gas,5.177,141140
+Commodity_1,2021-11-15,Natural_Gas,5.017,117670
+Commodity_1,2021-11-12,Natural_Gas,4.791,137100
+Commodity_1,2021-11-11,Natural_Gas,5.149,135950
+Commodity_1,2021-11-10,Natural_Gas,4.88,170390
+Commodity_1,2021-11-09,Natural_Gas,4.979,202740
+Commodity_1,2021-11-08,Natural_Gas,5.427,154220
+Commodity_1,2021-11-05,Natural_Gas,5.516,133340
+Commodity_1,2021-11-04,Natural_Gas,5.716,147040
+Commodity_1,2021-11-03,Natural_Gas,5.67,141500
+Commodity_1,2021-11-02,Natural_Gas,5.542,153760
+Commodity_1,2021-11-01,Natural_Gas,5.186,163260
+Commodity_1,2021-10-29,Natural_Gas,5.426,154410
+Commodity_1,2021-10-28,Natural_Gas,5.782,165630
+Commodity_1,2021-10-27,Natural_Gas,6.202,5780
+Commodity_1,2021-10-26,Natural_Gas,5.882,50710
+Commodity_1,2021-10-25,Natural_Gas,5.898,50880
+Commodity_1,2021-10-22,Natural_Gas,5.28,74370
+Commodity_1,2021-10-21,Natural_Gas,5.115,107710
+Commodity_1,2021-10-20,Natural_Gas,5.17,140030
+Commodity_1,2021-10-19,Natural_Gas,5.088,152730
+Commodity_1,2021-10-18,Natural_Gas,4.989,167900
+Commodity_1,2021-10-15,Natural_Gas,5.41,184580
+Commodity_1,2021-10-14,Natural_Gas,5.687,169160
+Commodity_1,2021-10-13,Natural_Gas,5.59,198790
+Commodity_1,2021-10-12,Natural_Gas,5.505,215450
+Commodity_1,2021-10-11,Natural_Gas,5.345,188700
+Commodity_1,2021-10-08,Natural_Gas,5.565,163350
+Commodity_1,2021-10-07,Natural_Gas,5.677,239500
+Commodity_1,2021-10-06,Natural_Gas,5.675,274650
+Commodity_1,2021-10-05,Natural_Gas,6.312,219520
+Commodity_1,2021-10-04,Natural_Gas,5.766,209580
+Commodity_1,2021-10-01,Natural_Gas,5.619,178940
+Commodity_1,2021-09-30,Natural_Gas,5.867,243240
+Commodity_1,2021-09-29,Natural_Gas,5.477,226340
+Commodity_1,2021-09-28,Natural_Gas,5.841,5660
+Commodity_1,2021-09-27,Natural_Gas,5.706,63070
+Commodity_1,2021-09-24,Natural_Gas,5.14,47440
+Commodity_1,2021-09-23,Natural_Gas,4.976,105200
+Commodity_1,2021-09-22,Natural_Gas,4.805,108780
+Commodity_1,2021-09-21,Natural_Gas,4.805,163100
+Commodity_1,2021-09-20,Natural_Gas,4.985,156870
+Commodity_1,2021-09-17,Natural_Gas,5.105,164580
+Commodity_1,2021-09-16,Natural_Gas,5.335,221140
+Commodity_1,2021-09-15,Natural_Gas,5.46,279120
+Commodity_1,2021-09-14,Natural_Gas,5.26,200940
+Commodity_1,2021-09-13,Natural_Gas,5.231,201770
+Commodity_1,2021-09-10,Natural_Gas,4.938,151040
+Commodity_1,2021-09-09,Natural_Gas,5.031,234850
+Commodity_1,2021-09-08,Natural_Gas,4.914,244740
+Commodity_1,2021-09-03,Natural_Gas,4.712,110950
+Commodity_1,2021-09-02,Natural_Gas,4.641,176850
+Commodity_1,2021-09-01,Natural_Gas,4.615,241160
+Commodity_1,2021-08-31,Natural_Gas,4.377,147420
+Commodity_1,2021-08-30,Natural_Gas,4.305,167100
+Commodity_1,2021-08-27,Natural_Gas,4.37,4280
+Commodity_1,2021-08-26,Natural_Gas,4.184,76860
+Commodity_1,2021-08-25,Natural_Gas,3.897,39370
+Commodity_1,2021-08-24,Natural_Gas,3.896,57630
+Commodity_1,2021-08-23,Natural_Gas,3.945,85500
+Commodity_1,2021-08-20,Natural_Gas,3.851,108520
+Commodity_1,2021-08-19,Natural_Gas,3.83,121760
+Commodity_1,2021-08-18,Natural_Gas,3.852,95510
+Commodity_1,2021-08-17,Natural_Gas,3.837,131220
+Commodity_1,2021-08-16,Natural_Gas,3.946,101670
+Commodity_1,2021-08-13,Natural_Gas,3.861,123010
+Commodity_1,2021-08-12,Natural_Gas,3.933,186990
+Commodity_1,2021-08-11,Natural_Gas,4.059,161900
+Commodity_1,2021-08-10,Natural_Gas,4.089,157510
+Commodity_1,2021-08-09,Natural_Gas,4.06,180000
+Commodity_1,2021-08-06,Natural_Gas,4.14,153150
+Commodity_1,2021-08-05,Natural_Gas,4.14,125230
+Commodity_1,2021-08-04,Natural_Gas,4.158,142590
+Commodity_1,2021-08-03,Natural_Gas,4.027,120860
+Commodity_1,2021-08-02,Natural_Gas,3.935,110950
+Commodity_1,2021-07-30,Natural_Gas,3.914,161870
+Commodity_1,2021-07-29,Natural_Gas,4.059,118450
+Commodity_1,2021-07-28,Natural_Gas,4.044,3880
+Commodity_1,2021-07-27,Natural_Gas,3.971,46960
+Commodity_1,2021-07-26,Natural_Gas,4.102,49420
+Commodity_1,2021-07-23,Natural_Gas,4.06,73870
+Commodity_1,2021-07-22,Natural_Gas,4.003,102160
+Commodity_1,2021-07-21,Natural_Gas,3.959,111930
+Commodity_1,2021-07-20,Natural_Gas,3.876,118400
+Commodity_1,2021-07-19,Natural_Gas,3.779,124160
+Commodity_1,2021-07-16,Natural_Gas,3.674,89980
+Commodity_1,2021-07-15,Natural_Gas,3.614,117590
+Commodity_1,2021-07-14,Natural_Gas,3.66,137350
+Commodity_1,2021-07-13,Natural_Gas,3.696,104040
+Commodity_1,2021-07-12,Natural_Gas,3.749,127070
+Commodity_1,2021-07-09,Natural_Gas,3.674,115680
+Commodity_1,2021-07-08,Natural_Gas,3.688,148550
+Commodity_1,2021-07-07,Natural_Gas,3.596,124620
+Commodity_1,2021-07-02,Natural_Gas,3.7,111460
+Commodity_1,2021-07-01,Natural_Gas,3.661,149420
+Commodity_1,2021-06-30,Natural_Gas,3.65,187010
+Commodity_1,2021-06-29,Natural_Gas,3.63,205480
+Commodity_1,2021-06-28,Natural_Gas,3.617,6840
+Commodity_1,2021-06-25,Natural_Gas,3.496,39080
+Commodity_1,2021-06-24,Natural_Gas,3.418,49400
+Commodity_1,2021-06-23,Natural_Gas,3.333,75390
+Commodity_1,2021-06-22,Natural_Gas,3.258,77090
+Commodity_1,2021-06-21,Natural_Gas,3.191,103040
+Commodity_1,2021-06-18,Natural_Gas,3.215,104940
+Commodity_1,2021-06-17,Natural_Gas,3.253,150050
+Commodity_1,2021-06-16,Natural_Gas,3.251,111290
+Commodity_1,2021-06-15,Natural_Gas,3.24,154410
+Commodity_1,2021-06-14,Natural_Gas,3.352,113120
+Commodity_1,2021-06-11,Natural_Gas,3.296,194490
+Commodity_1,2021-06-10,Natural_Gas,3.149,151570
+Commodity_1,2021-06-09,Natural_Gas,3.129,131720
+Commodity_1,2021-06-08,Natural_Gas,3.128,208580
+Commodity_1,2021-06-07,Natural_Gas,3.07,138840
+Commodity_1,2021-06-04,Natural_Gas,3.097,118040
+Commodity_1,2021-06-03,Natural_Gas,3.041,100520
+Commodity_1,2021-06-02,Natural_Gas,3.075,114980
+Commodity_1,2021-05-28,Natural_Gas,2.986,110000
+Commodity_1,2021-05-27,Natural_Gas,2.958,123070
+Commodity_1,2021-05-26,Natural_Gas,2.984,5090
+Commodity_1,2021-05-25,Natural_Gas,2.913,38340
+Commodity_1,2021-05-24,Natural_Gas,2.886,43510
+Commodity_1,2021-05-21,Natural_Gas,2.906,58270
+Commodity_1,2021-05-20,Natural_Gas,2.925,85090
+Commodity_1,2021-05-19,Natural_Gas,2.964,100250
+Commodity_1,2021-05-18,Natural_Gas,3.012,129180
+Commodity_1,2021-05-17,Natural_Gas,3.109,169010
+Commodity_1,2021-05-14,Natural_Gas,2.961,84200
+Commodity_1,2021-05-13,Natural_Gas,2.973,96120
+Commodity_1,2021-05-12,Natural_Gas,2.969,90580
+Commodity_1,2021-05-11,Natural_Gas,2.955,107220
+Commodity_1,2021-05-10,Natural_Gas,2.932,92280
+Commodity_1,2021-05-07,Natural_Gas,2.958,102870
+Commodity_1,2021-05-06,Natural_Gas,2.928,83810
+Commodity_1,2021-05-05,Natural_Gas,2.938,90210
+Commodity_1,2021-05-04,Natural_Gas,2.967,102050
+Commodity_1,2021-05-03,Natural_Gas,2.966,101040
+Commodity_1,2021-04-30,Natural_Gas,2.931,101570
+Commodity_1,2021-04-29,Natural_Gas,2.911,123110
+Commodity_1,2021-04-28,Natural_Gas,2.925,3250
+Commodity_1,2021-04-27,Natural_Gas,2.873,41280
+Commodity_1,2021-04-26,Natural_Gas,2.79,34310
+Commodity_1,2021-04-23,Natural_Gas,2.73,50600
+Commodity_1,2021-04-22,Natural_Gas,2.749,126330
+Commodity_1,2021-04-21,Natural_Gas,2.692,99730
+Commodity_1,2021-04-20,Natural_Gas,2.727,96680
+Commodity_1,2021-04-19,Natural_Gas,2.749,105070
+Commodity_1,2021-04-16,Natural_Gas,2.68,94880
+Commodity_1,2021-04-15,Natural_Gas,2.658,135590
+Commodity_1,2021-04-14,Natural_Gas,2.618,129020
+Commodity_1,2021-04-13,Natural_Gas,2.619,166000
+Commodity_1,2021-04-12,Natural_Gas,2.561,144320
+Commodity_1,2021-04-09,Natural_Gas,2.526,121590
+Commodity_1,2021-04-08,Natural_Gas,2.522,140800
+Commodity_1,2021-04-07,Natural_Gas,2.52,132270
+Commodity_1,2021-04-06,Natural_Gas,2.456,142680
+Commodity_1,2021-04-05,Natural_Gas,2.511,146890
+Commodity_1,2021-04-01,Natural_Gas,2.639,116690
+Commodity_1,2021-03-31,Natural_Gas,2.608,92080
+Commodity_1,2021-03-30,Natural_Gas,2.623,100810
+Commodity_1,2021-03-29,Natural_Gas,2.586,6540
+Commodity_1,2021-03-26,Natural_Gas,2.557,35200
+Commodity_1,2021-03-25,Natural_Gas,2.57,39050
+Commodity_1,2021-03-24,Natural_Gas,2.518,48420
+Commodity_1,2021-03-23,Natural_Gas,2.508,89370
+Commodity_1,2021-03-22,Natural_Gas,2.582,108230
+Commodity_1,2021-03-19,Natural_Gas,2.535,74380
+Commodity_1,2021-03-18,Natural_Gas,2.481,143770
+Commodity_1,2021-03-17,Natural_Gas,2.528,91680
+Commodity_1,2021-03-16,Natural_Gas,2.562,99290
+Commodity_1,2021-03-15,Natural_Gas,2.484,136040
+Commodity_1,2021-03-12,Natural_Gas,2.6,104730
+Commodity_1,2021-03-11,Natural_Gas,2.668,119770
+Commodity_1,2021-03-10,Natural_Gas,2.692,93180
+Commodity_1,2021-03-09,Natural_Gas,2.662,96800
+Commodity_1,2021-03-08,Natural_Gas,2.664,130870
+Commodity_1,2021-03-05,Natural_Gas,2.701,116200
+Commodity_1,2021-03-04,Natural_Gas,2.746,138700
+Commodity_1,2021-03-03,Natural_Gas,2.816,93790
+Commodity_1,2021-03-02,Natural_Gas,2.839,109640
+Commodity_1,2021-03-01,Natural_Gas,2.777,75970
+Commodity_1,2021-02-26,Natural_Gas,2.771,132990
+Commodity_1,2021-02-25,Natural_Gas,2.777,123990
+Commodity_1,2021-02-24,Natural_Gas,2.854,6640
+Commodity_1,2021-02-23,Natural_Gas,2.879,45700
+Commodity_1,2021-02-22,Natural_Gas,2.953,39810
+Commodity_1,2021-02-19,Natural_Gas,3.069,67060
+Commodity_1,2021-02-18,Natural_Gas,3.082,171650
+Commodity_1,2021-02-17,Natural_Gas,3.219,218620
+Commodity_1,2021-02-12,Natural_Gas,2.912,190050
+Commodity_1,2021-02-11,Natural_Gas,2.868,261920
+Commodity_1,2021-02-10,Natural_Gas,2.911,266990
+Commodity_1,2021-02-09,Natural_Gas,2.835,196930
+Commodity_1,2021-02-08,Natural_Gas,2.882,194660
+Commodity_1,2021-02-05,Natural_Gas,2.863,270030
+Commodity_1,2021-02-04,Natural_Gas,2.935,186930
+Commodity_1,2021-02-03,Natural_Gas,2.789,158480
+Commodity_1,2021-02-02,Natural_Gas,2.845,236390
+Commodity_1,2021-02-01,Natural_Gas,2.85,243660
+Commodity_1,2021-01-29,Natural_Gas,2.564,133180
+Commodity_1,2021-01-28,Natural_Gas,2.664,159820
+Commodity_1,2021-01-27,Natural_Gas,2.76,5520
+Commodity_1,2021-01-26,Natural_Gas,2.656,32230
+Commodity_1,2021-01-25,Natural_Gas,2.602,42990
+Commodity_1,2021-01-22,Natural_Gas,2.446,63830
+Commodity_1,2021-01-21,Natural_Gas,2.491,100320
+Commodity_1,2021-01-20,Natural_Gas,2.539,133440
+Commodity_1,2021-01-15,Natural_Gas,2.737,150990
+Commodity_1,2021-01-14,Natural_Gas,2.666,163040
+Commodity_1,2021-01-13,Natural_Gas,2.727,169240
+Commodity_1,2021-01-12,Natural_Gas,2.753,201430
+Commodity_1,2021-01-11,Natural_Gas,2.747,177250
+Commodity_1,2021-01-08,Natural_Gas,2.7,148730
+Commodity_1,2021-01-07,Natural_Gas,2.729,135480
+Commodity_1,2021-01-06,Natural_Gas,2.716,144690
+Commodity_1,2021-01-05,Natural_Gas,2.702,149830
+Commodity_1,2021-01-04,Natural_Gas,2.581,128380
+Commodity_1,2020-12-31,Natural_Gas,2.539,111110
+Commodity_1,2020-12-30,Natural_Gas,2.422,81790
+Commodity_1,2020-12-29,Natural_Gas,2.467,3270
+Commodity_1,2020-12-28,Natural_Gas,2.305,49280
+Commodity_1,2020-12-24,Natural_Gas,2.518,39990
+Commodity_1,2020-12-23,Natural_Gas,2.608,98710
+Commodity_1,2020-12-22,Natural_Gas,2.78,112740
+Commodity_1,2020-12-21,Natural_Gas,2.705,104270
+Commodity_1,2020-12-18,Natural_Gas,2.7,121680
+Commodity_1,2020-12-17,Natural_Gas,2.636,154240
+Commodity_1,2020-12-16,Natural_Gas,2.677,128970
+Commodity_1,2020-12-15,Natural_Gas,2.682,137600
+Commodity_1,2020-12-14,Natural_Gas,2.682,142940
+Commodity_1,2020-12-11,Natural_Gas,2.591,177710
+Commodity_1,2020-12-10,Natural_Gas,2.553,215460
+Commodity_1,2020-12-09,Natural_Gas,2.442,185150
+Commodity_1,2020-12-08,Natural_Gas,2.399,177630
+Commodity_1,2020-12-07,Natural_Gas,2.406,236670
+Commodity_1,2020-12-04,Natural_Gas,2.575,142530
+Commodity_1,2020-12-03,Natural_Gas,2.507,269560
+Commodity_1,2020-12-02,Natural_Gas,2.78,142880
+Commodity_1,2020-12-01,Natural_Gas,2.88,137670
+Commodity_1,2020-11-30,Natural_Gas,2.882,146180
+Commodity_1,2020-11-25,Natural_Gas,2.896,5630
+Commodity_1,2020-11-24,Natural_Gas,2.775,41700
+Commodity_1,2020-11-23,Natural_Gas,2.711,38780
+Commodity_1,2020-11-20,Natural_Gas,2.65,76190
+Commodity_1,2020-11-19,Natural_Gas,2.592,159960
+Commodity_1,2020-11-18,Natural_Gas,2.712,124470
+Commodity_1,2020-11-17,Natural_Gas,2.692,110710
+Commodity_1,2020-11-16,Natural_Gas,2.697,189360
+Commodity_1,2020-11-13,Natural_Gas,2.995,127130
+Commodity_1,2020-11-12,Natural_Gas,2.976,126610
+Commodity_1,2020-11-11,Natural_Gas,3.031,139900
+Commodity_1,2020-11-10,Natural_Gas,2.949,158190
+Commodity_1,2020-11-09,Natural_Gas,2.859,125980
+Commodity_1,2020-11-06,Natural_Gas,2.888,186660
+Commodity_1,2020-11-05,Natural_Gas,2.942,173750
+Commodity_1,2020-11-04,Natural_Gas,3.046,145540
+Commodity_1,2020-11-03,Natural_Gas,3.059,184780
+Commodity_1,2020-11-02,Natural_Gas,3.244,156210
+Commodity_1,2020-10-30,Natural_Gas,3.354,146430
+Commodity_1,2020-10-29,Natural_Gas,3.301,168760
+Commodity_1,2020-10-28,Natural_Gas,2.996,4960
+Commodity_1,2020-10-27,Natural_Gas,3.019,57590
+Commodity_1,2020-10-26,Natural_Gas,3.024,35710
+Commodity_1,2020-10-23,Natural_Gas,2.971,73250
+Commodity_1,2020-10-22,Natural_Gas,3.007,93190
+Commodity_1,2020-10-21,Natural_Gas,3.023,154370
+Commodity_1,2020-10-20,Natural_Gas,2.913,119810
+Commodity_1,2020-10-19,Natural_Gas,2.795,150450
+Commodity_1,2020-10-16,Natural_Gas,2.773,146430
+Commodity_1,2020-10-15,Natural_Gas,2.775,150330
+Commodity_1,2020-10-14,Natural_Gas,2.636,184590
+Commodity_1,2020-10-13,Natural_Gas,2.855,178430
+Commodity_1,2020-10-12,Natural_Gas,2.881,179700
+Commodity_1,2020-10-09,Natural_Gas,2.741,207340
+Commodity_1,2020-10-08,Natural_Gas,2.627,198490
+Commodity_1,2020-10-07,Natural_Gas,2.606,211070
+Commodity_1,2020-10-06,Natural_Gas,2.52,149530
+Commodity_1,2020-10-05,Natural_Gas,2.615,195410
+Commodity_1,2020-10-02,Natural_Gas,2.438,163730
+Commodity_1,2020-10-01,Natural_Gas,2.527,155890
+Commodity_1,2020-09-30,Natural_Gas,2.527,145930
+Commodity_1,2020-09-29,Natural_Gas,2.561,196450
+Commodity_1,2020-09-28,Natural_Gas,2.101,3360
+Commodity_1,2020-09-25,Natural_Gas,2.139,40390
+Commodity_1,2020-09-24,Natural_Gas,2.248,60480
+Commodity_1,2020-09-23,Natural_Gas,2.125,100580
+Commodity_1,2020-09-22,Natural_Gas,1.834,102270
+Commodity_1,2020-09-21,Natural_Gas,1.835,256630
+Commodity_1,2020-09-18,Natural_Gas,2.048,146580
+Commodity_1,2020-09-17,Natural_Gas,2.042,238360
+Commodity_1,2020-09-16,Natural_Gas,2.267,119390
+Commodity_1,2020-09-15,Natural_Gas,2.362,114510
+Commodity_1,2020-09-14,Natural_Gas,2.31,151170
+Commodity_1,2020-09-11,Natural_Gas,2.269,123020
+Commodity_1,2020-09-10,Natural_Gas,2.323,139970
+Commodity_1,2020-09-09,Natural_Gas,2.406,201390
+Commodity_1,2020-09-04,Natural_Gas,2.588,165240
+Commodity_1,2020-09-03,Natural_Gas,2.487,146080
+Commodity_1,2020-09-02,Natural_Gas,2.486,257130
+Commodity_1,2020-09-01,Natural_Gas,2.527,228380
+Commodity_1,2020-08-31,Natural_Gas,2.63,203890
+Commodity_1,2020-08-28,Natural_Gas,2.657,152900
+Commodity_1,2020-08-27,Natural_Gas,2.579,2600
+Commodity_1,2020-08-26,Natural_Gas,2.461,37630
+Commodity_1,2020-08-25,Natural_Gas,2.489,43870
+Commodity_1,2020-08-24,Natural_Gas,2.513,101300
+Commodity_1,2020-08-21,Natural_Gas,2.448,134960
+Commodity_1,2020-08-20,Natural_Gas,2.352,146660
+Commodity_1,2020-08-19,Natural_Gas,2.426,112840
+Commodity_1,2020-08-18,Natural_Gas,2.417,141590
+Commodity_1,2020-08-17,Natural_Gas,2.339,143940
+Commodity_1,2020-08-14,Natural_Gas,2.356,229930
+Commodity_1,2020-08-13,Natural_Gas,2.182,173310
+Commodity_1,2020-08-12,Natural_Gas,2.152,175920
+Commodity_1,2020-08-11,Natural_Gas,2.171,166070
+Commodity_1,2020-08-10,Natural_Gas,2.153,207910
+Commodity_1,2020-08-07,Natural_Gas,2.238,206250
+Commodity_1,2020-08-06,Natural_Gas,2.165,161990
+Commodity_1,2020-08-05,Natural_Gas,2.191,182430
+Commodity_1,2020-08-04,Natural_Gas,2.193,230890
+Commodity_1,2020-08-03,Natural_Gas,2.101,381970
+Commodity_1,2020-07-31,Natural_Gas,1.799,112250
+Commodity_1,2020-07-30,Natural_Gas,1.829,165710
+Commodity_1,2020-07-29,Natural_Gas,1.854,4060
+Commodity_1,2020-07-28,Natural_Gas,1.8,32530
+Commodity_1,2020-07-27,Natural_Gas,1.734,37480
+Commodity_1,2020-07-24,Natural_Gas,1.808,71800
+Commodity_1,2020-07-23,Natural_Gas,1.785,122590
+Commodity_1,2020-07-22,Natural_Gas,1.681,118420
+Commodity_1,2020-07-21,Natural_Gas,1.675,131340
+Commodity_1,2020-07-20,Natural_Gas,1.641,165620
+Commodity_1,2020-07-17,Natural_Gas,1.718,110720
+Commodity_1,2020-07-16,Natural_Gas,1.723,136970
+Commodity_1,2020-07-15,Natural_Gas,1.778,93860
+Commodity_1,2020-07-14,Natural_Gas,1.746,138350
+Commodity_1,2020-07-13,Natural_Gas,1.739,158850
+Commodity_1,2020-07-10,Natural_Gas,1.805,166220
+Commodity_1,2020-07-09,Natural_Gas,1.779,179260
+Commodity_1,2020-07-08,Natural_Gas,1.824,187550
+Commodity_1,2020-07-07,Natural_Gas,1.876,203760
+Commodity_1,2020-07-02,Natural_Gas,1.734,142220
+Commodity_1,2020-07-01,Natural_Gas,1.671,173540
+Commodity_1,2020-06-30,Natural_Gas,1.751,186910
+Commodity_1,2020-06-29,Natural_Gas,1.709,273250
+Commodity_1,2020-06-26,Natural_Gas,1.495,7250
+Commodity_1,2020-06-25,Natural_Gas,1.482,62680
+Commodity_1,2020-06-24,Natural_Gas,1.597,43230
+Commodity_1,2020-06-23,Natural_Gas,1.637,85190
+Commodity_1,2020-06-22,Natural_Gas,1.664,121430
+Commodity_1,2020-06-19,Natural_Gas,1.669,123840
+Commodity_1,2020-06-18,Natural_Gas,1.638,124790
+Commodity_1,2020-06-17,Natural_Gas,1.638,150270
+Commodity_1,2020-06-16,Natural_Gas,1.614,167100
+Commodity_1,2020-06-15,Natural_Gas,1.669,191890
+Commodity_1,2020-06-12,Natural_Gas,1.731,148100
+Commodity_1,2020-06-11,Natural_Gas,1.813,213620
+Commodity_1,2020-06-10,Natural_Gas,1.78,203930
+Commodity_1,2020-06-09,Natural_Gas,1.767,207730
+Commodity_1,2020-06-08,Natural_Gas,1.789,206090
+Commodity_1,2020-06-05,Natural_Gas,1.782,207230
+Commodity_1,2020-06-04,Natural_Gas,1.822,114330
+Commodity_1,2020-06-03,Natural_Gas,1.821,200600
+Commodity_1,2020-06-02,Natural_Gas,1.777,142960
+Commodity_1,2020-06-01,Natural_Gas,1.774,205240
+Commodity_1,2020-05-29,Natural_Gas,1.849,221370
+Commodity_1,2020-05-28,Natural_Gas,1.827,160770
+Commodity_1,2020-05-27,Natural_Gas,1.722,2990
+Commodity_1,2020-05-22,Natural_Gas,1.731,53710
+Commodity_1,2020-05-21,Natural_Gas,1.71,99420
+Commodity_1,2020-05-20,Natural_Gas,1.771,158340
+Commodity_1,2020-05-19,Natural_Gas,1.83,241440
+Commodity_1,2020-05-18,Natural_Gas,1.783,224940
+Commodity_1,2020-05-15,Natural_Gas,1.646,169710
+Commodity_1,2020-05-14,Natural_Gas,1.681,206530
+Commodity_1,2020-05-13,Natural_Gas,1.616,254680
+Commodity_1,2020-05-12,Natural_Gas,1.72,228490
+Commodity_1,2020-05-11,Natural_Gas,1.826,224970
+Commodity_1,2020-05-08,Natural_Gas,1.823,188400
+Commodity_1,2020-05-07,Natural_Gas,1.894,228870
+Commodity_1,2020-05-06,Natural_Gas,1.944,265470
+Commodity_1,2020-05-05,Natural_Gas,2.134,307830
+Commodity_1,2020-05-04,Natural_Gas,1.993,187910
+Commodity_1,2020-05-01,Natural_Gas,1.89,181680
+Commodity_1,2020-04-30,Natural_Gas,1.949,169440
+Commodity_1,2020-04-29,Natural_Gas,1.869,159450
+Commodity_1,2020-04-28,Natural_Gas,1.794,3600
+Commodity_1,2020-04-27,Natural_Gas,1.819,67070
+Commodity_1,2020-04-24,Natural_Gas,1.746,77810
+Commodity_1,2020-04-23,Natural_Gas,1.815,93520
+Commodity_1,2020-04-22,Natural_Gas,1.939,162990
+Commodity_1,2020-04-21,Natural_Gas,1.821,283420
+Commodity_1,2020-04-20,Natural_Gas,1.924,229820
+Commodity_1,2020-04-17,Natural_Gas,1.753,196980
+Commodity_1,2020-04-16,Natural_Gas,1.686,235590
+Commodity_1,2020-04-15,Natural_Gas,1.598,152700
+Commodity_1,2020-04-14,Natural_Gas,1.65,198540
+Commodity_1,2020-04-13,Natural_Gas,1.724,196130
+Commodity_1,2020-04-09,Natural_Gas,1.733,202180
+Commodity_1,2020-04-08,Natural_Gas,1.783,227400
+Commodity_1,2020-04-07,Natural_Gas,1.852,261930
+Commodity_1,2020-04-06,Natural_Gas,1.731,187960
+Commodity_1,2020-04-03,Natural_Gas,1.621,155160
+Commodity_1,2020-04-02,Natural_Gas,1.552,165320
+Commodity_1,2020-04-01,Natural_Gas,1.587,143670
+Commodity_1,2020-03-31,Natural_Gas,1.64,142550
+Commodity_1,2020-03-30,Natural_Gas,1.69,102310
+Commodity_1,2020-03-27,Natural_Gas,1.634,6320
+Commodity_1,2020-03-26,Natural_Gas,1.637,48030
+Commodity_1,2020-03-25,Natural_Gas,1.659,42560
+Commodity_1,2020-03-24,Natural_Gas,1.653,92340
+Commodity_1,2020-03-23,Natural_Gas,1.602,138580
+Commodity_1,2020-03-20,Natural_Gas,1.604,160480
+Commodity_1,2020-03-19,Natural_Gas,1.654,189480
+Commodity_1,2020-03-18,Natural_Gas,1.604,216850
+Commodity_1,2020-03-17,Natural_Gas,1.729,163790
+Commodity_1,2020-03-16,Natural_Gas,1.815,167170
+Commodity_1,2020-03-13,Natural_Gas,1.869,222420
+Commodity_1,2020-03-12,Natural_Gas,1.841,280150
+Commodity_1,2020-03-11,Natural_Gas,1.878,318550
+Commodity_1,2020-03-10,Natural_Gas,1.936,350200
+Commodity_1,2020-03-09,Natural_Gas,1.778,291350
+Commodity_1,2020-03-06,Natural_Gas,1.708,213510
+Commodity_1,2020-03-05,Natural_Gas,1.772,152640
+Commodity_1,2020-03-04,Natural_Gas,1.827,138210
+Commodity_1,2020-03-03,Natural_Gas,1.8,207500
+Commodity_1,2020-03-02,Natural_Gas,1.756,197990
+Commodity_1,2020-02-28,Natural_Gas,1.684,218420
+Commodity_1,2020-02-27,Natural_Gas,1.752,276100
+Commodity_1,2020-02-26,Natural_Gas,1.821,7700
+Commodity_1,2020-02-25,Natural_Gas,1.847,70530
+Commodity_1,2020-02-24,Natural_Gas,1.827,75200
+Commodity_1,2020-02-21,Natural_Gas,1.905,146810
+Commodity_1,2020-02-20,Natural_Gas,1.92,266250
+Commodity_1,2020-02-19,Natural_Gas,1.955,269980
+Commodity_1,2020-02-18,Natural_Gas,1.981,322720
+Commodity_1,2020-02-14,Natural_Gas,1.837,188950
+Commodity_1,2020-02-13,Natural_Gas,1.826,280380
+Commodity_1,2020-02-12,Natural_Gas,1.844,303310
+Commodity_1,2020-02-11,Natural_Gas,1.788,278430
+Commodity_1,2020-02-10,Natural_Gas,1.766,337230
+Commodity_1,2020-02-07,Natural_Gas,1.858,272130
+Commodity_1,2020-02-06,Natural_Gas,1.862,186210
+Commodity_1,2020-02-05,Natural_Gas,1.861,195460
+Commodity_1,2020-02-04,Natural_Gas,1.872,184040
+Commodity_1,2020-02-03,Natural_Gas,1.819,163790
+Commodity_1,2020-01-31,Natural_Gas,1.841,135680
+Commodity_1,2020-01-30,Natural_Gas,1.829,219700
+Commodity_1,2020-01-29,Natural_Gas,1.877,10050
+Commodity_1,2020-01-28,Natural_Gas,1.934,59300
+Commodity_1,2020-01-27,Natural_Gas,1.902,72170
+Commodity_1,2020-01-24,Natural_Gas,1.893,142190
+Commodity_1,2020-01-23,Natural_Gas,1.926,179790
+Commodity_1,2020-01-22,Natural_Gas,1.905,240000
+Commodity_1,2020-01-21,Natural_Gas,1.895,255720
+Commodity_1,2020-01-17,Natural_Gas,2.003,213280
+Commodity_1,2020-01-16,Natural_Gas,2.077,206420
+Commodity_1,2020-01-15,Natural_Gas,2.12,218920
+Commodity_1,2020-01-14,Natural_Gas,2.187,281850
+Commodity_1,2020-01-13,Natural_Gas,2.182,232950
+Commodity_1,2020-01-10,Natural_Gas,2.202,282650
+Commodity_1,2020-01-09,Natural_Gas,2.166,230030
+Commodity_1,2020-01-08,Natural_Gas,2.141,242560
+Commodity_1,2020-01-07,Natural_Gas,2.162,163010
+Commodity_1,2020-01-06,Natural_Gas,2.135,154680
+Commodity_1,2020-01-03,Natural_Gas,2.13,144670
+Commodity_1,2020-01-02,Natural_Gas,2.122,164570
+Commodity_2,2024-02-02,Crude_Oil,72.28,
+Commodity_2,2024-02-01,Crude_Oil,73.82,577940
+Commodity_2,2024-01-31,Crude_Oil,75.85,344490
+Commodity_2,2024-01-30,Crude_Oil,77.82,347240
+Commodity_2,2024-01-29,Crude_Oil,76.78,331930
+Commodity_2,2024-01-26,Crude_Oil,78.01,365460
+Commodity_2,2024-01-25,Crude_Oil,77.36,320180
+Commodity_2,2024-01-24,Crude_Oil,75.09,323730
+Commodity_2,2024-01-23,Crude_Oil,74.37,306060
+Commodity_2,2024-01-22,Crude_Oil,75.19,28910
+Commodity_2,2024-01-19,Crude_Oil,73.41,78230
+Commodity_2,2024-01-18,Crude_Oil,74.08,86650
+Commodity_2,2024-01-17,Crude_Oil,72.56,315680
+Commodity_2,2024-01-16,Crude_Oil,72.4,430440
+Commodity_2,2024-01-12,Crude_Oil,72.68,403640
+Commodity_2,2024-01-11,Crude_Oil,72.02,373650
+Commodity_2,2024-01-10,Crude_Oil,71.37,352770
+Commodity_2,2024-01-09,Crude_Oil,72.24,363450
+Commodity_2,2024-01-08,Crude_Oil,70.77,392250
+Commodity_2,2024-01-05,Crude_Oil,73.81,325530
+Commodity_2,2024-01-04,Crude_Oil,72.19,344470
+Commodity_2,2024-01-03,Crude_Oil,72.7,334860
+Commodity_2,2024-01-02,Crude_Oil,70.38,330990
+Commodity_2,2023-12-29,Crude_Oil,71.65,214490
+Commodity_2,2023-12-28,Crude_Oil,71.77,262750
+Commodity_2,2023-12-27,Crude_Oil,74.11,253320
+Commodity_2,2023-12-26,Crude_Oil,75.57,208720
+Commodity_2,2023-12-22,Crude_Oil,73.56,222600
+Commodity_2,2023-12-21,Crude_Oil,73.89,251980
+Commodity_2,2023-12-20,Crude_Oil,74.22,273360
+Commodity_2,2023-12-19,Crude_Oil,73.44,25690
+Commodity_2,2023-12-18,Crude_Oil,72.47,73940
+Commodity_2,2023-12-15,Crude_Oil,71.43,95510
+Commodity_2,2023-12-14,Crude_Oil,71.58,275690
+Commodity_2,2023-12-13,Crude_Oil,69.47,307000
+Commodity_2,2023-12-12,Crude_Oil,68.61,324530
+Commodity_2,2023-12-11,Crude_Oil,71.32,274410
+Commodity_2,2023-12-08,Crude_Oil,71.23,302250
+Commodity_2,2023-12-07,Crude_Oil,69.34,339000
+Commodity_2,2023-12-06,Crude_Oil,69.38,436800
+Commodity_2,2023-12-05,Crude_Oil,72.32,358700
+Commodity_2,2023-12-04,Crude_Oil,73.04,388830
+Commodity_2,2023-12-01,Crude_Oil,74.07,358980
+Commodity_2,2023-11-30,Crude_Oil,75.96,559170
+Commodity_2,2023-11-29,Crude_Oil,77.86,322170
+Commodity_2,2023-11-28,Crude_Oil,76.41,286620
+Commodity_2,2023-11-27,Crude_Oil,74.86,289560
+Commodity_2,2023-11-24,Crude_Oil,75.54,281150
+Commodity_2,2023-11-22,Crude_Oil,77.1,389330
+Commodity_2,2023-11-21,Crude_Oil,77.77,238630
+Commodity_2,2023-11-20,Crude_Oil,77.6,27250
+Commodity_2,2023-11-17,Crude_Oil,75.89,101480
+Commodity_2,2023-11-16,Crude_Oil,72.9,125170
+Commodity_2,2023-11-15,Crude_Oil,76.66,282300
+Commodity_2,2023-11-14,Crude_Oil,78.26,263000
+Commodity_2,2023-11-13,Crude_Oil,78.26,262900
+Commodity_2,2023-11-10,Crude_Oil,77.17,267000
+Commodity_2,2023-11-09,Crude_Oil,75.74,303430
+Commodity_2,2023-11-08,Crude_Oil,75.33,429650
+Commodity_2,2023-11-07,Crude_Oil,77.37,396290
+Commodity_2,2023-11-06,Crude_Oil,80.82,271130
+Commodity_2,2023-11-03,Crude_Oil,80.51,457280
+Commodity_2,2023-11-02,Crude_Oil,82.46,307120
+Commodity_2,2023-11-01,Crude_Oil,80.44,321590
+Commodity_2,2023-10-31,Crude_Oil,81.02,346010
+Commodity_2,2023-10-30,Crude_Oil,82.31,356930
+Commodity_2,2023-10-27,Crude_Oil,85.54,333760
+Commodity_2,2023-10-26,Crude_Oil,83.21,341790
+Commodity_2,2023-10-25,Crude_Oil,85.39,429460
+Commodity_2,2023-10-24,Crude_Oil,83.74,370590
+Commodity_2,2023-10-23,Crude_Oil,85.49,315520
+Commodity_2,2023-10-20,Crude_Oil,88.75,27310
+Commodity_2,2023-10-19,Crude_Oil,89.37,72060
+Commodity_2,2023-10-18,Crude_Oil,88.32,92800
+Commodity_2,2023-10-17,Crude_Oil,86.66,197120
+Commodity_2,2023-10-16,Crude_Oil,86.66,235780
+Commodity_2,2023-10-13,Crude_Oil,87.69,356860
+Commodity_2,2023-10-12,Crude_Oil,82.91,373490
+Commodity_2,2023-10-11,Crude_Oil,83.49,425400
+Commodity_2,2023-10-10,Crude_Oil,85.97,337650
+Commodity_2,2023-10-09,Crude_Oil,86.38,435040
+Commodity_2,2023-10-06,Crude_Oil,82.79,461140
+Commodity_2,2023-10-05,Crude_Oil,82.31,466000
+Commodity_2,2023-10-04,Crude_Oil,84.22,460000
+Commodity_2,2023-10-03,Crude_Oil,89.23,350660
+Commodity_2,2023-10-02,Crude_Oil,88.82,334490
+Commodity_2,2023-09-29,Crude_Oil,90.79,355780
+Commodity_2,2023-09-28,Crude_Oil,91.71,406710
+Commodity_2,2023-09-27,Crude_Oil,93.68,504630
+Commodity_2,2023-09-26,Crude_Oil,90.39,318020
+Commodity_2,2023-09-25,Crude_Oil,89.68,328370
+Commodity_2,2023-09-22,Crude_Oil,90.03,402090
+Commodity_2,2023-09-21,Crude_Oil,89.63,351030
+Commodity_2,2023-09-20,Crude_Oil,90.28,35990
+Commodity_2,2023-09-19,Crude_Oil,91.2,94600
+Commodity_2,2023-09-18,Crude_Oil,91.48,119260
+Commodity_2,2023-09-15,Crude_Oil,90.77,315000
+Commodity_2,2023-09-14,Crude_Oil,90.16,325270
+Commodity_2,2023-09-13,Crude_Oil,88.52,345970
+Commodity_2,2023-09-12,Crude_Oil,88.84,341140
+Commodity_2,2023-09-11,Crude_Oil,87.29,292390
+Commodity_2,2023-09-08,Crude_Oil,87.51,294440
+Commodity_2,2023-09-07,Crude_Oil,86.87,270740
+Commodity_2,2023-09-06,Crude_Oil,87.54,307120
+Commodity_2,2023-09-05,Crude_Oil,86.69,452910
+Commodity_2,2023-09-01,Crude_Oil,85.55,420460
+Commodity_2,2023-08-31,Crude_Oil,83.63,368850
+Commodity_2,2023-08-30,Crude_Oil,81.63,299420
+Commodity_2,2023-08-29,Crude_Oil,81.16,284170
+Commodity_2,2023-08-28,Crude_Oil,80.1,246580
+Commodity_2,2023-08-25,Crude_Oil,79.83,411410
+Commodity_2,2023-08-24,Crude_Oil,79.05,349230
+Commodity_2,2023-08-23,Crude_Oil,78.89,378150
+Commodity_2,2023-08-22,Crude_Oil,80.35,21690
+Commodity_2,2023-08-21,Crude_Oil,80.72,115870
+Commodity_2,2023-08-18,Crude_Oil,81.25,128090
+Commodity_2,2023-08-17,Crude_Oil,80.39,235580
+Commodity_2,2023-08-16,Crude_Oil,79.38,325400
+Commodity_2,2023-08-15,Crude_Oil,80.99,303210
+Commodity_2,2023-08-14,Crude_Oil,82.51,277350
+Commodity_2,2023-08-11,Crude_Oil,83.19,331250
+Commodity_2,2023-08-10,Crude_Oil,82.82,362190
+Commodity_2,2023-08-09,Crude_Oil,84.4,478140
+Commodity_2,2023-08-08,Crude_Oil,82.92,424550
+Commodity_2,2023-08-07,Crude_Oil,81.94,293040
+Commodity_2,2023-08-04,Crude_Oil,82.82,320870
+Commodity_2,2023-08-03,Crude_Oil,81.55,402640
+Commodity_2,2023-08-02,Crude_Oil,79.49,414830
+Commodity_2,2023-08-01,Crude_Oil,81.37,307860
+Commodity_2,2023-07-31,Crude_Oil,81.8,297270
+Commodity_2,2023-07-28,Crude_Oil,80.58,299550
+Commodity_2,2023-07-27,Crude_Oil,80.09,374360
+Commodity_2,2023-07-26,Crude_Oil,78.78,322030
+Commodity_2,2023-07-25,Crude_Oil,79.63,349600
+Commodity_2,2023-07-24,Crude_Oil,78.74,368290
+Commodity_2,2023-07-21,Crude_Oil,77.07,308110
+Commodity_2,2023-07-20,Crude_Oil,75.63,23710
+Commodity_2,2023-07-19,Crude_Oil,75.35,92920
+Commodity_2,2023-07-18,Crude_Oil,75.75,125090
+Commodity_2,2023-07-17,Crude_Oil,74.15,244790
+Commodity_2,2023-07-14,Crude_Oil,75.42,299580
+Commodity_2,2023-07-13,Crude_Oil,76.89,379730
+Commodity_2,2023-07-12,Crude_Oil,75.75,352890
+Commodity_2,2023-07-11,Crude_Oil,74.83,326880
+Commodity_2,2023-07-10,Crude_Oil,72.99,301010
+Commodity_2,2023-07-07,Crude_Oil,73.86,362630
+Commodity_2,2023-07-06,Crude_Oil,71.8,395380
+Commodity_2,2023-07-05,Crude_Oil,71.79,456810
+Commodity_2,2023-07-03,Crude_Oil,69.79,303480
+Commodity_2,2023-06-30,Crude_Oil,70.64,299870
+Commodity_2,2023-06-29,Crude_Oil,69.86,292870
+Commodity_2,2023-06-28,Crude_Oil,69.56,368300
+Commodity_2,2023-06-27,Crude_Oil,67.7,384750
+Commodity_2,2023-06-26,Crude_Oil,69.37,280120
+Commodity_2,2023-06-23,Crude_Oil,69.16,322480
+Commodity_2,2023-06-22,Crude_Oil,69.51,421350
+Commodity_2,2023-06-21,Crude_Oil,72.53,264660
+Commodity_2,2023-06-20,Crude_Oil,70.5,28740
+Commodity_2,2023-06-16,Crude_Oil,71.78,99190
+Commodity_2,2023-06-15,Crude_Oil,70.62,115610
+Commodity_2,2023-06-14,Crude_Oil,68.27,304450
+Commodity_2,2023-06-13,Crude_Oil,69.42,366350
+Commodity_2,2023-06-12,Crude_Oil,67.12,404770
+Commodity_2,2023-06-09,Crude_Oil,70.17,300720
+Commodity_2,2023-06-08,Crude_Oil,71.29,485400
+Commodity_2,2023-06-07,Crude_Oil,72.53,299130
+Commodity_2,2023-06-06,Crude_Oil,71.74,314960
+Commodity_2,2023-06-05,Crude_Oil,72.15,383940
+Commodity_2,2023-06-02,Crude_Oil,71.74,322600
+Commodity_2,2023-06-01,Crude_Oil,70.1,395390
+Commodity_2,2023-05-31,Crude_Oil,68.09,444790
+Commodity_2,2023-05-30,Crude_Oil,69.46,440860
+Commodity_2,2023-05-26,Crude_Oil,72.67,261500
+Commodity_2,2023-05-25,Crude_Oil,71.83,422640
+Commodity_2,2023-05-24,Crude_Oil,74.34,386610
+Commodity_2,2023-05-23,Crude_Oil,72.91,317590
+Commodity_2,2023-05-22,Crude_Oil,71.99,18680
+Commodity_2,2023-05-19,Crude_Oil,71.55,69950
+Commodity_2,2023-05-18,Crude_Oil,71.86,80860
+Commodity_2,2023-05-17,Crude_Oil,72.83,273710
+Commodity_2,2023-05-16,Crude_Oil,70.86,232330
+Commodity_2,2023-05-15,Crude_Oil,71.11,259010
+Commodity_2,2023-05-12,Crude_Oil,70.04,275440
+Commodity_2,2023-05-11,Crude_Oil,70.87,365890
+Commodity_2,2023-05-10,Crude_Oil,72.56,351510
+Commodity_2,2023-05-09,Crude_Oil,73.71,317490
+Commodity_2,2023-05-08,Crude_Oil,73.16,290080
+Commodity_2,2023-05-05,Crude_Oil,71.34,330590
+Commodity_2,2023-05-04,Crude_Oil,68.56,412500
+Commodity_2,2023-05-03,Crude_Oil,68.6,490520
+Commodity_2,2023-05-02,Crude_Oil,71.66,417820
+Commodity_2,2023-05-01,Crude_Oil,75.66,215020
+Commodity_2,2023-04-28,Crude_Oil,76.78,328400
+Commodity_2,2023-04-27,Crude_Oil,74.76,345880
+Commodity_2,2023-04-26,Crude_Oil,74.3,497780
+Commodity_2,2023-04-25,Crude_Oil,77.07,361650
+Commodity_2,2023-04-24,Crude_Oil,78.76,306720
+Commodity_2,2023-04-21,Crude_Oil,77.87,291110
+Commodity_2,2023-04-20,Crude_Oil,77.29,24990
+Commodity_2,2023-04-19,Crude_Oil,79.16,78310
+Commodity_2,2023-04-18,Crude_Oil,80.86,96290
+Commodity_2,2023-04-17,Crude_Oil,80.83,217050
+Commodity_2,2023-04-14,Crude_Oil,82.52,275130
+Commodity_2,2023-04-13,Crude_Oil,82.16,261230
+Commodity_2,2023-04-12,Crude_Oil,83.26,356130
+Commodity_2,2023-04-11,Crude_Oil,81.53,309680
+Commodity_2,2023-04-10,Crude_Oil,79.74,264910
+Commodity_2,2023-04-06,Crude_Oil,80.7,259520
+Commodity_2,2023-04-05,Crude_Oil,80.61,254970
+Commodity_2,2023-04-04,Crude_Oil,80.71,343570
+Commodity_2,2023-04-03,Crude_Oil,80.42,547130
+Commodity_2,2023-03-31,Crude_Oil,75.67,304360
+Commodity_2,2023-03-30,Crude_Oil,74.37,269740
+Commodity_2,2023-03-29,Crude_Oil,72.97,312670
+Commodity_2,2023-03-28,Crude_Oil,73.2,328470
+Commodity_2,2023-03-27,Crude_Oil,72.81,353600
+Commodity_2,2023-03-24,Crude_Oil,69.26,380850
+Commodity_2,2023-03-23,Crude_Oil,69.96,335240
+Commodity_2,2023-03-22,Crude_Oil,70.9,337640
+Commodity_2,2023-03-21,Crude_Oil,69.33,26350
+Commodity_2,2023-03-20,Crude_Oil,67.64,76870
+Commodity_2,2023-03-17,Crude_Oil,66.74,152260
+Commodity_2,2023-03-16,Crude_Oil,68.35,327120
+Commodity_2,2023-03-15,Crude_Oil,67.61,555160
+Commodity_2,2023-03-14,Crude_Oil,71.33,432860
+Commodity_2,2023-03-13,Crude_Oil,74.8,457420
+Commodity_2,2023-03-10,Crude_Oil,76.68,371830
+Commodity_2,2023-03-09,Crude_Oil,75.72,349960
+Commodity_2,2023-03-08,Crude_Oil,76.66,335930
+Commodity_2,2023-03-07,Crude_Oil,77.58,398240
+Commodity_2,2023-03-06,Crude_Oil,80.46,292350
+Commodity_2,2023-03-03,Crude_Oil,79.68,374200
+Commodity_2,2023-03-02,Crude_Oil,78.16,260330
+Commodity_2,2023-03-01,Crude_Oil,77.69,342120
+Commodity_2,2023-02-28,Crude_Oil,77.05,300090
+Commodity_2,2023-02-27,Crude_Oil,75.68,266090
+Commodity_2,2023-02-24,Crude_Oil,76.32,313040
+Commodity_2,2023-02-23,Crude_Oil,75.39,333840
+Commodity_2,2023-02-22,Crude_Oil,73.95,332020
+Commodity_2,2023-02-21,Crude_Oil,76.16,35480
+Commodity_2,2023-02-17,Crude_Oil,76.34,93270
+Commodity_2,2023-02-16,Crude_Oil,78.49,117600
+Commodity_2,2023-02-15,Crude_Oil,78.59,264490
+Commodity_2,2023-02-14,Crude_Oil,79.06,299940
+Commodity_2,2023-02-13,Crude_Oil,80.14,301300
+Commodity_2,2023-02-10,Crude_Oil,79.72,356060
+Commodity_2,2023-02-09,Crude_Oil,78.06,324160
+Commodity_2,2023-02-08,Crude_Oil,78.47,353470
+Commodity_2,2023-02-07,Crude_Oil,77.14,408280
+Commodity_2,2023-02-06,Crude_Oil,74.11,380030
+Commodity_2,2023-02-03,Crude_Oil,73.39,413410
+Commodity_2,2023-02-02,Crude_Oil,75.88,339760
+Commodity_2,2023-02-01,Crude_Oil,76.41,360860
+Commodity_2,2023-01-31,Crude_Oil,78.87,312730
+Commodity_2,2023-01-30,Crude_Oil,77.9,327430
+Commodity_2,2023-01-27,Crude_Oil,79.68,367590
+Commodity_2,2023-01-26,Crude_Oil,81.01,291060
+Commodity_2,2023-01-25,Crude_Oil,80.15,297230
+Commodity_2,2023-01-24,Crude_Oil,80.13,288210
+Commodity_2,2023-01-23,Crude_Oil,81.62,297080
+Commodity_2,2023-01-20,Crude_Oil,81.64,300150
+Commodity_2,2023-01-19,Crude_Oil,80.61,321130
+Commodity_2,2023-01-18,Crude_Oil,79.8,326230
+Commodity_2,2023-01-17,Crude_Oil,80.45,267910
+Commodity_2,2023-01-13,Crude_Oil,80.11,189320
+Commodity_2,2023-01-12,Crude_Oil,78.65,188060
+Commodity_2,2023-01-11,Crude_Oil,77.68,179830
+Commodity_2,2023-01-10,Crude_Oil,75.37,164980
+Commodity_2,2023-01-09,Crude_Oil,74.92,154200
+Commodity_2,2023-01-06,Crude_Oil,74.04,95220
+Commodity_2,2023-01-05,Crude_Oil,73.92,112450
+Commodity_2,2023-01-04,Crude_Oil,73.1,149770
+Commodity_2,2023-01-03,Crude_Oil,77.12,139840
+Commodity_2,2022-12-30,Crude_Oil,80.47,
+Commodity_2,2022-12-29,Crude_Oil,78.61,
+Commodity_2,2022-12-28,Crude_Oil,78.6,
+Commodity_2,2022-12-27,Crude_Oil,79.77,
+Commodity_2,2022-12-23,Crude_Oil,79.34,
+Commodity_2,2022-12-22,Crude_Oil,78.45,
+Commodity_2,2022-12-21,Crude_Oil,78.24,
+Commodity_2,2022-12-20,Crude_Oil,76.23,
+Commodity_2,2022-12-19,Crude_Oil,75.89,
+Commodity_2,2022-12-16,Crude_Oil,74.45,
+Commodity_2,2022-12-15,Crude_Oil,76.25,
+Commodity_2,2022-12-14,Crude_Oil,77.27,
+Commodity_2,2022-12-13,Crude_Oil,75.19,
+Commodity_2,2022-12-12,Crude_Oil,73.44,
+Commodity_2,2022-12-09,Crude_Oil,71.5,
+Commodity_2,2022-12-08,Crude_Oil,72.06,
+Commodity_2,2022-12-07,Crude_Oil,72.58,
+Commodity_2,2022-12-06,Crude_Oil,74.47,
+Commodity_2,2022-12-05,Crude_Oil,77.4,
+Commodity_2,2022-12-02,Crude_Oil,80.3,
+Commodity_2,2022-12-01,Crude_Oil,81.33,
+Commodity_2,2022-11-30,Crude_Oil,80.56,
+Commodity_2,2022-11-29,Crude_Oil,78.2,381870
+Commodity_2,2022-11-28,Crude_Oil,77.24,405030
+Commodity_2,2022-11-25,Crude_Oil,76.28,266450
+Commodity_2,2022-11-23,Crude_Oil,77.94,379150
+Commodity_2,2022-11-22,Crude_Oil,80.95,269620
+Commodity_2,2022-11-21,Crude_Oil,79.73,21980
+Commodity_2,2022-11-18,Crude_Oil,80.08,96580
+Commodity_2,2022-11-17,Crude_Oil,81.64,138480
+Commodity_2,2022-11-16,Crude_Oil,85.59,225670
+Commodity_2,2022-11-15,Crude_Oil,86.92,331710
+Commodity_2,2022-11-14,Crude_Oil,85.87,315450
+Commodity_2,2022-11-11,Crude_Oil,88.96,301660
+Commodity_2,2022-11-10,Crude_Oil,86.47,340010
+Commodity_2,2022-11-09,Crude_Oil,85.83,388300
+Commodity_2,2022-11-08,Crude_Oil,88.91,344220
+Commodity_2,2022-11-07,Crude_Oil,91.79,322420
+Commodity_2,2022-11-04,Crude_Oil,92.61,354060
+Commodity_2,2022-11-03,Crude_Oil,88.17,239820
+Commodity_2,2022-11-02,Crude_Oil,90,280960
+Commodity_2,2022-11-01,Crude_Oil,88.37,274320
+Commodity_2,2022-10-31,Crude_Oil,86.53,285340
+Commodity_2,2022-10-28,Crude_Oil,87.9,263400
+Commodity_2,2022-10-27,Crude_Oil,89.08,292560
+Commodity_2,2022-10-26,Crude_Oil,87.91,287180
+Commodity_2,2022-10-25,Crude_Oil,85.32,240440
+Commodity_2,2022-10-24,Crude_Oil,84.58,250730
+Commodity_2,2022-10-21,Crude_Oil,85.05,272800
+Commodity_2,2022-10-20,Crude_Oil,85.98,18180
+Commodity_2,2022-10-19,Crude_Oil,85.55,71310
+Commodity_2,2022-10-18,Crude_Oil,82.82,97300
+Commodity_2,2022-10-17,Crude_Oil,85.46,172020
+Commodity_2,2022-10-14,Crude_Oil,85.61,237030
+Commodity_2,2022-10-13,Crude_Oil,89.11,298030
+Commodity_2,2022-10-12,Crude_Oil,87.27,332270
+Commodity_2,2022-10-11,Crude_Oil,89.35,333160
+Commodity_2,2022-10-10,Crude_Oil,91.13,289510
+Commodity_2,2022-10-07,Crude_Oil,92.64,429160
+Commodity_2,2022-10-06,Crude_Oil,88.45,235300
+Commodity_2,2022-10-05,Crude_Oil,87.76,329790
+Commodity_2,2022-10-04,Crude_Oil,86.52,302550
+Commodity_2,2022-10-03,Crude_Oil,83.63,287170
+Commodity_2,2022-09-30,Crude_Oil,79.49,253150
+Commodity_2,2022-09-29,Crude_Oil,81.23,286130
+Commodity_2,2022-09-28,Crude_Oil,82.15,324680
+Commodity_2,2022-09-27,Crude_Oil,78.5,283610
+Commodity_2,2022-09-26,Crude_Oil,76.71,280930
+Commodity_2,2022-09-23,Crude_Oil,78.74,334270
+Commodity_2,2022-09-22,Crude_Oil,83.49,303490
+Commodity_2,2022-09-21,Crude_Oil,82.94,339680
+Commodity_2,2022-09-20,Crude_Oil,84.45,26230
+Commodity_2,2022-09-19,Crude_Oil,85.73,59630
+Commodity_2,2022-09-16,Crude_Oil,85.11,87830
+Commodity_2,2022-09-15,Crude_Oil,85.1,235360
+Commodity_2,2022-09-14,Crude_Oil,88.48,335380
+Commodity_2,2022-09-13,Crude_Oil,87.31,348000
+Commodity_2,2022-09-12,Crude_Oil,87.78,275100
+Commodity_2,2022-09-09,Crude_Oil,86.79,305190
+Commodity_2,2022-09-08,Crude_Oil,83.54,342760
+Commodity_2,2022-09-07,Crude_Oil,81.94,380780
+Commodity_2,2022-09-02,Crude_Oil,86.87,277530
+Commodity_2,2022-09-01,Crude_Oil,86.61,305110
+Commodity_2,2022-08-31,Crude_Oil,89.55,344150
+Commodity_2,2022-08-30,Crude_Oil,91.64,386270
+Commodity_2,2022-08-29,Crude_Oil,97.01,283460
+Commodity_2,2022-08-26,Crude_Oil,93.06,288390
+Commodity_2,2022-08-25,Crude_Oil,92.52,279880
+Commodity_2,2022-08-24,Crude_Oil,94.89,320390
+Commodity_2,2022-08-23,Crude_Oil,93.74,285610
+Commodity_2,2022-08-22,Crude_Oil,90.23,24870
+Commodity_2,2022-08-19,Crude_Oil,90.77,58710
+Commodity_2,2022-08-18,Crude_Oil,90.5,80030
+Commodity_2,2022-08-17,Crude_Oil,88.11,230350
+Commodity_2,2022-08-16,Crude_Oil,86.53,305370
+Commodity_2,2022-08-15,Crude_Oil,89.41,275440
+Commodity_2,2022-08-12,Crude_Oil,92.09,264950
+Commodity_2,2022-08-11,Crude_Oil,94.34,341230
+Commodity_2,2022-08-10,Crude_Oil,91.93,383770
+Commodity_2,2022-08-09,Crude_Oil,90.5,347050
+Commodity_2,2022-08-08,Crude_Oil,90.76,340160
+Commodity_2,2022-08-05,Crude_Oil,89.01,350020
+Commodity_2,2022-08-04,Crude_Oil,88.54,334930
+Commodity_2,2022-08-03,Crude_Oil,90.66,395100
+Commodity_2,2022-08-02,Crude_Oil,94.42,328540
+Commodity_2,2022-08-01,Crude_Oil,93.89,365290
+Commodity_2,2022-07-29,Crude_Oil,98.62,349370
+Commodity_2,2022-07-28,Crude_Oil,96.42,318400
+Commodity_2,2022-07-27,Crude_Oil,97.26,321900
+Commodity_2,2022-07-26,Crude_Oil,94.98,310040
+Commodity_2,2022-07-25,Crude_Oil,96.7,279000
+Commodity_2,2022-07-22,Crude_Oil,94.7,307570
+Commodity_2,2022-07-21,Crude_Oil,96.35,318910
+Commodity_2,2022-07-20,Crude_Oil,102.26,28960
+Commodity_2,2022-07-19,Crude_Oil,104.22,63150
+Commodity_2,2022-07-18,Crude_Oil,102.6,84670
+Commodity_2,2022-07-15,Crude_Oil,97.59,240770
+Commodity_2,2022-07-14,Crude_Oil,95.78,387530
+Commodity_2,2022-07-13,Crude_Oil,96.3,347190
+Commodity_2,2022-07-12,Crude_Oil,95.84,398550
+Commodity_2,2022-07-11,Crude_Oil,104.09,348570
+Commodity_2,2022-07-08,Crude_Oil,104.79,327460
+Commodity_2,2022-07-07,Crude_Oil,102.73,379860
+Commodity_2,2022-07-06,Crude_Oil,98.53,444110
+Commodity_2,2022-07-01,Crude_Oil,108.43,305340
+Commodity_2,2022-06-30,Crude_Oil,105.76,362890
+Commodity_2,2022-06-29,Crude_Oil,109.78,322060
+Commodity_2,2022-06-28,Crude_Oil,111.76,306750
+Commodity_2,2022-06-27,Crude_Oil,109.57,282910
+Commodity_2,2022-06-24,Crude_Oil,107.62,321590
+Commodity_2,2022-06-23,Crude_Oil,104.27,346360
+Commodity_2,2022-06-22,Crude_Oil,106.19,432720
+Commodity_2,2022-06-17,Crude_Oil,109.56,103150
+Commodity_2,2022-06-16,Crude_Oil,117.59,162540
+Commodity_2,2022-06-15,Crude_Oil,115.31,301750
+Commodity_2,2022-06-14,Crude_Oil,118.93,366320
+Commodity_2,2022-06-13,Crude_Oil,120.93,372400
+Commodity_2,2022-06-10,Crude_Oil,120.67,352910
+Commodity_2,2022-06-09,Crude_Oil,121.51,293300
+Commodity_2,2022-06-08,Crude_Oil,122.11,340590
+Commodity_2,2022-06-07,Crude_Oil,119.41,341690
+Commodity_2,2022-06-06,Crude_Oil,118.5,246830
+Commodity_2,2022-06-03,Crude_Oil,118.87,240830
+Commodity_2,2022-06-02,Crude_Oil,116.87,327600
+Commodity_2,2022-06-01,Crude_Oil,115.26,290530
+Commodity_2,2022-05-27,Crude_Oil,115.07,217280
+Commodity_2,2022-05-26,Crude_Oil,114.09,234750
+Commodity_2,2022-05-25,Crude_Oil,110.33,191370
+Commodity_2,2022-05-24,Crude_Oil,109.77,224790
+Commodity_2,2022-05-23,Crude_Oil,110.29,215620
+Commodity_2,2022-05-20,Crude_Oil,113.23,20000
+Commodity_2,2022-05-19,Crude_Oil,112.21,68510
+Commodity_2,2022-05-18,Crude_Oil,109.59,103670
+Commodity_2,2022-05-17,Crude_Oil,112.4,252630
+Commodity_2,2022-05-16,Crude_Oil,114.2,289130
+Commodity_2,2022-05-13,Crude_Oil,110.49,240990
+Commodity_2,2022-05-12,Crude_Oil,106.13,323550
+Commodity_2,2022-05-11,Crude_Oil,105.71,382700
+Commodity_2,2022-05-10,Crude_Oil,99.76,389750
+Commodity_2,2022-05-09,Crude_Oil,103.09,368180
+Commodity_2,2022-05-06,Crude_Oil,109.77,294280
+Commodity_2,2022-05-05,Crude_Oil,108.26,286920
+Commodity_2,2022-05-04,Crude_Oil,107.81,272910
+Commodity_2,2022-05-03,Crude_Oil,102.41,239270
+Commodity_2,2022-05-02,Crude_Oil,105.17,261880
+Commodity_2,2022-04-29,Crude_Oil,104.69,294390
+Commodity_2,2022-04-28,Crude_Oil,105.36,312060
+Commodity_2,2022-04-27,Crude_Oil,102.02,278780
+Commodity_2,2022-04-26,Crude_Oil,101.7,351850
+Commodity_2,2022-04-25,Crude_Oil,98.54,328150
+Commodity_2,2022-04-22,Crude_Oil,102.07,246120
+Commodity_2,2022-04-21,Crude_Oil,103.79,280320
+Commodity_2,2022-04-20,Crude_Oil,102.75,17020
+Commodity_2,2022-04-19,Crude_Oil,102.56,71790
+Commodity_2,2022-04-18,Crude_Oil,108.21,68490
+Commodity_2,2022-04-14,Crude_Oil,106.95,244950
+Commodity_2,2022-04-13,Crude_Oil,104.25,312500
+Commodity_2,2022-04-12,Crude_Oil,100.6,329040
+Commodity_2,2022-04-11,Crude_Oil,94.29,315870
+Commodity_2,2022-04-08,Crude_Oil,98.26,310080
+Commodity_2,2022-04-07,Crude_Oil,96.03,367320
+Commodity_2,2022-04-06,Crude_Oil,96.23,366040
+Commodity_2,2022-04-05,Crude_Oil,101.96,280280
+Commodity_2,2022-04-04,Crude_Oil,103.28,288130
+Commodity_2,2022-04-01,Crude_Oil,99.27,324780
+Commodity_2,2022-03-31,Crude_Oil,100.28,450850
+Commodity_2,2022-03-30,Crude_Oil,107.82,284540
+Commodity_2,2022-03-29,Crude_Oil,104.24,387200
+Commodity_2,2022-03-28,Crude_Oil,105.96,372250
+Commodity_2,2022-03-25,Crude_Oil,113.9,320300
+Commodity_2,2022-03-24,Crude_Oil,112.34,307240
+Commodity_2,2022-03-23,Crude_Oil,114.93,289180
+Commodity_2,2022-03-22,Crude_Oil,111.76,22940
+Commodity_2,2022-03-21,Crude_Oil,112.12,77220
+Commodity_2,2022-03-18,Crude_Oil,104.7,74250
+Commodity_2,2022-03-17,Crude_Oil,102.98,210760
+Commodity_2,2022-03-16,Crude_Oil,95.04,293950
+Commodity_2,2022-03-15,Crude_Oil,96.44,401690
+Commodity_2,2022-03-14,Crude_Oil,103.01,344180
+Commodity_2,2022-03-11,Crude_Oil,109.33,368190
+Commodity_2,2022-03-10,Crude_Oil,106.02,437920
+Commodity_2,2022-03-09,Crude_Oil,108.7,594770
+Commodity_2,2022-03-08,Crude_Oil,123.7,583110
+Commodity_2,2022-03-07,Crude_Oil,119.4,576020
+Commodity_2,2022-03-04,Crude_Oil,115.68,493880
+Commodity_2,2022-03-03,Crude_Oil,107.67,592030
+Commodity_2,2022-03-02,Crude_Oil,110.6,651850
+Commodity_2,2022-03-01,Crude_Oil,103.41,698810
+Commodity_2,2022-02-28,Crude_Oil,95.72,490800
+Commodity_2,2022-02-25,Crude_Oil,91.59,523790
+Commodity_2,2022-02-24,Crude_Oil,92.81,872240
+Commodity_2,2022-02-23,Crude_Oil,92.1,440570
+Commodity_2,2022-02-18,Crude_Oil,91.07,150380
+Commodity_2,2022-02-17,Crude_Oil,91.76,212550
+Commodity_2,2022-02-16,Crude_Oil,93.66,401450
+Commodity_2,2022-02-15,Crude_Oil,92.07,442640
+Commodity_2,2022-02-14,Crude_Oil,95.46,467070
+Commodity_2,2022-02-11,Crude_Oil,93.1,554420
+Commodity_2,2022-02-10,Crude_Oil,89.88,492090
+Commodity_2,2022-02-09,Crude_Oil,89.66,445620
+Commodity_2,2022-02-08,Crude_Oil,89.36,467390
+Commodity_2,2022-02-07,Crude_Oil,91.32,497750
+Commodity_2,2022-02-04,Crude_Oil,92.31,410930
+Commodity_2,2022-02-03,Crude_Oil,90.27,465770
+Commodity_2,2022-02-02,Crude_Oil,88.26,456860
+Commodity_2,2022-02-01,Crude_Oil,88.2,376840
+Commodity_2,2022-01-31,Crude_Oil,88.15,359080
+Commodity_2,2022-01-28,Crude_Oil,86.82,436170
+Commodity_2,2022-01-27,Crude_Oil,86.61,427800
+Commodity_2,2022-01-26,Crude_Oil,87.35,459640
+Commodity_2,2022-01-25,Crude_Oil,85.6,507220
+Commodity_2,2022-01-24,Crude_Oil,83.31,511700
+Commodity_2,2022-01-21,Crude_Oil,85.14,509100
+Commodity_2,2022-01-20,Crude_Oil,86.9,30390
+Commodity_2,2022-01-19,Crude_Oil,86.96,113150
+Commodity_2,2022-01-14,Crude_Oil,83.82,364440
+Commodity_2,2022-01-13,Crude_Oil,82.12,364770
+Commodity_2,2022-01-12,Crude_Oil,82.64,420620
+Commodity_2,2022-01-11,Crude_Oil,81.22,481820
+Commodity_2,2022-01-10,Crude_Oil,78.23,389960
+Commodity_2,2022-01-07,Crude_Oil,78.9,414430
+Commodity_2,2022-01-06,Crude_Oil,79.46,476670
+Commodity_2,2022-01-05,Crude_Oil,77.85,397900
+Commodity_2,2022-01-04,Crude_Oil,76.99,372850
+Commodity_2,2022-01-03,Crude_Oil,76.08,317630
+Commodity_2,2021-12-31,Crude_Oil,75.21,237120
+Commodity_2,2021-12-30,Crude_Oil,76.99,231160
+Commodity_2,2021-12-29,Crude_Oil,76.56,283560
+Commodity_2,2021-12-28,Crude_Oil,75.98,249730
+Commodity_2,2021-12-27,Crude_Oil,75.57,268490
+Commodity_2,2021-12-23,Crude_Oil,73.79,270220
+Commodity_2,2021-12-22,Crude_Oil,72.76,306710
+Commodity_2,2021-12-21,Crude_Oil,71.12,358780
+Commodity_2,2021-12-20,Crude_Oil,68.23,36730
+Commodity_2,2021-12-17,Crude_Oil,70.86,78130
+Commodity_2,2021-12-16,Crude_Oil,72.38,142540
+Commodity_2,2021-12-15,Crude_Oil,70.87,294340
+Commodity_2,2021-12-14,Crude_Oil,70.73,359450
+Commodity_2,2021-12-13,Crude_Oil,71.29,406600
+Commodity_2,2021-12-10,Crude_Oil,71.67,397880
+Commodity_2,2021-12-09,Crude_Oil,70.94,393210
+Commodity_2,2021-12-08,Crude_Oil,72.36,464850
+Commodity_2,2021-12-07,Crude_Oil,72.05,496530
+Commodity_2,2021-12-06,Crude_Oil,69.49,401060
+Commodity_2,2021-12-03,Crude_Oil,66.26,449970
+Commodity_2,2021-12-02,Crude_Oil,66.5,668290
+Commodity_2,2021-12-01,Crude_Oil,65.57,602450
+Commodity_2,2021-11-30,Crude_Oil,66.18,722480
+Commodity_2,2021-11-29,Crude_Oil,69.95,675090
+Commodity_2,2021-11-24,Crude_Oil,78.39,328850
+Commodity_2,2021-11-23,Crude_Oil,78.5,506990
+Commodity_2,2021-11-22,Crude_Oil,76.75,465770
+Commodity_2,2021-11-19,Crude_Oil,76.1,30700
+Commodity_2,2021-11-18,Crude_Oil,79.01,83980
+Commodity_2,2021-11-17,Crude_Oil,78.36,174470
+Commodity_2,2021-11-16,Crude_Oil,80.76,325670
+Commodity_2,2021-11-15,Crude_Oil,80.88,343480
+Commodity_2,2021-11-12,Crude_Oil,80.79,390300
+Commodity_2,2021-11-11,Crude_Oil,81.59,475440
+Commodity_2,2021-11-10,Crude_Oil,81.34,555220
+Commodity_2,2021-11-09,Crude_Oil,84.15,504830
+Commodity_2,2021-11-08,Crude_Oil,81.93,393950
+Commodity_2,2021-11-05,Crude_Oil,81.27,531050
+Commodity_2,2021-11-04,Crude_Oil,78.81,701120
+Commodity_2,2021-11-03,Crude_Oil,80.86,546580
+Commodity_2,2021-11-02,Crude_Oil,83.91,429610
+Commodity_2,2021-11-01,Crude_Oil,84.05,412310
+Commodity_2,2021-10-29,Crude_Oil,83.57,507310
+Commodity_2,2021-10-28,Crude_Oil,82.81,491590
+Commodity_2,2021-10-27,Crude_Oil,82.66,529950
+Commodity_2,2021-10-26,Crude_Oil,84.65,467720
+Commodity_2,2021-10-25,Crude_Oil,83.76,568730
+Commodity_2,2021-10-22,Crude_Oil,83.76,465360
+Commodity_2,2021-10-21,Crude_Oil,82.5,567500
+Commodity_2,2021-10-20,Crude_Oil,83.87,25720
+Commodity_2,2021-10-19,Crude_Oil,82.96,82610
+Commodity_2,2021-10-18,Crude_Oil,82.44,134100
+Commodity_2,2021-10-15,Crude_Oil,82.28,277950
+Commodity_2,2021-10-14,Crude_Oil,81.31,399810
+Commodity_2,2021-10-13,Crude_Oil,80.44,487220
+Commodity_2,2021-10-12,Crude_Oil,80.64,598180
+Commodity_2,2021-10-11,Crude_Oil,80.52,653760
+Commodity_2,2021-10-08,Crude_Oil,79.35,662010
+Commodity_2,2021-10-07,Crude_Oil,78.3,545010
+Commodity_2,2021-10-06,Crude_Oil,77.43,459060
+Commodity_2,2021-10-05,Crude_Oil,78.93,449620
+Commodity_2,2021-10-04,Crude_Oil,77.62,458010
+Commodity_2,2021-10-01,Crude_Oil,75.88,389000
+Commodity_2,2021-09-30,Crude_Oil,75.03,583190
+Commodity_2,2021-09-29,Crude_Oil,74.83,424190
+Commodity_2,2021-09-28,Crude_Oil,75.29,476140
+Commodity_2,2021-09-27,Crude_Oil,75.45,417830
+Commodity_2,2021-09-24,Crude_Oil,73.98,350380
+Commodity_2,2021-09-23,Crude_Oil,73.3,403410
+Commodity_2,2021-09-22,Crude_Oil,72.23,381060
+Commodity_2,2021-09-21,Crude_Oil,70.56,37610
+Commodity_2,2021-09-20,Crude_Oil,70.29,75840
+Commodity_2,2021-09-17,Crude_Oil,71.97,119930
+Commodity_2,2021-09-16,Crude_Oil,72.61,298410
+Commodity_2,2021-09-15,Crude_Oil,72.61,418670
+Commodity_2,2021-09-14,Crude_Oil,70.46,414230
+Commodity_2,2021-09-13,Crude_Oil,70.45,390940
+Commodity_2,2021-09-10,Crude_Oil,69.72,411080
+Commodity_2,2021-09-09,Crude_Oil,68.14,556450
+Commodity_2,2021-09-08,Crude_Oil,69.3,389330
+Commodity_2,2021-09-03,Crude_Oil,69.29,313090
+Commodity_2,2021-09-02,Crude_Oil,69.99,403310
+Commodity_2,2021-09-01,Crude_Oil,68.59,399500
+Commodity_2,2021-08-31,Crude_Oil,68.5,325850
+Commodity_2,2021-08-30,Crude_Oil,69.21,360800
+Commodity_2,2021-08-27,Crude_Oil,68.74,326060
+Commodity_2,2021-08-26,Crude_Oil,67.42,344290
+Commodity_2,2021-08-25,Crude_Oil,68.36,353740
+Commodity_2,2021-08-24,Crude_Oil,67.54,335890
+Commodity_2,2021-08-23,Crude_Oil,65.64,397290
+Commodity_2,2021-08-20,Crude_Oil,62.32,24630
+Commodity_2,2021-08-19,Crude_Oil,63.69,88240
+Commodity_2,2021-08-18,Crude_Oil,65.46,121200
+Commodity_2,2021-08-17,Crude_Oil,66.59,235300
+Commodity_2,2021-08-16,Crude_Oil,67.29,334840
+Commodity_2,2021-08-13,Crude_Oil,68.44,272030
+Commodity_2,2021-08-12,Crude_Oil,69.09,352470
+Commodity_2,2021-08-11,Crude_Oil,69.25,513290
+Commodity_2,2021-08-10,Crude_Oil,68.29,452130
+Commodity_2,2021-08-09,Crude_Oil,66.48,598380
+Commodity_2,2021-08-06,Crude_Oil,68.28,537140
+Commodity_2,2021-08-05,Crude_Oil,69.09,416330
+Commodity_2,2021-08-04,Crude_Oil,68.15,582920
+Commodity_2,2021-08-03,Crude_Oil,70.56,509940
+Commodity_2,2021-08-02,Crude_Oil,71.26,448200
+Commodity_2,2021-07-30,Crude_Oil,73.95,303700
+Commodity_2,2021-07-29,Crude_Oil,73.62,294460
+Commodity_2,2021-07-28,Crude_Oil,72.39,318910
+Commodity_2,2021-07-27,Crude_Oil,71.65,333120
+Commodity_2,2021-07-26,Crude_Oil,71.91,395740
+Commodity_2,2021-07-23,Crude_Oil,72.07,274780
+Commodity_2,2021-07-22,Crude_Oil,71.91,435180
+Commodity_2,2021-07-21,Crude_Oil,70.3,503030
+Commodity_2,2021-07-20,Crude_Oil,67.42,29740
+Commodity_2,2021-07-19,Crude_Oil,66.42,82570
+Commodity_2,2021-07-16,Crude_Oil,71.81,133930
+Commodity_2,2021-07-15,Crude_Oil,71.65,368680
+Commodity_2,2021-07-14,Crude_Oil,73.13,528360
+Commodity_2,2021-07-13,Crude_Oil,75.25,444080
+Commodity_2,2021-07-12,Crude_Oil,74.1,397930
+Commodity_2,2021-07-09,Crude_Oil,74.56,422150
+Commodity_2,2021-07-08,Crude_Oil,72.94,529690
+Commodity_2,2021-07-07,Crude_Oil,72.2,607970
+Commodity_2,2021-07-02,Crude_Oil,75.16,377530
+Commodity_2,2021-07-01,Crude_Oil,75.23,615680
+Commodity_2,2021-06-30,Crude_Oil,73.47,383630
+Commodity_2,2021-06-29,Crude_Oil,72.98,321450
+Commodity_2,2021-06-28,Crude_Oil,72.91,354700
+Commodity_2,2021-06-25,Crude_Oil,74.05,364720
+Commodity_2,2021-06-24,Crude_Oil,73.3,334830
+Commodity_2,2021-06-23,Crude_Oil,73.08,429210
+Commodity_2,2021-06-22,Crude_Oil,73.06,29000
+Commodity_2,2021-06-21,Crude_Oil,73.66,123660
+Commodity_2,2021-06-18,Crude_Oil,71.64,139580
+Commodity_2,2021-06-17,Crude_Oil,71.04,373780
+Commodity_2,2021-06-16,Crude_Oil,72.15,426780
+Commodity_2,2021-06-15,Crude_Oil,72.12,336040
+Commodity_2,2021-06-14,Crude_Oil,70.88,319640
+Commodity_2,2021-06-11,Crude_Oil,70.91,563580
+Commodity_2,2021-06-10,Crude_Oil,70.29,492460
+Commodity_2,2021-06-09,Crude_Oil,69.96,410820
+Commodity_2,2021-06-08,Crude_Oil,70.05,441300
+Commodity_2,2021-06-07,Crude_Oil,69.23,365620
+Commodity_2,2021-06-04,Crude_Oil,69.62,326250
+Commodity_2,2021-06-03,Crude_Oil,68.81,351370
+Commodity_2,2021-06-02,Crude_Oil,68.83,333000
+Commodity_2,2021-05-28,Crude_Oil,66.32,390460
+Commodity_2,2021-05-27,Crude_Oil,66.85,337540
+Commodity_2,2021-05-26,Crude_Oil,66.21,376210
+Commodity_2,2021-05-25,Crude_Oil,66.07,497390
+Commodity_2,2021-05-24,Crude_Oil,66.05,466650
+Commodity_2,2021-05-21,Crude_Oil,63.58,530830
+Commodity_2,2021-05-20,Crude_Oil,62.05,29620
+Commodity_2,2021-05-19,Crude_Oil,63.36,101900
+Commodity_2,2021-05-18,Crude_Oil,65.49,167350
+Commodity_2,2021-05-17,Crude_Oil,66.27,268480
+Commodity_2,2021-05-14,Crude_Oil,65.37,383750
+Commodity_2,2021-05-13,Crude_Oil,63.82,547690
+Commodity_2,2021-05-12,Crude_Oil,66.08,508520
+Commodity_2,2021-05-11,Crude_Oil,65.28,514950
+Commodity_2,2021-05-10,Crude_Oil,64.92,448340
+Commodity_2,2021-05-07,Crude_Oil,64.9,431420
+Commodity_2,2021-05-06,Crude_Oil,64.71,389210
+Commodity_2,2021-05-05,Crude_Oil,65.63,460070
+Commodity_2,2021-05-04,Crude_Oil,65.69,370210
+Commodity_2,2021-05-03,Crude_Oil,64.49,285970
+Commodity_2,2021-04-30,Crude_Oil,63.58,400520
+Commodity_2,2021-04-29,Crude_Oil,65.01,384490
+Commodity_2,2021-04-28,Crude_Oil,63.86,387680
+Commodity_2,2021-04-27,Crude_Oil,62.94,361540
+Commodity_2,2021-04-26,Crude_Oil,61.91,366870
+Commodity_2,2021-04-23,Crude_Oil,62.14,345410
+Commodity_2,2021-04-22,Crude_Oil,61.43,344700
+Commodity_2,2021-04-21,Crude_Oil,61.35,431490
+Commodity_2,2021-04-20,Crude_Oil,62.44,33040
+Commodity_2,2021-04-19,Crude_Oil,63.38,74380
+Commodity_2,2021-04-16,Crude_Oil,63.13,87800
+Commodity_2,2021-04-15,Crude_Oil,63.46,243370
+Commodity_2,2021-04-14,Crude_Oil,63.15,419810
+Commodity_2,2021-04-13,Crude_Oil,60.18,349730
+Commodity_2,2021-04-12,Crude_Oil,59.7,410220
+Commodity_2,2021-04-09,Crude_Oil,59.32,351440
+Commodity_2,2021-04-08,Crude_Oil,59.6,419910
+Commodity_2,2021-04-07,Crude_Oil,59.77,475540
+Commodity_2,2021-04-06,Crude_Oil,59.33,457350
+Commodity_2,2021-04-05,Crude_Oil,58.65,438860
+Commodity_2,2021-04-01,Crude_Oil,61.45,605570
+Commodity_2,2021-03-31,Crude_Oil,59.16,414160
+Commodity_2,2021-03-30,Crude_Oil,60.55,388190
+Commodity_2,2021-03-29,Crude_Oil,61.56,449360
+Commodity_2,2021-03-26,Crude_Oil,60.97,472000
+Commodity_2,2021-03-25,Crude_Oil,58.56,580110
+Commodity_2,2021-03-24,Crude_Oil,61.18,566290
+Commodity_2,2021-03-23,Crude_Oil,57.76,712320
+Commodity_2,2021-03-22,Crude_Oil,61.55,28260
+Commodity_2,2021-03-19,Crude_Oil,61.42,84170
+Commodity_2,2021-03-18,Crude_Oil,60,143600
+Commodity_2,2021-03-17,Crude_Oil,64.6,254720
+Commodity_2,2021-03-16,Crude_Oil,64.8,317540
+Commodity_2,2021-03-15,Crude_Oil,65.39,378010
+Commodity_2,2021-03-12,Crude_Oil,65.61,321710
+Commodity_2,2021-03-11,Crude_Oil,66.02,441060
+Commodity_2,2021-03-10,Crude_Oil,64.44,498490
+Commodity_2,2021-03-09,Crude_Oil,64.01,554560
+Commodity_2,2021-03-08,Crude_Oil,65.05,533380
+Commodity_2,2021-03-05,Crude_Oil,66.09,573170
+Commodity_2,2021-03-04,Crude_Oil,63.83,694630
+Commodity_2,2021-03-03,Crude_Oil,61.28,465310
+Commodity_2,2021-03-02,Crude_Oil,59.75,464130
+Commodity_2,2021-03-01,Crude_Oil,60.64,456680
+Commodity_2,2021-02-26,Crude_Oil,61.5,472720
+Commodity_2,2021-02-25,Crude_Oil,63.53,510360
+Commodity_2,2021-02-24,Crude_Oil,63.22,489930
+Commodity_2,2021-02-23,Crude_Oil,61.67,570680
+Commodity_2,2021-02-22,Crude_Oil,61.49,37040
+Commodity_2,2021-02-19,Crude_Oil,59.24,102430
+Commodity_2,2021-02-18,Crude_Oil,60.52,132040
+Commodity_2,2021-02-17,Crude_Oil,61.14,335420
+Commodity_2,2021-02-12,Crude_Oil,59.47,480820
+Commodity_2,2021-02-11,Crude_Oil,58.24,380450
+Commodity_2,2021-02-10,Crude_Oil,58.68,457540
+Commodity_2,2021-02-09,Crude_Oil,58.36,514700
+Commodity_2,2021-02-08,Crude_Oil,57.97,399720
+Commodity_2,2021-02-05,Crude_Oil,56.85,400830
+Commodity_2,2021-02-04,Crude_Oil,56.23,381400
+Commodity_2,2021-02-03,Crude_Oil,55.69,448690
+Commodity_2,2021-02-02,Crude_Oil,54.76,463720
+Commodity_2,2021-02-01,Crude_Oil,53.55,416070
+Commodity_2,2021-01-29,Crude_Oil,52.2,410910
+Commodity_2,2021-01-28,Crude_Oil,52.34,411410
+Commodity_2,2021-01-27,Crude_Oil,52.85,442380
+Commodity_2,2021-01-26,Crude_Oil,52.61,314540
+Commodity_2,2021-01-25,Crude_Oil,52.77,349080
+Commodity_2,2021-01-22,Crude_Oil,52.27,437480
+Commodity_2,2021-01-21,Crude_Oil,53.13,352400
+Commodity_2,2021-01-20,Crude_Oil,53.24,37840
+Commodity_2,2021-01-15,Crude_Oil,52.36,165670
+Commodity_2,2021-01-14,Crude_Oil,53.57,390090
+Commodity_2,2021-01-13,Crude_Oil,52.91,429900
+Commodity_2,2021-01-12,Crude_Oil,53.21,400200
+Commodity_2,2021-01-11,Crude_Oil,52.25,394820
+Commodity_2,2021-01-08,Crude_Oil,52.24,499420
+Commodity_2,2021-01-07,Crude_Oil,50.83,369290
+Commodity_2,2021-01-06,Crude_Oil,50.63,509370
+Commodity_2,2021-01-05,Crude_Oil,49.93,643190
+Commodity_2,2021-01-04,Crude_Oil,47.62,528530
+Commodity_2,2020-12-31,Crude_Oil,48.52,181890
+Commodity_2,2020-12-30,Crude_Oil,48.4,266960
+Commodity_2,2020-12-29,Crude_Oil,48,213780
+Commodity_2,2020-12-28,Crude_Oil,47.62,238460
+Commodity_2,2020-12-24,Crude_Oil,48.23,167390
+Commodity_2,2020-12-23,Crude_Oil,48.12,344310
+Commodity_2,2020-12-22,Crude_Oil,47.02,295740
+Commodity_2,2020-12-21,Crude_Oil,47.74,27960
+Commodity_2,2020-12-18,Crude_Oil,49.1,83710
+Commodity_2,2020-12-17,Crude_Oil,48.36,96540
+Commodity_2,2020-12-16,Crude_Oil,47.82,275330
+Commodity_2,2020-12-15,Crude_Oil,47.62,311170
+Commodity_2,2020-12-14,Crude_Oil,46.99,403540
+Commodity_2,2020-12-11,Crude_Oil,46.57,367310
+Commodity_2,2020-12-10,Crude_Oil,46.78,447530
+Commodity_2,2020-12-09,Crude_Oil,45.52,434980
+Commodity_2,2020-12-08,Crude_Oil,45.6,332640
+Commodity_2,2020-12-07,Crude_Oil,45.76,348870
+Commodity_2,2020-12-04,Crude_Oil,46.26,335450
+Commodity_2,2020-12-03,Crude_Oil,45.64,350770
+Commodity_2,2020-12-02,Crude_Oil,45.28,368850
+Commodity_2,2020-12-01,Crude_Oil,44.55,314920
+Commodity_2,2020-11-30,Crude_Oil,45.34,370760
+Commodity_2,2020-11-25,Crude_Oil,45.71,417180
+Commodity_2,2020-11-24,Crude_Oil,44.91,418530
+Commodity_2,2020-11-23,Crude_Oil,43.06,300720
+Commodity_2,2020-11-20,Crude_Oil,42.15,29780
+Commodity_2,2020-11-19,Crude_Oil,41.74,88140
+Commodity_2,2020-11-18,Crude_Oil,41.82,107010
+Commodity_2,2020-11-17,Crude_Oil,41.43,243680
+Commodity_2,2020-11-16,Crude_Oil,41.34,378790
+Commodity_2,2020-11-13,Crude_Oil,40.13,338190
+Commodity_2,2020-11-12,Crude_Oil,41.12,401030
+Commodity_2,2020-11-11,Crude_Oil,41.45,443770
+Commodity_2,2020-11-10,Crude_Oil,41.36,457050
+Commodity_2,2020-11-09,Crude_Oil,40.29,622920
+Commodity_2,2020-11-06,Crude_Oil,37.14,411030
+Commodity_2,2020-11-05,Crude_Oil,38.79,298370
+Commodity_2,2020-11-04,Crude_Oil,39.15,437000
+Commodity_2,2020-11-03,Crude_Oil,37.66,410610
+Commodity_2,2020-11-02,Crude_Oil,36.81,489200
+Commodity_2,2020-10-30,Crude_Oil,35.79,388970
+Commodity_2,2020-10-29,Crude_Oil,36.17,568820
+Commodity_2,2020-10-28,Crude_Oil,37.39,489950
+Commodity_2,2020-10-27,Crude_Oil,39.57,339540
+Commodity_2,2020-10-26,Crude_Oil,38.56,360180
+Commodity_2,2020-10-23,Crude_Oil,39.85,268930
+Commodity_2,2020-10-22,Crude_Oil,40.64,307490
+Commodity_2,2020-10-21,Crude_Oil,40.03,366900
+Commodity_2,2020-10-20,Crude_Oil,41.46,24520
+Commodity_2,2020-10-19,Crude_Oil,40.83,75340
+Commodity_2,2020-10-16,Crude_Oil,40.88,96490
+Commodity_2,2020-10-15,Crude_Oil,40.96,248250
+Commodity_2,2020-10-14,Crude_Oil,41.04,328300
+Commodity_2,2020-10-13,Crude_Oil,40.2,375470
+Commodity_2,2020-10-12,Crude_Oil,39.43,322040
+Commodity_2,2020-10-09,Crude_Oil,40.6,331700
+Commodity_2,2020-10-08,Crude_Oil,41.19,409790
+Commodity_2,2020-10-07,Crude_Oil,39.95,433070
+Commodity_2,2020-10-06,Crude_Oil,40.67,400530
+Commodity_2,2020-10-05,Crude_Oil,39.22,378580
+Commodity_2,2020-10-02,Crude_Oil,37.05,391430
+Commodity_2,2020-10-01,Crude_Oil,38.72,443440
+Commodity_2,2020-09-30,Crude_Oil,40.22,340290
+Commodity_2,2020-09-29,Crude_Oil,39.29,379600
+Commodity_2,2020-09-28,Crude_Oil,40.6,226430
+Commodity_2,2020-09-25,Crude_Oil,40.25,229030
+Commodity_2,2020-09-24,Crude_Oil,40.31,269990
+Commodity_2,2020-09-23,Crude_Oil,39.93,318750
+Commodity_2,2020-09-22,Crude_Oil,39.6,23220
+Commodity_2,2020-09-21,Crude_Oil,39.31,66200
+Commodity_2,2020-09-18,Crude_Oil,41.11,73760
+Commodity_2,2020-09-17,Crude_Oil,40.97,280670
+Commodity_2,2020-09-16,Crude_Oil,40.16,367610
+Commodity_2,2020-09-15,Crude_Oil,38.28,348860
+Commodity_2,2020-09-14,Crude_Oil,37.26,347560
+Commodity_2,2020-09-11,Crude_Oil,37.33,363790
+Commodity_2,2020-09-10,Crude_Oil,37.3,367560
+Commodity_2,2020-09-09,Crude_Oil,38.05,455360
+Commodity_2,2020-09-04,Crude_Oil,39.77,444180
+Commodity_2,2020-09-03,Crude_Oil,41.37,417630
+Commodity_2,2020-09-02,Crude_Oil,41.51,421770
+Commodity_2,2020-09-01,Crude_Oil,42.76,285150
+Commodity_2,2020-08-31,Crude_Oil,42.61,236880
+Commodity_2,2020-08-28,Crude_Oil,42.97,272800
+Commodity_2,2020-08-27,Crude_Oil,43.04,320970
+Commodity_2,2020-08-26,Crude_Oil,43.39,262240
+Commodity_2,2020-08-25,Crude_Oil,43.35,330800
+Commodity_2,2020-08-24,Crude_Oil,42.62,294730
+Commodity_2,2020-08-21,Crude_Oil,42.34,345370
+Commodity_2,2020-08-20,Crude_Oil,42.58,27430
+Commodity_2,2020-08-19,Crude_Oil,42.93,81300
+Commodity_2,2020-08-18,Crude_Oil,42.89,111630
+Commodity_2,2020-08-17,Crude_Oil,42.89,208430
+Commodity_2,2020-08-14,Crude_Oil,42.01,310870
+Commodity_2,2020-08-13,Crude_Oil,42.24,329510
+Commodity_2,2020-08-12,Crude_Oil,42.67,397830
+Commodity_2,2020-08-11,Crude_Oil,41.61,432840
+Commodity_2,2020-08-10,Crude_Oil,41.94,367800
+Commodity_2,2020-08-07,Crude_Oil,41.22,399000
+Commodity_2,2020-08-06,Crude_Oil,41.95,359610
+Commodity_2,2020-08-05,Crude_Oil,42.19,491270
+Commodity_2,2020-08-04,Crude_Oil,41.7,451580
+Commodity_2,2020-08-03,Crude_Oil,41.01,338330
+Commodity_2,2020-07-31,Crude_Oil,40.27,318790
+Commodity_2,2020-07-30,Crude_Oil,39.92,487330
+Commodity_2,2020-07-29,Crude_Oil,41.27,295860
+Commodity_2,2020-07-28,Crude_Oil,41.04,276800
+Commodity_2,2020-07-27,Crude_Oil,41.6,377710
+Commodity_2,2020-07-24,Crude_Oil,41.29,353160
+Commodity_2,2020-07-23,Crude_Oil,41.07,389410
+Commodity_2,2020-07-22,Crude_Oil,41.9,333650
+Commodity_2,2020-07-21,Crude_Oil,41.96,25620
+Commodity_2,2020-07-20,Crude_Oil,40.81,60180
+Commodity_2,2020-07-17,Crude_Oil,40.59,88220
+Commodity_2,2020-07-16,Crude_Oil,40.75,200100
+Commodity_2,2020-07-15,Crude_Oil,41.2,352540
+Commodity_2,2020-07-14,Crude_Oil,40.29,426970
+Commodity_2,2020-07-13,Crude_Oil,40.1,370720
+Commodity_2,2020-07-10,Crude_Oil,40.55,393150
+Commodity_2,2020-07-09,Crude_Oil,39.62,367390
+Commodity_2,2020-07-08,Crude_Oil,40.9,286740
+Commodity_2,2020-07-07,Crude_Oil,40.62,256600
+Commodity_2,2020-07-02,Crude_Oil,40.65,347100
+Commodity_2,2020-07-01,Crude_Oil,39.82,407170
+Commodity_2,2020-06-30,Crude_Oil,39.27,370060
+Commodity_2,2020-06-29,Crude_Oil,39.7,343910
+Commodity_2,2020-06-26,Crude_Oil,38.49,356710
+Commodity_2,2020-06-25,Crude_Oil,38.72,451640
+Commodity_2,2020-06-24,Crude_Oil,38.01,499490
+Commodity_2,2020-06-23,Crude_Oil,40.37,368730
+Commodity_2,2020-06-22,Crude_Oil,40.46,29890
+Commodity_2,2020-06-19,Crude_Oil,39.75,64110
+Commodity_2,2020-06-18,Crude_Oil,38.84,113380
+Commodity_2,2020-06-17,Crude_Oil,37.96,239520
+Commodity_2,2020-06-16,Crude_Oil,38.38,366320
+Commodity_2,2020-06-15,Crude_Oil,37.12,387550
+Commodity_2,2020-06-12,Crude_Oil,36.26,406510
+Commodity_2,2020-06-11,Crude_Oil,36.34,513910
+Commodity_2,2020-06-10,Crude_Oil,39.6,385870
+Commodity_2,2020-06-09,Crude_Oil,38.94,396030
+Commodity_2,2020-06-08,Crude_Oil,38.19,416640
+Commodity_2,2020-06-05,Crude_Oil,39.55,396860
+Commodity_2,2020-06-04,Crude_Oil,37.41,307610
+Commodity_2,2020-06-03,Crude_Oil,37.29,494250
+Commodity_2,2020-06-02,Crude_Oil,36.81,343480
+Commodity_2,2020-06-01,Crude_Oil,35.44,385710
+Commodity_2,2020-05-29,Crude_Oil,35.49,443650
+Commodity_2,2020-05-28,Crude_Oil,33.71,440170
+Commodity_2,2020-05-27,Crude_Oil,32.81,415250
+Commodity_2,2020-05-22,Crude_Oil,33.25,429040
+Commodity_2,2020-05-21,Crude_Oil,33.92,372810
+Commodity_2,2020-05-20,Crude_Oil,33.49,406430
+Commodity_2,2020-05-19,Crude_Oil,32.5,36070
+Commodity_2,2020-05-18,Crude_Oil,31.82,89380
+Commodity_2,2020-05-15,Crude_Oil,29.43,108020
+Commodity_2,2020-05-14,Crude_Oil,27.56,160510
+Commodity_2,2020-05-13,Crude_Oil,25.29,150860
+Commodity_2,2020-05-12,Crude_Oil,25.78,212340
+Commodity_2,2020-05-11,Crude_Oil,24.14,179590
+Commodity_2,2020-05-08,Crude_Oil,24.74,205180
+Commodity_2,2020-05-07,Crude_Oil,23.55,310260
+Commodity_2,2020-05-06,Crude_Oil,23.99,381170
+Commodity_2,2020-05-05,Crude_Oil,24.56,387240
+Commodity_2,2020-05-04,Crude_Oil,20.39,311490
+Commodity_2,2020-05-01,Crude_Oil,19.78,403200
+Commodity_2,2020-04-30,Crude_Oil,18.84,545340
+Commodity_2,2020-04-29,Crude_Oil,15.06,554130
+Commodity_2,2020-04-28,Crude_Oil,12.34,897090
+Commodity_2,2020-04-27,Crude_Oil,12.78,623200
+Commodity_2,2020-04-24,Crude_Oil,16.94,600220
+Commodity_2,2020-04-23,Crude_Oil,16.5,833580
+Commodity_2,2020-04-22,Crude_Oil,13.78,1240000
+Commodity_2,2020-04-21,Crude_Oil,10.01,18440
+Commodity_2,2020-04-20,Crude_Oil,/37.63,247950
+Commodity_2,2020-04-17,Crude_Oil,18.27,240630
+Commodity_2,2020-04-16,Crude_Oil,19.87,350940
+Commodity_2,2020-04-15,Crude_Oil,19.87,544800
+Commodity_2,2020-04-14,Crude_Oil,20.11,785480
+Commodity_2,2020-04-13,Crude_Oil,22.41,775120
+Commodity_2,2020-04-09,Crude_Oil,22.76,1120000
+Commodity_2,2020-04-08,Crude_Oil,25.09,823550
+Commodity_2,2020-04-07,Crude_Oil,23.63,797710
+Commodity_2,2020-04-06,Crude_Oil,26.08,752710
+Commodity_2,2020-04-03,Crude_Oil,28.34,1010000
+Commodity_2,2020-04-02,Crude_Oil,25.32,1100000
+Commodity_2,2020-04-01,Crude_Oil,20.31,703290
+Commodity_2,2020-03-31,Crude_Oil,20.48,660080
+Commodity_2,2020-03-30,Crude_Oil,20.09,758710
+Commodity_2,2020-03-27,Crude_Oil,21.51,603120
+Commodity_2,2020-03-26,Crude_Oil,22.6,633880
+Commodity_2,2020-03-25,Crude_Oil,24.49,618730
+Commodity_2,2020-03-24,Crude_Oil,24.01,659700
+Commodity_2,2020-03-23,Crude_Oil,23.36,852950
+Commodity_2,2020-03-20,Crude_Oil,22.43,29760
+Commodity_2,2020-03-19,Crude_Oil,25.22,136720
+Commodity_2,2020-03-18,Crude_Oil,20.37,309480
+Commodity_2,2020-03-17,Crude_Oil,26.95,545820
+Commodity_2,2020-03-16,Crude_Oil,28.7,698830
+Commodity_2,2020-03-13,Crude_Oil,31.73,743130
+Commodity_2,2020-03-12,Crude_Oil,31.5,1030000
+Commodity_2,2020-03-11,Crude_Oil,32.98,874650
+Commodity_2,2020-03-10,Crude_Oil,34.36,1060000
+Commodity_2,2020-03-09,Crude_Oil,31.13,1770000
+Commodity_2,2020-03-06,Crude_Oil,41.28,1280000
+Commodity_2,2020-03-05,Crude_Oil,45.9,704590
+Commodity_2,2020-03-04,Crude_Oil,46.78,745860
+Commodity_2,2020-03-03,Crude_Oil,47.18,1010000
+Commodity_2,2020-03-02,Crude_Oil,46.75,949470
+Commodity_2,2020-02-28,Crude_Oil,44.76,1100000
+Commodity_2,2020-02-27,Crude_Oil,47.09,1010000
+Commodity_2,2020-02-26,Crude_Oil,48.73,884480
+Commodity_2,2020-02-25,Crude_Oil,49.9,764990
+Commodity_2,2020-02-24,Crude_Oil,51.43,765520
+Commodity_2,2020-02-21,Crude_Oil,53.38,707560
+Commodity_2,2020-02-20,Crude_Oil,53.78,30670
+Commodity_2,2020-02-19,Crude_Oil,53.29,113680
+Commodity_2,2020-02-18,Crude_Oil,52.05,221770
+Commodity_2,2020-02-14,Crude_Oil,52.05,607340
+Commodity_2,2020-02-13,Crude_Oil,51.42,745400
+Commodity_2,2020-02-12,Crude_Oil,51.17,795260
+Commodity_2,2020-02-11,Crude_Oil,49.94,725730
+Commodity_2,2020-02-10,Crude_Oil,49.57,715890
+Commodity_2,2020-02-07,Crude_Oil,50.32,768350
+Commodity_2,2020-02-06,Crude_Oil,50.95,750660
+Commodity_2,2020-02-05,Crude_Oil,50.75,887950
+Commodity_2,2020-02-04,Crude_Oil,49.61,859360
+Commodity_2,2020-02-03,Crude_Oil,50.11,876040
+Commodity_2,2020-01-31,Crude_Oil,51.56,827910
+Commodity_2,2020-01-30,Crude_Oil,52.14,720120
+Commodity_2,2020-01-29,Crude_Oil,53.33,624980
+Commodity_2,2020-01-28,Crude_Oil,53.48,633960
+Commodity_2,2020-01-27,Crude_Oil,53.14,712880
+Commodity_2,2020-01-24,Crude_Oil,54.19,586200
+Commodity_2,2020-01-23,Crude_Oil,55.59,704000
+Commodity_2,2020-01-22,Crude_Oil,56.74,620120
+Commodity_2,2020-01-21,Crude_Oil,58.34,50180
+Commodity_2,2020-01-17,Crude_Oil,58.54,122560
+Commodity_2,2020-01-16,Crude_Oil,58.52,182870
+Commodity_2,2020-01-15,Crude_Oil,57.81,433170
+Commodity_2,2020-01-14,Crude_Oil,58.23,507710
+Commodity_2,2020-01-13,Crude_Oil,58.08,584000
+Commodity_2,2020-01-10,Crude_Oil,59.04,596190
+Commodity_2,2020-01-09,Crude_Oil,59.56,750930
+Commodity_2,2020-01-08,Crude_Oil,59.61,1210000
+Commodity_2,2020-01-07,Crude_Oil,62.7,582650
+Commodity_2,2020-01-06,Crude_Oil,63.27,724240
+Commodity_2,2020-01-03,Crude_Oil,63.05,885860
+Commodity_2,2020-01-02,Crude_Oil,61.18,486870
+Commodity_3,2024-02-02,Gold ,2053.7,
+Commodity_3,2024-02-01,Gold ,2071.1,260920
+Commodity_3,2024-01-31,Gold ,2067.4,238370
+Commodity_3,2024-01-30,Gold ,2050.9,214590
+Commodity_3,2024-01-29,Gold ,2034.9,1780
+Commodity_3,2024-01-26,Gold ,2026.6,410
+Commodity_3,2024-01-25,Gold ,2027.1,460
+Commodity_3,2024-01-24,Gold ,2025.4,800
+Commodity_3,2024-01-23,Gold ,2035.2,370
+Commodity_3,2024-01-22,Gold ,2031.5,330
+Commodity_3,2024-01-19,Gold ,2038.5,300
+Commodity_3,2024-01-18,Gold ,2031.1,350
+Commodity_3,2024-01-17,Gold ,2015.9,180
+Commodity_3,2024-01-16,Gold ,2039.7,480
+Commodity_3,2024-01-12,Gold ,2061.1,560
+Commodity_3,2024-01-11,Gold ,2028.9,360
+Commodity_3,2024-01-10,Gold ,2037.5,130
+Commodity_3,2024-01-09,Gold ,2033,218750
+Commodity_3,2024-01-08,Gold ,2033.5,220990
+Commodity_3,2024-01-05,Gold ,2049.8,214680
+Commodity_3,2024-01-04,Gold ,2050,130260
+Commodity_3,2024-01-03,Gold ,2042.8,221680
+Commodity_3,2024-01-02,Gold ,2073.4,157560
+Commodity_3,2023-12-29,Gold ,2071.8,105720
+Commodity_3,2023-12-28,Gold ,2083.5,129540
+Commodity_3,2023-12-27,Gold ,2083.4,590
+Commodity_3,2023-12-26,Gold ,2060.4,290
+Commodity_3,2023-12-22,Gold ,2059.6,440
+Commodity_3,2023-12-21,Gold ,2041.8,540
+Commodity_3,2023-12-20,Gold ,2038.1,260
+Commodity_3,2023-12-19,Gold ,2042.6,470
+Commodity_3,2023-12-18,Gold ,2030.9,250
+Commodity_3,2023-12-15,Gold ,2026,630
+Commodity_3,2023-12-14,Gold ,2035.2,560
+Commodity_3,2023-12-13,Gold ,1988.1,2220
+Commodity_3,2023-12-12,Gold ,1983.9,570
+Commodity_3,2023-12-11,Gold ,1993.7,160070
+Commodity_3,2023-12-08,Gold ,2014.5,237290
+Commodity_3,2023-12-07,Gold ,2046.4,173980
+Commodity_3,2023-12-06,Gold ,2047.9,154220
+Commodity_3,2023-12-05,Gold ,2036.3,209550
+Commodity_3,2023-12-04,Gold ,2042.2,378220
+Commodity_3,2023-12-01,Gold ,2089.7,241620
+Commodity_3,2023-11-30,Gold ,2057.2,151920
+Commodity_3,2023-11-29,Gold ,2067.1,197790
+Commodity_3,2023-11-28,Gold ,2050.5,1860
+Commodity_3,2023-11-27,Gold ,2023.1,1060
+Commodity_3,2023-11-24,Gold ,2013.7,520
+Commodity_3,2023-11-22,Gold ,2003.4,670
+Commodity_3,2023-11-21,Gold ,2012,670
+Commodity_3,2023-11-20,Gold ,1990.7,310
+Commodity_3,2023-11-17,Gold ,1984.7,133120
+Commodity_3,2023-11-16,Gold ,1987.3,186810
+Commodity_3,2023-11-15,Gold ,1964.3,142920
+Commodity_3,2023-11-14,Gold ,1966.5,180740
+Commodity_3,2023-11-13,Gold ,1950.2,183700
+Commodity_3,2023-11-10,Gold ,1937.7,229640
+Commodity_3,2023-11-09,Gold ,1969.8,214080
+Commodity_3,2023-11-08,Gold ,1957.8,189360
+Commodity_3,2023-11-07,Gold ,1973.5,218950
+Commodity_3,2023-11-06,Gold ,1988.6,146280
+Commodity_3,2023-11-03,Gold ,1999.2,222190
+Commodity_3,2023-11-02,Gold ,1993.5,158650
+Commodity_3,2023-11-01,Gold ,1987.5,197630
+Commodity_3,2023-10-31,Gold ,1994.3,214780
+Commodity_3,2023-10-30,Gold ,2005.6,181340
+Commodity_3,2023-10-27,Gold ,1989,370
+Commodity_3,2023-10-26,Gold ,1987.9,200
+Commodity_3,2023-10-25,Gold ,1985.5,160
+Commodity_3,2023-10-24,Gold ,1976.8,1230
+Commodity_3,2023-10-23,Gold ,1978.2,450
+Commodity_3,2023-10-20,Gold ,1994.4,
+Commodity_3,2023-10-19,Gold ,1980.5,264820
+Commodity_3,2023-10-18,Gold ,1968.3,270050
+Commodity_3,2023-10-17,Gold ,1935.7,165060
+Commodity_3,2023-10-16,Gold ,1934.3,182820
+Commodity_3,2023-10-13,Gold ,1941.5,312990
+Commodity_3,2023-10-12,Gold ,1883,163480
+Commodity_3,2023-10-11,Gold ,1887.3,169960
+Commodity_3,2023-10-10,Gold ,1875.3,157340
+Commodity_3,2023-10-09,Gold ,1864.3,187800
+Commodity_3,2023-10-06,Gold ,1845.2,231020
+Commodity_3,2023-10-05,Gold ,1831.8,172460
+Commodity_3,2023-10-04,Gold ,1834.8,195050
+Commodity_3,2023-10-03,Gold ,1841.5,216780
+Commodity_3,2023-10-02,Gold ,1847.2,202150
+Commodity_3,2023-09-29,Gold ,1866.1,245130
+Commodity_3,2023-09-28,Gold ,1878.6,231420
+Commodity_3,2023-09-27,Gold ,1890.9,238530
+Commodity_3,2023-09-26,Gold ,1919.8,212260
+Commodity_3,2023-09-25,Gold ,1936.6,164260
+Commodity_3,2023-09-22,Gold ,1945.6,139930
+Commodity_3,2023-09-21,Gold ,1939.6,225910
+Commodity_3,2023-09-20,Gold ,1967.1,220980
+Commodity_3,2023-09-19,Gold ,1953.7,131100
+Commodity_3,2023-09-18,Gold ,1953.4,138030
+Commodity_3,2023-09-15,Gold ,1946.2,199770
+Commodity_3,2023-09-14,Gold ,1932.8,201740
+Commodity_3,2023-09-13,Gold ,1932.5,161000
+Commodity_3,2023-09-12,Gold ,1935.1,161990
+Commodity_3,2023-09-11,Gold ,1947.2,131080
+Commodity_3,2023-09-08,Gold ,1942.7,138690
+Commodity_3,2023-09-07,Gold ,1942.5,117170
+Commodity_3,2023-09-06,Gold ,1944.2,148780
+Commodity_3,2023-09-05,Gold ,1952.6,192790
+Commodity_3,2023-09-01,Gold ,1967.1,160730
+Commodity_3,2023-08-31,Gold ,1965.9,133710
+Commodity_3,2023-08-30,Gold ,1973,142380
+Commodity_3,2023-08-29,Gold ,1965.1,174220
+Commodity_3,2023-08-28,Gold ,1946.8,115550
+Commodity_3,2023-08-25,Gold ,1939.9,166990
+Commodity_3,2023-08-24,Gold ,1947.1,137390
+Commodity_3,2023-08-23,Gold ,1948.1,170040
+Commodity_3,2023-08-22,Gold ,1926,131090
+Commodity_3,2023-08-21,Gold ,1923,138110
+Commodity_3,2023-08-18,Gold ,1916.5,114740
+Commodity_3,2023-08-17,Gold ,1915.2,152330
+Commodity_3,2023-08-16,Gold ,1928.3,128610
+Commodity_3,2023-08-15,Gold ,1935.2,167150
+Commodity_3,2023-08-14,Gold ,1944,120980
+Commodity_3,2023-08-11,Gold ,1946.6,122320
+Commodity_3,2023-08-10,Gold ,1948.9,168260
+Commodity_3,2023-08-09,Gold ,1950.6,139260
+Commodity_3,2023-08-08,Gold ,1959.9,142340
+Commodity_3,2023-08-07,Gold ,1970,104410
+Commodity_3,2023-08-04,Gold ,1976.1,156420
+Commodity_3,2023-08-03,Gold ,1968.8,141350
+Commodity_3,2023-08-02,Gold ,1975,169660
+Commodity_3,2023-08-01,Gold ,1978.8,167760
+Commodity_3,2023-07-31,Gold ,2009.2,139960
+Commodity_3,2023-07-28,Gold ,1999.9,159600
+Commodity_3,2023-07-27,Gold ,1965.3,16910
+Commodity_3,2023-07-26,Gold ,1989.7,11940
+Commodity_3,2023-07-25,Gold ,1983.1,8630
+Commodity_3,2023-07-24,Gold ,1981.6,6440
+Commodity_3,2023-07-21,Gold ,1966.6,156540
+Commodity_3,2023-07-20,Gold ,1970.9,189930
+Commodity_3,2023-07-19,Gold ,1980.8,159410
+Commodity_3,2023-07-18,Gold ,1980.8,264090
+Commodity_3,2023-07-17,Gold ,1956.4,165830
+Commodity_3,2023-07-14,Gold ,1964.4,209310
+Commodity_3,2023-07-13,Gold ,1963.8,241220
+Commodity_3,2023-07-12,Gold ,1961.7,270870
+Commodity_3,2023-07-11,Gold ,1937.1,189370
+Commodity_3,2023-07-10,Gold ,1931,208090
+Commodity_3,2023-07-07,Gold ,1932.5,214270
+Commodity_3,2023-07-06,Gold ,1915.4,231510
+Commodity_3,2023-07-05,Gold ,1927.1,245930
+Commodity_3,2023-07-03,Gold ,1929.5,152960
+Commodity_3,2023-06-30,Gold ,1929.4,180690
+Commodity_3,2023-06-29,Gold ,1917.9,205250
+Commodity_3,2023-06-28,Gold ,1913.4,630
+Commodity_3,2023-06-27,Gold ,1915.1,230
+Commodity_3,2023-06-26,Gold ,1925.1,770
+Commodity_3,2023-06-23,Gold ,1921,750
+Commodity_3,2023-06-22,Gold ,1915,370
+Commodity_3,2023-06-21,Gold ,1936.1,810
+Commodity_3,2023-06-20,Gold ,1938.9,740
+Commodity_3,2023-06-16,Gold ,1962.2,620
+Commodity_3,2023-06-15,Gold ,1961.8,820
+Commodity_3,2023-06-14,Gold ,1968.9,199710
+Commodity_3,2023-06-13,Gold ,1958.6,198400
+Commodity_3,2023-06-12,Gold ,1969.7,122540
+Commodity_3,2023-06-09,Gold ,1977.2,130410
+Commodity_3,2023-06-08,Gold ,1978.6,191840
+Commodity_3,2023-06-07,Gold ,1958.4,189530
+Commodity_3,2023-06-06,Gold ,1981.5,136000
+Commodity_3,2023-06-05,Gold ,1974.3,179990
+Commodity_3,2023-06-02,Gold ,1969.6,209690
+Commodity_3,2023-06-01,Gold ,1995.5,176910
+Commodity_3,2023-05-31,Gold ,1982.1,207750
+Commodity_3,2023-05-30,Gold ,1977.1,264370
+Commodity_3,2023-05-26,Gold ,1963.1,130070
+Commodity_3,2023-05-25,Gold ,1943.1,0
+Commodity_3,2023-05-24,Gold ,1962.8,190
+Commodity_3,2023-05-23,Gold ,1972.4,0
+Commodity_3,2023-05-22,Gold ,1974.8,10
+Commodity_3,2023-05-19,Gold ,1978.7,110
+Commodity_3,2023-05-18,Gold ,1956.5,20
+Commodity_3,2023-05-17,Gold ,1980.7,10
+Commodity_3,2023-05-16,Gold ,1988.4,50
+Commodity_3,2023-05-15,Gold ,2018,0
+Commodity_3,2023-05-12,Gold ,2019.8,220500
+Commodity_3,2023-05-11,Gold ,2020.5,296980
+Commodity_3,2023-05-10,Gold ,2037.1,260810
+Commodity_3,2023-05-09,Gold ,2042.9,199700
+Commodity_3,2023-05-08,Gold ,2033.2,182210
+Commodity_3,2023-05-05,Gold ,2024.8,283300
+Commodity_3,2023-05-04,Gold ,2055.7,311000
+Commodity_3,2023-05-03,Gold ,2037,229670
+Commodity_3,2023-05-02,Gold ,2023.3,245640
+Commodity_3,2023-05-01,Gold ,1992.2,173020
+Commodity_3,2023-04-28,Gold ,1999.1,172450
+Commodity_3,2023-04-27,Gold ,1999,203900
+Commodity_3,2023-04-26,Gold ,1986.9,620
+Commodity_3,2023-04-25,Gold ,1995.1,850
+Commodity_3,2023-04-24,Gold ,1990.6,540
+Commodity_3,2023-04-21,Gold ,1981.3,620
+Commodity_3,2023-04-20,Gold ,2009.8,420
+Commodity_3,2023-04-19,Gold ,1998,920
+Commodity_3,2023-04-18,Gold ,2010.3,220
+Commodity_3,2023-04-17,Gold ,1994.2,550
+Commodity_3,2023-04-14,Gold ,2002.2,720
+Commodity_3,2023-04-13,Gold ,2041.3,1040
+Commodity_3,2023-04-12,Gold ,2010.9,170
+Commodity_3,2023-04-11,Gold ,2004.8,70
+Commodity_3,2023-04-10,Gold ,1989.1,650
+Commodity_3,2023-04-06,Gold ,2011.9,490
+Commodity_3,2023-04-05,Gold ,2020.9,530
+Commodity_3,2023-04-04,Gold ,2022.2,810
+Commodity_3,2023-04-03,Gold ,1983.9,740
+Commodity_3,2023-03-31,Gold ,1969,960
+Commodity_3,2023-03-30,Gold ,1980.3,10120
+Commodity_3,2023-03-29,Gold ,1966.9,88560
+Commodity_3,2023-03-28,Gold ,1973.5,183580
+Commodity_3,2023-03-27,Gold ,1971.5,107040
+Commodity_3,2023-03-24,Gold ,2001.7,118690
+Commodity_3,2023-03-23,Gold ,2013.3,74550
+Commodity_3,2023-03-22,Gold ,1966.6,60530
+Commodity_3,2023-03-21,Gold ,1958.3,65170
+Commodity_3,2023-03-20,Gold ,1999.7,69060
+Commodity_3,2023-03-17,Gold ,1990.2,67460
+Commodity_3,2023-03-16,Gold ,1939.7,34770
+Commodity_3,2023-03-15,Gold ,1948.1,84730
+Commodity_3,2023-03-14,Gold ,1910.9,261280
+Commodity_3,2023-03-13,Gold ,1916.5,452330
+Commodity_3,2023-03-10,Gold ,1867.2,345810
+Commodity_3,2023-03-09,Gold ,1834.6,228470
+Commodity_3,2023-03-08,Gold ,1818.6,208290
+Commodity_3,2023-03-07,Gold ,1820,248230
+Commodity_3,2023-03-06,Gold ,1854.6,136220
+Commodity_3,2023-03-03,Gold ,1854.6,158960
+Commodity_3,2023-03-02,Gold ,1840.5,139760
+Commodity_3,2023-03-01,Gold ,1845.4,182580
+Commodity_3,2023-02-28,Gold ,1836.7,184510
+Commodity_3,2023-02-27,Gold ,1824.9,130430
+Commodity_3,2023-02-24,Gold ,1809.2,400
+Commodity_3,2023-02-23,Gold ,1818.8,650
+Commodity_3,2023-02-22,Gold ,1833.3,570
+Commodity_3,2023-02-21,Gold ,1842.5,210170
+Commodity_3,2023-02-17,Gold ,1840.4,40
+Commodity_3,2023-02-16,Gold ,1842,220
+Commodity_3,2023-02-15,Gold ,1834.2,370
+Commodity_3,2023-02-14,Gold ,1854,660
+Commodity_3,2023-02-13,Gold ,1851.9,570
+Commodity_3,2023-02-10,Gold ,1862.8,30
+Commodity_3,2023-02-09,Gold ,1866.2,220
+Commodity_3,2023-02-08,Gold ,1877.4,230
+Commodity_3,2023-02-07,Gold ,1871.7,300
+Commodity_3,2023-02-06,Gold ,1866.2,420
+Commodity_3,2023-02-03,Gold ,1862.9,990
+Commodity_3,2023-02-02,Gold ,1916.3,750
+Commodity_3,2023-02-01,Gold ,1927.8,2290
+Commodity_3,2023-01-31,Gold ,1929.5,1910
+Commodity_3,2023-01-30,Gold ,1922.9,27220
+Commodity_3,2023-01-27,Gold ,1936.6,2330
+Commodity_3,2023-01-26,Gold ,1937.6,2100
+Commodity_3,2023-01-25,Gold ,1950.3,1270
+Commodity_3,2023-01-24,Gold ,1943.1,1080
+Commodity_3,2023-01-23,Gold ,1936.2,970
+Commodity_3,2023-01-20,Gold ,1928.2,165270
+Commodity_3,2023-01-19,Gold ,1923.9,214250
+Commodity_3,2023-01-18,Gold ,1907,218970
+Commodity_3,2023-01-17,Gold ,1907.2,710
+Commodity_3,2023-01-13,Gold ,1921.7,247880
+Commodity_3,2023-01-12,Gold ,1898.8,265170
+Commodity_3,2023-01-11,Gold ,1878.9,222250
+Commodity_3,2023-01-10,Gold ,1876.5,170510
+Commodity_3,2023-01-09,Gold ,1877.8,204550
+Commodity_3,2023-01-06,Gold ,1869.7,215370
+Commodity_3,2023-01-05,Gold ,1840.6,188600
+Commodity_3,2023-01-04,Gold ,1859,198350
+Commodity_3,2023-01-03,Gold ,1846.1,212270
+Commodity_3,2022-12-30,Gold ,1826.2,107500
+Commodity_3,2022-12-29,Gold ,1826,105990
+Commodity_3,2022-12-28,Gold ,1815.8,118080
+Commodity_3,2022-12-27,Gold ,1823.1,159620
+Commodity_3,2022-12-23,Gold ,1804.2,105460
+Commodity_3,2022-12-22,Gold ,1795.3,175770
+Commodity_3,2022-12-21,Gold ,1825.4,110180
+Commodity_3,2022-12-20,Gold ,1825.4,197500
+Commodity_3,2022-12-19,Gold ,1797.7,86090
+Commodity_3,2022-12-16,Gold ,1800.2,128750
+Commodity_3,2022-12-15,Gold ,1787.8,185320
+Commodity_3,2022-12-14,Gold ,1818.7,143800
+Commodity_3,2022-12-13,Gold ,1825.5,230910
+Commodity_3,2022-12-12,Gold ,1792.3,107780
+Commodity_3,2022-12-09,Gold ,1810.7,150940
+Commodity_3,2022-12-08,Gold ,1801.5,116270
+Commodity_3,2022-12-07,Gold ,1798,155570
+Commodity_3,2022-12-06,Gold ,1782.4,127860
+Commodity_3,2022-12-05,Gold ,1781.3,179820
+Commodity_3,2022-12-02,Gold ,1809.6,183720
+Commodity_3,2022-12-01,Gold ,1815.2,226150
+Commodity_3,2022-11-30,Gold ,1759.9,192240
+Commodity_3,2022-11-29,Gold ,1763.7,127320
+Commodity_3,2022-11-28,Gold ,1740.3,132770
+Commodity_3,2022-11-25,Gold ,1754,134300
+Commodity_3,2022-11-23,Gold ,1745.6,167770
+Commodity_3,2022-11-22,Gold ,1739.9,153090
+Commodity_3,2022-11-21,Gold ,1739.6,166080
+Commodity_3,2022-11-18,Gold ,1754.4,137330
+Commodity_3,2022-11-17,Gold ,1763,169100
+Commodity_3,2022-11-16,Gold ,1775.8,200760
+Commodity_3,2022-11-15,Gold ,1776.8,283020
+Commodity_3,2022-11-14,Gold ,1776.9,191350
+Commodity_3,2022-11-11,Gold ,1769.4,227040
+Commodity_3,2022-11-10,Gold ,1753.7,305720
+Commodity_3,2022-11-09,Gold ,1713.7,239650
+Commodity_3,2022-11-08,Gold ,1716,297620
+Commodity_3,2022-11-07,Gold ,1680.5,187590
+Commodity_3,2022-11-04,Gold ,1676.6,293520
+Commodity_3,2022-11-03,Gold ,1630.9,254700
+Commodity_3,2022-11-02,Gold ,1650,220930
+Commodity_3,2022-11-01,Gold ,1649.7,197980
+Commodity_3,2022-10-31,Gold ,1640.7,128410
+Commodity_3,2022-10-28,Gold ,1644.8,196360
+Commodity_3,2022-10-27,Gold ,1665.6,189290
+Commodity_3,2022-10-26,Gold ,1669.2,186930
+Commodity_3,2022-10-25,Gold ,1658,182800
+Commodity_3,2022-10-24,Gold ,1654.1,171020
+Commodity_3,2022-10-21,Gold ,1656.3,271100
+Commodity_3,2022-10-20,Gold ,1636.8,163730
+Commodity_3,2022-10-19,Gold ,1634.2,179250
+Commodity_3,2022-10-18,Gold ,1655.8,163170
+Commodity_3,2022-10-17,Gold ,1664,148890
+Commodity_3,2022-10-14,Gold ,1648.9,183170
+Commodity_3,2022-10-13,Gold ,1677,237010
+Commodity_3,2022-10-12,Gold ,1677.5,131770
+Commodity_3,2022-10-11,Gold ,1686,171810
+Commodity_3,2022-10-10,Gold ,1675.2,157150
+Commodity_3,2022-10-07,Gold ,1709.3,157450
+Commodity_3,2022-10-06,Gold ,1720.8,139440
+Commodity_3,2022-10-05,Gold ,1720.8,173220
+Commodity_3,2022-10-04,Gold ,1730.5,205080
+Commodity_3,2022-10-03,Gold ,1702,215490
+Commodity_3,2022-09-30,Gold ,1672,179990
+Commodity_3,2022-09-29,Gold ,1668.6,201960
+Commodity_3,2022-09-28,Gold ,1670,279820
+Commodity_3,2022-09-27,Gold ,1636.2,197060
+Commodity_3,2022-09-26,Gold ,1633.4,219860
+Commodity_3,2022-09-23,Gold ,1655.6,243050
+Commodity_3,2022-09-22,Gold ,1681.1,241280
+Commodity_3,2022-09-21,Gold ,1675.7,227940
+Commodity_3,2022-09-20,Gold ,1671.1,143930
+Commodity_3,2022-09-19,Gold ,1678.2,141170
+Commodity_3,2022-09-16,Gold ,1683.5,217230
+Commodity_3,2022-09-15,Gold ,1677.3,268090
+Commodity_3,2022-09-14,Gold ,1709.1,163290
+Commodity_3,2022-09-13,Gold ,1717.4,232700
+Commodity_3,2022-09-12,Gold ,1740.6,154370
+Commodity_3,2022-09-09,Gold ,1728.6,154710
+Commodity_3,2022-09-08,Gold ,1720.2,184180
+Commodity_3,2022-09-07,Gold ,1727.8,173620
+Commodity_3,2022-09-02,Gold ,1722.6,174680
+Commodity_3,2022-09-01,Gold ,1709.3,198620
+Commodity_3,2022-08-31,Gold ,1726.2,176730
+Commodity_3,2022-08-30,Gold ,1736.3,130660
+Commodity_3,2022-08-29,Gold ,1749.7,156220
+Commodity_3,2022-08-26,Gold ,1749.8,176900
+Commodity_3,2022-08-25,Gold ,1771.4,117570
+Commodity_3,2022-08-24,Gold ,1761.5,112650
+Commodity_3,2022-08-23,Gold ,1761.2,145260
+Commodity_3,2022-08-22,Gold ,1748.4,142860
+Commodity_3,2022-08-19,Gold ,1762.9,138700
+Commodity_3,2022-08-18,Gold ,1771.2,124320
+Commodity_3,2022-08-17,Gold ,1776.7,137830
+Commodity_3,2022-08-16,Gold ,1789.7,94400
+Commodity_3,2022-08-15,Gold ,1798.1,137770
+Commodity_3,2022-08-12,Gold ,1815.5,118650
+Commodity_3,2022-08-11,Gold ,1807.2,121260
+Commodity_3,2022-08-10,Gold ,1813.7,154590
+Commodity_3,2022-08-09,Gold ,1812.3,120510
+Commodity_3,2022-08-08,Gold ,1805.2,103680
+Commodity_3,2022-08-05,Gold ,1791.2,168900
+Commodity_3,2022-08-04,Gold ,1806.9,153290
+Commodity_3,2022-08-03,Gold ,1776.4,151730
+Commodity_3,2022-08-02,Gold ,1789.7,174170
+Commodity_3,2022-08-01,Gold ,1787.7,133740
+Commodity_3,2022-07-29,Gold ,1781.8,136890
+Commodity_3,2022-07-28,Gold ,1769.2,192860
+Commodity_3,2022-07-27,Gold ,1719.1,144870
+Commodity_3,2022-07-26,Gold ,1717.7,147370
+Commodity_3,2022-07-25,Gold ,1719.1,160720
+Commodity_3,2022-07-22,Gold ,1727.4,200620
+Commodity_3,2022-07-21,Gold ,1713.4,248880
+Commodity_3,2022-07-20,Gold ,1700.2,174470
+Commodity_3,2022-07-19,Gold ,1710.7,131770
+Commodity_3,2022-07-18,Gold ,1710.2,157540
+Commodity_3,2022-07-15,Gold ,1703.6,176800
+Commodity_3,2022-07-14,Gold ,1705.8,266350
+Commodity_3,2022-07-13,Gold ,1735.5,300550
+Commodity_3,2022-07-12,Gold ,1724.8,255170
+Commodity_3,2022-07-11,Gold ,1731.7,171900
+Commodity_3,2022-07-08,Gold ,1742.3,189180
+Commodity_3,2022-07-07,Gold ,1739.7,151260
+Commodity_3,2022-07-06,Gold ,1736.5,258820
+Commodity_3,2022-07-01,Gold ,1801.5,249490
+Commodity_3,2022-06-30,Gold ,1807.3,208900
+Commodity_3,2022-06-29,Gold ,1817.5,155540
+Commodity_3,2022-06-28,Gold ,1821.2,111400
+Commodity_3,2022-06-27,Gold ,1824.8,143820
+Commodity_3,2022-06-24,Gold ,1830.3,139720
+Commodity_3,2022-06-23,Gold ,1829.8,167070
+Commodity_3,2022-06-22,Gold ,1838.4,149550
+Commodity_3,2022-06-17,Gold ,1840.6,141720
+Commodity_3,2022-06-16,Gold ,1849.9,180890
+Commodity_3,2022-06-15,Gold ,1819.6,203420
+Commodity_3,2022-06-14,Gold ,1813.5,165150
+Commodity_3,2022-06-13,Gold ,1831.8,252540
+Commodity_3,2022-06-10,Gold ,1875.5,267200
+Commodity_3,2022-06-09,Gold ,1852.8,131290
+Commodity_3,2022-06-08,Gold ,1856.5,114140
+Commodity_3,2022-06-07,Gold ,1852.1,119210
+Commodity_3,2022-06-06,Gold ,1843.7,103180
+Commodity_3,2022-06-03,Gold ,1850.2,115340
+Commodity_3,2022-06-02,Gold ,1871.4,127470
+Commodity_3,2022-06-01,Gold ,1848.7,158040
+Commodity_3,2022-05-27,Gold ,1857.3,123760
+Commodity_3,2022-05-26,Gold ,1847.6,123360
+Commodity_3,2022-05-25,Gold ,1846.3,182820
+Commodity_3,2022-05-24,Gold ,1865.4,174760
+Commodity_3,2022-05-23,Gold ,1847.8,163270
+Commodity_3,2022-05-20,Gold ,1842.1,143050
+Commodity_3,2022-05-19,Gold ,1841.2,175240
+Commodity_3,2022-05-18,Gold ,1815.9,150350
+Commodity_3,2022-05-17,Gold ,1818.9,137290
+Commodity_3,2022-05-16,Gold ,1814,159490
+Commodity_3,2022-05-13,Gold ,1808.2,179480
+Commodity_3,2022-05-12,Gold ,1824.6,255610
+Commodity_3,2022-05-11,Gold ,1853.7,243560
+Commodity_3,2022-05-10,Gold ,1841,260810
+Commodity_3,2022-05-09,Gold ,1858.6,218820
+Commodity_3,2022-05-06,Gold ,1882.8,194280
+Commodity_3,2022-05-05,Gold ,1875.7,218390
+Commodity_3,2022-05-04,Gold ,1868.8,161480
+Commodity_3,2022-05-03,Gold ,1870.6,167430
+Commodity_3,2022-05-02,Gold ,1863.6,193830
+Commodity_3,2022-04-29,Gold ,1911.7,177140
+Commodity_3,2022-04-28,Gold ,1891.3,170910
+Commodity_3,2022-04-27,Gold ,1888.7,178200
+Commodity_3,2022-04-26,Gold ,1904.1,166200
+Commodity_3,2022-04-25,Gold ,1896,231490
+Commodity_3,2022-04-22,Gold ,1934.3,176680
+Commodity_3,2022-04-21,Gold ,1948.2,154920
+Commodity_3,2022-04-20,Gold ,1955.6,139510
+Commodity_3,2022-04-19,Gold ,1959,181440
+Commodity_3,2022-04-18,Gold ,1986.4,138130
+Commodity_3,2022-04-14,Gold ,1974.9,139420
+Commodity_3,2022-04-13,Gold ,1984.7,132030
+Commodity_3,2022-04-12,Gold ,1976.1,172390
+Commodity_3,2022-04-11,Gold ,1948.2,184390
+Commodity_3,2022-04-08,Gold ,1945.6,142500
+Commodity_3,2022-04-07,Gold ,1937.8,122810
+Commodity_3,2022-04-06,Gold ,1923.1,153970
+Commodity_3,2022-04-05,Gold ,1927.5,147260
+Commodity_3,2022-04-04,Gold ,1934,108440
+Commodity_3,2022-04-01,Gold ,1923.7,135150
+Commodity_3,2022-03-31,Gold ,1954,155300
+Commodity_3,2022-03-30,Gold ,1939,136040
+Commodity_3,2022-03-29,Gold ,1912.2,128050
+Commodity_3,2022-03-28,Gold ,1939.8,181370
+Commodity_3,2022-03-25,Gold ,1954.2,147900
+Commodity_3,2022-03-24,Gold ,1962.2,181200
+Commodity_3,2022-03-23,Gold ,1937.3,153310
+Commodity_3,2022-03-22,Gold ,1921.5,153280
+Commodity_3,2022-03-21,Gold ,1929.5,146410
+Commodity_3,2022-03-18,Gold ,1929.3,150880
+Commodity_3,2022-03-17,Gold ,1943.2,149830
+Commodity_3,2022-03-16,Gold ,1909.2,195460
+Commodity_3,2022-03-15,Gold ,1929.7,220370
+Commodity_3,2022-03-14,Gold ,1960.8,162200
+Commodity_3,2022-03-11,Gold ,1985,262090
+Commodity_3,2022-03-10,Gold ,2000.4,303270
+Commodity_3,2022-03-09,Gold ,1988.2,360350
+Commodity_3,2022-03-08,Gold ,2043.3,447650
+Commodity_3,2022-03-07,Gold ,1995.9,372190
+Commodity_3,2022-03-04,Gold ,1966.6,241530
+Commodity_3,2022-03-03,Gold ,1935.9,180210
+Commodity_3,2022-03-02,Gold ,1922.3,227980
+Commodity_3,2022-03-01,Gold ,1943.8,224000
+Commodity_3,2022-02-28,Gold ,1900.7,249270
+Commodity_3,2022-02-25,Gold ,1887.6,229780
+Commodity_3,2022-02-24,Gold ,1926.3,423050
+Commodity_3,2022-02-23,Gold ,1910.4,154840
+Commodity_3,2022-02-18,Gold ,1899.8,161750
+Commodity_3,2022-02-17,Gold ,1902,268550
+Commodity_3,2022-02-16,Gold ,1871.5,141490
+Commodity_3,2022-02-15,Gold ,1856.2,214880
+Commodity_3,2022-02-14,Gold ,1869.4,231020
+Commodity_3,2022-02-11,Gold ,1842.1,239090
+Commodity_3,2022-02-10,Gold ,1837.4,227460
+Commodity_3,2022-02-09,Gold ,1836.6,136720
+Commodity_3,2022-02-08,Gold ,1827.9,142410
+Commodity_3,2022-02-07,Gold ,1821.8,139810
+Commodity_3,2022-02-04,Gold ,1807.8,177710
+Commodity_3,2022-02-03,Gold ,1804.1,173720
+Commodity_3,2022-02-02,Gold ,1810.3,123020
+Commodity_3,2022-02-01,Gold ,1801.5,128880
+Commodity_3,2022-01-31,Gold ,1796.4,139420
+Commodity_3,2022-01-28,Gold ,1786.6,217150
+Commodity_3,2022-01-27,Gold ,1793.1,196040
+Commodity_3,2022-01-26,Gold ,1829.7,270030
+Commodity_3,2022-01-25,Gold ,1852.5,197800
+Commodity_3,2022-01-24,Gold ,1841.7,244330
+Commodity_3,2022-01-21,Gold ,1831.8,225250
+Commodity_3,2022-01-20,Gold ,1842.6,233860
+Commodity_3,2022-01-19,Gold ,1843.2,318490
+Commodity_3,2022-01-14,Gold ,1816.5,174940
+Commodity_3,2022-01-13,Gold ,1821.4,215520
+Commodity_3,2022-01-12,Gold ,1827.3,192980
+Commodity_3,2022-01-11,Gold ,1818.5,184150
+Commodity_3,2022-01-10,Gold ,1798.8,173040
+Commodity_3,2022-01-07,Gold ,1797.4,238930
+Commodity_3,2022-01-06,Gold ,1789.2,238640
+Commodity_3,2022-01-05,Gold ,1825.1,173340
+Commodity_3,2022-01-04,Gold ,1814.6,167710
+Commodity_3,2022-01-03,Gold ,1800.1,168310
+Commodity_3,2021-12-31,Gold ,1828.6,106600
+Commodity_3,2021-12-30,Gold ,1814.1,113430
+Commodity_3,2021-12-29,Gold ,1805.8,138690
+Commodity_3,2021-12-28,Gold ,1810.9,100540
+Commodity_3,2021-12-27,Gold ,1808.8,84230
+Commodity_3,2021-12-23,Gold ,1811.7,104840
+Commodity_3,2021-12-22,Gold ,1802.2,110410
+Commodity_3,2021-12-21,Gold ,1788.7,134150
+Commodity_3,2021-12-20,Gold ,1794.6,105390
+Commodity_3,2021-12-17,Gold ,1804.9,156610
+Commodity_3,2021-12-16,Gold ,1798.2,167780
+Commodity_3,2021-12-15,Gold ,1764.5,161100
+Commodity_3,2021-12-14,Gold ,1772.3,153250
+Commodity_3,2021-12-13,Gold ,1788.3,106060
+Commodity_3,2021-12-10,Gold ,1784.8,142000
+Commodity_3,2021-12-09,Gold ,1776.7,123970
+Commodity_3,2021-12-08,Gold ,1785.5,109690
+Commodity_3,2021-12-07,Gold ,1784.7,129890
+Commodity_3,2021-12-06,Gold ,1779.5,104480
+Commodity_3,2021-12-03,Gold ,1783.9,175180
+Commodity_3,2021-12-02,Gold ,1762.7,172720
+Commodity_3,2021-12-01,Gold ,1784.3,180340
+Commodity_3,2021-11-30,Gold ,1776.5,242860
+Commodity_3,2021-11-29,Gold ,1785.2,151370
+Commodity_3,2021-11-24,Gold ,1784.3,203240
+Commodity_3,2021-11-23,Gold ,1783.8,311350
+Commodity_3,2021-11-22,Gold ,1806.3,352860
+Commodity_3,2021-11-19,Gold ,1851.6,234080
+Commodity_3,2021-11-18,Gold ,1861.4,186060
+Commodity_3,2021-11-17,Gold ,1870.2,172420
+Commodity_3,2021-11-16,Gold ,1854.1,220430
+Commodity_3,2021-11-15,Gold ,1866.6,221210
+Commodity_3,2021-11-12,Gold ,1868.5,201360
+Commodity_3,2021-11-11,Gold ,1863.9,205310
+Commodity_3,2021-11-10,Gold ,1848.3,352790
+Commodity_3,2021-11-09,Gold ,1830.8,224410
+Commodity_3,2021-11-08,Gold ,1828,200410
+Commodity_3,2021-11-05,Gold ,1816.8,299620
+Commodity_3,2021-11-04,Gold ,1793.5,222610
+Commodity_3,2021-11-03,Gold ,1763.9,257430
+Commodity_3,2021-11-02,Gold ,1789.4,145790
+Commodity_3,2021-11-01,Gold ,1795.8,143330
+Commodity_3,2021-10-29,Gold ,1783.9,254510
+Commodity_3,2021-10-28,Gold ,1802.6,220880
+Commodity_3,2021-10-27,Gold ,1798.8,182800
+Commodity_3,2021-10-26,Gold ,1793.4,197930
+Commodity_3,2021-10-25,Gold ,1806.8,153590
+Commodity_3,2021-10-22,Gold ,1796.3,312810
+Commodity_3,2021-10-21,Gold ,1781.9,138730
+Commodity_3,2021-10-20,Gold ,1784.9,174080
+Commodity_3,2021-10-19,Gold ,1770.5,166970
+Commodity_3,2021-10-18,Gold ,1765.7,152740
+Commodity_3,2021-10-15,Gold ,1768.3,202630
+Commodity_3,2021-10-14,Gold ,1797.9,164650
+Commodity_3,2021-10-13,Gold ,1794.7,299040
+Commodity_3,2021-10-12,Gold ,1759.3,168110
+Commodity_3,2021-10-11,Gold ,1755.7,114770
+Commodity_3,2021-10-08,Gold ,1757.4,240370
+Commodity_3,2021-10-07,Gold ,1759.2,146410
+Commodity_3,2021-10-06,Gold ,1761.8,159220
+Commodity_3,2021-10-05,Gold ,1760.9,151420
+Commodity_3,2021-10-04,Gold ,1767.6,166180
+Commodity_3,2021-10-01,Gold ,1758.4,151200
+Commodity_3,2021-09-30,Gold ,1757,246370
+Commodity_3,2021-09-29,Gold ,1722.9,177390
+Commodity_3,2021-09-28,Gold ,1737.5,215840
+Commodity_3,2021-09-27,Gold ,1752,137570
+Commodity_3,2021-09-24,Gold ,1751.7,151550
+Commodity_3,2021-09-23,Gold ,1749.8,225460
+Commodity_3,2021-09-22,Gold ,1778.8,172350
+Commodity_3,2021-09-21,Gold ,1778.2,141620
+Commodity_3,2021-09-20,Gold ,1763.8,152450
+Commodity_3,2021-09-17,Gold ,1751.4,183250
+Commodity_3,2021-09-16,Gold ,1756.7,255270
+Commodity_3,2021-09-15,Gold ,1794.8,139300
+Commodity_3,2021-09-14,Gold ,1807.1,197950
+Commodity_3,2021-09-13,Gold ,1794.4,114310
+Commodity_3,2021-09-10,Gold ,1792.1,136250
+Commodity_3,2021-09-09,Gold ,1800,154130
+Commodity_3,2021-09-08,Gold ,1793.5,161260
+Commodity_3,2021-09-03,Gold ,1833.7,184980
+Commodity_3,2021-09-02,Gold ,1811.5,113030
+Commodity_3,2021-09-01,Gold ,1816,140120
+Commodity_3,2021-08-31,Gold ,1818.1,170390
+Commodity_3,2021-08-30,Gold ,1812.2,104880
+Commodity_3,2021-08-27,Gold ,1819.5,203640
+Commodity_3,2021-08-26,Gold ,1795.2,134530
+Commodity_3,2021-08-25,Gold ,1791,163460
+Commodity_3,2021-08-24,Gold ,1808.5,114790
+Commodity_3,2021-08-23,Gold ,1806.3,156320
+Commodity_3,2021-08-20,Gold ,1784,107970
+Commodity_3,2021-08-19,Gold ,1783.1,151250
+Commodity_3,2021-08-18,Gold ,1784.4,132730
+Commodity_3,2021-08-17,Gold ,1787.8,144820
+Commodity_3,2021-08-16,Gold ,1789.8,137700
+Commodity_3,2021-08-13,Gold ,1778.2,144810
+Commodity_3,2021-08-12,Gold ,1751.8,137120
+Commodity_3,2021-08-11,Gold ,1753.3,185440
+Commodity_3,2021-08-10,Gold ,1731.7,182560
+Commodity_3,2021-08-09,Gold ,1726.5,289540
+Commodity_3,2021-08-06,Gold ,1763.1,323150
+Commodity_3,2021-08-05,Gold ,1808.9,169840
+Commodity_3,2021-08-04,Gold ,1814.5,244680
+Commodity_3,2021-08-03,Gold ,1814.1,103450
+Commodity_3,2021-08-02,Gold ,1822.2,159760
+Commodity_3,2021-07-30,Gold ,1817.2,157140
+Commodity_3,2021-07-29,Gold ,1835.8,212070
+Commodity_3,2021-07-28,Gold ,1799.7,209780
+Commodity_3,2021-07-27,Gold ,1799.8,177040
+Commodity_3,2021-07-26,Gold ,1799.2,204550
+Commodity_3,2021-07-23,Gold ,1801.8,236760
+Commodity_3,2021-07-22,Gold ,1805.4,193320
+Commodity_3,2021-07-21,Gold ,1803.4,218640
+Commodity_3,2021-07-20,Gold ,1811.4,221140
+Commodity_3,2021-07-19,Gold ,1809.2,249680
+Commodity_3,2021-07-16,Gold ,1815,184660
+Commodity_3,2021-07-15,Gold ,1829,175610
+Commodity_3,2021-07-14,Gold ,1825,229880
+Commodity_3,2021-07-13,Gold ,1809.9,242180
+Commodity_3,2021-07-12,Gold ,1805.9,201420
+Commodity_3,2021-07-09,Gold ,1810.6,185580
+Commodity_3,2021-07-08,Gold ,1800.2,249340
+Commodity_3,2021-07-07,Gold ,1802.1,171080
+Commodity_3,2021-07-02,Gold ,1783.3,205860
+Commodity_3,2021-07-01,Gold ,1776.8,171440
+Commodity_3,2021-06-30,Gold ,1771.6,177890
+Commodity_3,2021-06-29,Gold ,1763.6,239910
+Commodity_3,2021-06-28,Gold ,1780.7,160790
+Commodity_3,2021-06-25,Gold ,1777.8,161200
+Commodity_3,2021-06-24,Gold ,1776.7,152230
+Commodity_3,2021-06-23,Gold ,1783.4,179270
+Commodity_3,2021-06-22,Gold ,1777.4,172750
+Commodity_3,2021-06-21,Gold ,1782.9,195520
+Commodity_3,2021-06-18,Gold ,1769,264610
+Commodity_3,2021-06-17,Gold ,1774.8,385890
+Commodity_3,2021-06-16,Gold ,1861.4,234100
+Commodity_3,2021-06-15,Gold ,1856.4,155340
+Commodity_3,2021-06-14,Gold ,1865.9,242300
+Commodity_3,2021-06-11,Gold ,1879.6,220460
+Commodity_3,2021-06-10,Gold ,1896.4,250550
+Commodity_3,2021-06-09,Gold ,1895.5,147330
+Commodity_3,2021-06-08,Gold ,1894.4,173600
+Commodity_3,2021-06-07,Gold ,1898.8,146020
+Commodity_3,2021-06-04,Gold ,1892,228830
+Commodity_3,2021-06-03,Gold ,1873.3,278580
+Commodity_3,2021-06-02,Gold ,1909.9,166040
+Commodity_3,2021-05-28,Gold ,1905.3,198140
+Commodity_3,2021-05-27,Gold ,1895.7,35790
+Commodity_3,2021-05-26,Gold ,1901.2,170530
+Commodity_3,2021-05-25,Gold ,1898,316670
+Commodity_3,2021-05-24,Gold ,1884.5,183310
+Commodity_3,2021-05-21,Gold ,1876.7,234290
+Commodity_3,2021-05-20,Gold ,1881.9,223570
+Commodity_3,2021-05-19,Gold ,1881.5,398210
+Commodity_3,2021-05-18,Gold ,1868,229020
+Commodity_3,2021-05-17,Gold ,1867.6,267710
+Commodity_3,2021-05-14,Gold ,1838.1,224380
+Commodity_3,2021-05-13,Gold ,1824,249930
+Commodity_3,2021-05-12,Gold ,1822.8,339210
+Commodity_3,2021-05-11,Gold ,1836.1,311100
+Commodity_3,2021-05-10,Gold ,1837.6,269710
+Commodity_3,2021-05-07,Gold ,1831.3,367700
+Commodity_3,2021-05-06,Gold ,1815.7,287630
+Commodity_3,2021-05-05,Gold ,1784.3,178810
+Commodity_3,2021-05-04,Gold ,1776,246590
+Commodity_3,2021-05-03,Gold ,1791.8,204540
+Commodity_3,2021-04-30,Gold ,1767.7,167290
+Commodity_3,2021-04-29,Gold ,1768.3,231520
+Commodity_3,2021-04-28,Gold ,1773.9,198580
+Commodity_3,2021-04-27,Gold ,1778.8,147950
+Commodity_3,2021-04-26,Gold ,1780.1,143360
+Commodity_3,2021-04-23,Gold ,1777.8,175850
+Commodity_3,2021-04-22,Gold ,1782,163750
+Commodity_3,2021-04-21,Gold ,1793.1,173970
+Commodity_3,2021-04-20,Gold ,1778.4,169040
+Commodity_3,2021-04-19,Gold ,1770.6,180730
+Commodity_3,2021-04-16,Gold ,1780.2,173500
+Commodity_3,2021-04-15,Gold ,1766.8,198140
+Commodity_3,2021-04-14,Gold ,1736.3,145260
+Commodity_3,2021-04-13,Gold ,1747.6,175590
+Commodity_3,2021-04-12,Gold ,1732.7,125360
+Commodity_3,2021-04-09,Gold ,1744.8,171400
+Commodity_3,2021-04-08,Gold ,1758.2,144570
+Commodity_3,2021-04-07,Gold ,1741.6,122800
+Commodity_3,2021-04-06,Gold ,1743,152600
+Commodity_3,2021-04-05,Gold ,1728.8,101750
+Commodity_3,2021-04-01,Gold ,1728.4,170430
+Commodity_3,2021-03-31,Gold ,1715.6,210770
+Commodity_3,2021-03-30,Gold ,1686,225870
+Commodity_3,2021-03-29,Gold ,1712.2,135460
+Commodity_3,2021-03-26,Gold ,1732.3,172940
+Commodity_3,2021-03-25,Gold ,1725.1,226210
+Commodity_3,2021-03-24,Gold ,1733.2,186520
+Commodity_3,2021-03-23,Gold ,1725.1,226200
+Commodity_3,2021-03-22,Gold ,1738.1,196310
+Commodity_3,2021-03-19,Gold ,1741.7,213280
+Commodity_3,2021-03-18,Gold ,1732.5,251760
+Commodity_3,2021-03-17,Gold ,1727.1,220550
+Commodity_3,2021-03-16,Gold ,1730.9,173890
+Commodity_3,2021-03-15,Gold ,1729.2,163050
+Commodity_3,2021-03-12,Gold ,1719.8,232210
+Commodity_3,2021-03-11,Gold ,1722.6,215340
+Commodity_3,2021-03-10,Gold ,1721.8,226890
+Commodity_3,2021-03-09,Gold ,1716.9,248950
+Commodity_3,2021-03-08,Gold ,1678,273910
+Commodity_3,2021-03-05,Gold ,1698.5,269330
+Commodity_3,2021-03-04,Gold ,1700.7,277450
+Commodity_3,2021-03-03,Gold ,1715.8,255650
+Commodity_3,2021-03-02,Gold ,1733.6,235960
+Commodity_3,2021-03-01,Gold ,1723,241920
+Commodity_3,2021-02-26,Gold ,1728.8,362550
+Commodity_3,2021-02-25,Gold ,1775.4,316250
+Commodity_3,2021-02-24,Gold ,1797.9,224060
+Commodity_3,2021-02-23,Gold ,1805.9,191150
+Commodity_3,2021-02-22,Gold ,1808.4,221200
+Commodity_3,2021-02-19,Gold ,1777.4,251780
+Commodity_3,2021-02-18,Gold ,1775,224770
+Commodity_3,2021-02-17,Gold ,1772.8,257340
+Commodity_3,2021-02-12,Gold ,1823.2,171900
+Commodity_3,2021-02-11,Gold ,1826.8,147020
+Commodity_3,2021-02-10,Gold ,1842.7,176440
+Commodity_3,2021-02-09,Gold ,1837.5,154390
+Commodity_3,2021-02-08,Gold ,1834.2,177560
+Commodity_3,2021-02-05,Gold ,1813,205760
+Commodity_3,2021-02-04,Gold ,1791.2,279620
+Commodity_3,2021-02-03,Gold ,1835.1,137230
+Commodity_3,2021-02-02,Gold ,1833.4,236000
+Commodity_3,2021-02-01,Gold ,1863.9,242050
+Commodity_3,2021-01-29,Gold ,1850.3,276170
+Commodity_3,2021-01-28,Gold ,1841.2,277590
+Commodity_3,2021-01-27,Gold ,1844.9,195540
+Commodity_3,2021-01-26,Gold ,1850.9,170260
+Commodity_3,2021-01-25,Gold ,1855.2,211980
+Commodity_3,2021-01-22,Gold ,1856.2,249720
+Commodity_3,2021-01-21,Gold ,1865.9,196940
+Commodity_3,2021-01-20,Gold ,1866.5,274400
+Commodity_3,2021-01-15,Gold ,1829.9,231110
+Commodity_3,2021-01-14,Gold ,1851.4,257660
+Commodity_3,2021-01-13,Gold ,1854.9,225990
+Commodity_3,2021-01-12,Gold ,1844.2,240660
+Commodity_3,2021-01-11,Gold ,1850.8,268360
+Commodity_3,2021-01-08,Gold ,1835.4,443510
+Commodity_3,2021-01-07,Gold ,1913.6,199980
+Commodity_3,2021-01-06,Gold ,1908.6,366610
+Commodity_3,2021-01-05,Gold ,1954.4,201950
+Commodity_3,2021-01-04,Gold ,1946.6,273370
+Commodity_3,2020-12-31,Gold ,1895.1,130630
+Commodity_3,2020-12-30,Gold ,1893.4,133660
+Commodity_3,2020-12-29,Gold ,1882.9,149270
+Commodity_3,2020-12-28,Gold ,1880.4,196760
+Commodity_3,2020-12-24,Gold ,1883.2,89410
+Commodity_3,2020-12-23,Gold ,1878.1,162540
+Commodity_3,2020-12-22,Gold ,1870.3,176020
+Commodity_3,2020-12-21,Gold ,1882.8,232050
+Commodity_3,2020-12-18,Gold ,1888.9,153230
+Commodity_3,2020-12-17,Gold ,1890.4,219870
+Commodity_3,2020-12-16,Gold ,1859.1,199680
+Commodity_3,2020-12-15,Gold ,1855.3,173610
+Commodity_3,2020-12-14,Gold ,1832.1,168490
+Commodity_3,2020-12-11,Gold ,1843.6,153800
+Commodity_3,2020-12-10,Gold ,1837.4,164800
+Commodity_3,2020-12-09,Gold ,1838.5,219590
+Commodity_3,2020-12-08,Gold ,1874.9,151790
+Commodity_3,2020-12-07,Gold ,1866,209040
+Commodity_3,2020-12-04,Gold ,1840,171260
+Commodity_3,2020-12-03,Gold ,1841.1,180360
+Commodity_3,2020-12-02,Gold ,1830.2,185320
+Commodity_3,2020-12-01,Gold ,1818.9,203650
+Commodity_3,2020-11-30,Gold ,1780.9,242730
+Commodity_3,2020-11-25,Gold ,1805.5,205750
+Commodity_3,2020-11-24,Gold ,1804.6,367880
+Commodity_3,2020-11-23,Gold ,1837.8,319660
+Commodity_3,2020-11-20,Gold ,1872.4,186170
+Commodity_3,2020-11-19,Gold ,1861.5,222350
+Commodity_3,2020-11-18,Gold ,1873.9,209000
+Commodity_3,2020-11-17,Gold ,1885.1,160880
+Commodity_3,2020-11-16,Gold ,1887.8,222940
+Commodity_3,2020-11-13,Gold ,1886.2,162540
+Commodity_3,2020-11-12,Gold ,1873.3,209930
+Commodity_3,2020-11-11,Gold ,1861.6,215170
+Commodity_3,2020-11-10,Gold ,1876.4,264870
+Commodity_3,2020-11-09,Gold ,1854.4,496090
+Commodity_3,2020-11-06,Gold ,1951.7,246780
+Commodity_3,2020-11-05,Gold ,1946.8,297510
+Commodity_3,2020-11-04,Gold ,1896.2,293950
+Commodity_3,2020-11-03,Gold ,1910.4,171370
+Commodity_3,2020-11-02,Gold ,1892.5,164940
+Commodity_3,2020-10-30,Gold ,1879.9,213170
+Commodity_3,2020-10-29,Gold ,1868,225160
+Commodity_3,2020-10-28,Gold ,1879.2,297090
+Commodity_3,2020-10-27,Gold ,1911.9,153300
+Commodity_3,2020-10-26,Gold ,1905.7,166310
+Commodity_3,2020-10-23,Gold ,1905.2,172960
+Commodity_3,2020-10-22,Gold ,1904.6,215580
+Commodity_3,2020-10-21,Gold ,1929.5,201270
+Commodity_3,2020-10-20,Gold ,1915.4,163910
+Commodity_3,2020-10-19,Gold ,1911.7,159850
+Commodity_3,2020-10-16,Gold ,1906.4,146910
+Commodity_3,2020-10-15,Gold ,1908.9,213570
+Commodity_3,2020-10-14,Gold ,1907.3,188300
+Commodity_3,2020-10-13,Gold ,1894.6,267540
+Commodity_3,2020-10-12,Gold ,1928.9,157210
+Commodity_3,2020-10-09,Gold ,1926.2,229850
+Commodity_3,2020-10-08,Gold ,1895.1,185450
+Commodity_3,2020-10-07,Gold ,1890.8,188590
+Commodity_3,2020-10-06,Gold ,1908.8,219440
+Commodity_3,2020-10-05,Gold ,1920.1,177590
+Commodity_3,2020-10-02,Gold ,1907.6,212730
+Commodity_3,2020-10-01,Gold ,1916.3,262090
+Commodity_3,2020-09-30,Gold ,1895.5,259870
+Commodity_3,2020-09-29,Gold ,1903.2,217800
+Commodity_3,2020-09-28,Gold ,1882.3,235920
+Commodity_3,2020-09-25,Gold ,1866.3,230860
+Commodity_3,2020-09-24,Gold ,1876.9,345040
+Commodity_3,2020-09-23,Gold ,1868.4,411560
+Commodity_3,2020-09-22,Gold ,1907.6,282710
+Commodity_3,2020-09-21,Gold ,1910.6,386670
+Commodity_3,2020-09-18,Gold ,1962.1,176070
+Commodity_3,2020-09-17,Gold ,1949.9,273140
+Commodity_3,2020-09-16,Gold ,1970.5,298390
+Commodity_3,2020-09-15,Gold ,1966.2,239540
+Commodity_3,2020-09-14,Gold ,1963.7,200090
+Commodity_3,2020-09-11,Gold ,1947.9,205230
+Commodity_3,2020-09-10,Gold ,1964.3,271480
+Commodity_3,2020-09-09,Gold ,1954.9,227180
+Commodity_3,2020-09-04,Gold ,1934.3,304740
+Commodity_3,2020-09-03,Gold ,1937.8,303030
+Commodity_3,2020-09-02,Gold ,1944.7,332590
+Commodity_3,2020-09-01,Gold ,1978.9,304890
+Commodity_3,2020-08-31,Gold ,1978.6,245110
+Commodity_3,2020-08-28,Gold ,1974.9,334100
+Commodity_3,2020-08-27,Gold ,1932.6,467170
+Commodity_3,2020-08-26,Gold ,1952.5,342210
+Commodity_3,2020-08-25,Gold ,1923.1,274110
+Commodity_3,2020-08-24,Gold ,1939.2,286260
+Commodity_3,2020-08-21,Gold ,1947,355070
+Commodity_3,2020-08-20,Gold ,1946.5,383340
+Commodity_3,2020-08-19,Gold ,1970.3,443260
+Commodity_3,2020-08-18,Gold ,2013.1,361480
+Commodity_3,2020-08-17,Gold ,1998.7,289440
+Commodity_3,2020-08-14,Gold ,1949.8,241800
+Commodity_3,2020-08-13,Gold ,1970.4,349890
+Commodity_3,2020-08-12,Gold ,1949,459840
+Commodity_3,2020-08-11,Gold ,1946.3,565000
+Commodity_3,2020-08-10,Gold ,2039.7,251310
+Commodity_3,2020-08-07,Gold ,2028,398130
+Commodity_3,2020-08-06,Gold ,2069.4,312760
+Commodity_3,2020-08-05,Gold ,2049.3,366380
+Commodity_3,2020-08-04,Gold ,2021,274420
+Commodity_3,2020-08-03,Gold ,1986.3,178750
+Commodity_3,2020-07-31,Gold ,1985.9,279320
+Commodity_3,2020-07-30,Gold ,1966.8,271380
+Commodity_3,2020-07-29,Gold ,1953.4,209840
+Commodity_3,2020-07-28,Gold ,1944.6,434450
+Commodity_3,2020-07-27,Gold ,1931,428230
+Commodity_3,2020-07-24,Gold ,1897.5,300170
+Commodity_3,2020-07-23,Gold ,1890,418750
+Commodity_3,2020-07-22,Gold ,1865.1,382230
+Commodity_3,2020-07-21,Gold ,1843.9,271090
+Commodity_3,2020-07-20,Gold ,1817.4,177740
+Commodity_3,2020-07-17,Gold ,1810,167010
+Commodity_3,2020-07-16,Gold ,1800.3,196570
+Commodity_3,2020-07-15,Gold ,1813.8,183060
+Commodity_3,2020-07-14,Gold ,1813.4,253210
+Commodity_3,2020-07-13,Gold ,1814.1,230400
+Commodity_3,2020-07-10,Gold ,1801.9,223830
+Commodity_3,2020-07-09,Gold ,1803.8,283370
+Commodity_3,2020-07-08,Gold ,1820.6,247500
+Commodity_3,2020-07-07,Gold ,1809.9,221730
+Commodity_3,2020-07-02,Gold ,1790,186310
+Commodity_3,2020-07-01,Gold ,1779.9,263250
+Commodity_3,2020-06-30,Gold ,1800.5,199420
+Commodity_3,2020-06-29,Gold ,1781.2,130510
+Commodity_3,2020-06-26,Gold ,1780.3,201230
+Commodity_3,2020-06-25,Gold ,1770.6,152200
+Commodity_3,2020-06-24,Gold ,1775.1,239530
+Commodity_3,2020-06-23,Gold ,1782,194680
+Commodity_3,2020-06-22,Gold ,1766.4,228680
+Commodity_3,2020-06-19,Gold ,1753,181150
+Commodity_3,2020-06-18,Gold ,1731.1,155910
+Commodity_3,2020-06-17,Gold ,1735.6,140070
+Commodity_3,2020-06-16,Gold ,1736.5,182420
+Commodity_3,2020-06-15,Gold ,1727.2,200230
+Commodity_3,2020-06-12,Gold ,1737.3,151400
+Commodity_3,2020-06-11,Gold ,1739.8,205350
+Commodity_3,2020-06-10,Gold ,1720.7,198760
+Commodity_3,2020-06-09,Gold ,1721.9,182910
+Commodity_3,2020-06-08,Gold ,1705.1,154770
+Commodity_3,2020-06-05,Gold ,1683,273680
+Commodity_3,2020-06-04,Gold ,1727.4,198720
+Commodity_3,2020-06-03,Gold ,1704.8,256520
+Commodity_3,2020-06-02,Gold ,1734,175350
+Commodity_3,2020-06-01,Gold ,1750.3,146130
+Commodity_3,2020-05-29,Gold ,1751.7,150110
+Commodity_3,2020-05-28,Gold ,1728.3,164820
+Commodity_3,2020-05-27,Gold ,1710.7,137420
+Commodity_3,2020-05-22,Gold ,1735.5,196820
+Commodity_3,2020-05-21,Gold ,1721.9,238740
+Commodity_3,2020-05-20,Gold ,1752.1,184460
+Commodity_3,2020-05-19,Gold ,1745.6,185260
+Commodity_3,2020-05-18,Gold ,1734.4,271470
+Commodity_3,2020-05-15,Gold ,1756.3,200180
+Commodity_3,2020-05-14,Gold ,1740.9,212910
+Commodity_3,2020-05-13,Gold ,1716.4,211610
+Commodity_3,2020-05-12,Gold ,1706.8,198070
+Commodity_3,2020-05-11,Gold ,1698,202170
+Commodity_3,2020-05-08,Gold ,1713.9,232810
+Commodity_3,2020-05-07,Gold ,1725.8,250700
+Commodity_3,2020-05-06,Gold ,1688.5,203370
+Commodity_3,2020-05-05,Gold ,1710.6,184730
+Commodity_3,2020-05-04,Gold ,1713.3,148730
+Commodity_3,2020-05-01,Gold ,1700.9,168020
+Commodity_3,2020-04-30,Gold ,1694.2,234530
+Commodity_3,2020-04-29,Gold ,1713.4,159600
+Commodity_3,2020-04-28,Gold ,1722.2,171340
+Commodity_3,2020-04-27,Gold ,1723.8,146640
+Commodity_3,2020-04-24,Gold ,1735.6,180240
+Commodity_3,2020-04-23,Gold ,1745.4,201880
+Commodity_3,2020-04-22,Gold ,1738.3,193730
+Commodity_3,2020-04-21,Gold ,1687.8,248630
+Commodity_3,2020-04-20,Gold ,1711.2,186910
+Commodity_3,2020-04-17,Gold ,1698.8,227070
+Commodity_3,2020-04-16,Gold ,1731.7,204230
+Commodity_3,2020-04-15,Gold ,1740.2,186700
+Commodity_3,2020-04-14,Gold ,1768.9,241190
+Commodity_3,2020-04-13,Gold ,1761.4,166890
+Commodity_3,2020-04-09,Gold ,1752.8,218800
+Commodity_3,2020-04-08,Gold ,1684.3,125330
+Commodity_3,2020-04-07,Gold ,1683.7,204500
+Commodity_3,2020-04-06,Gold ,1693.9,192750
+Commodity_3,2020-04-03,Gold ,1645.7,139610
+Commodity_3,2020-04-02,Gold ,1637.7,167710
+Commodity_3,2020-04-01,Gold ,1591.4,164480
+Commodity_3,2020-03-31,Gold ,1596.6,176550
+Commodity_3,2020-03-30,Gold ,1643.2,157370
+Commodity_3,2020-03-27,Gold ,1654.1,159260
+Commodity_3,2020-03-26,Gold ,1651.2,215970
+Commodity_3,2020-03-25,Gold ,1633.4,254190
+Commodity_3,2020-03-24,Gold ,1660.8,418780
+Commodity_3,2020-03-23,Gold ,1567.6,362070
+Commodity_3,2020-03-20,Gold ,1484.6,269970
+Commodity_3,2020-03-19,Gold ,1479.3,325290
+Commodity_3,2020-03-18,Gold ,1477.9,435190
+Commodity_3,2020-03-17,Gold ,1525.8,434510
+Commodity_3,2020-03-16,Gold ,1486.5,565980
+Commodity_3,2020-03-13,Gold ,1516.7,551050
+Commodity_3,2020-03-12,Gold ,1590.3,605720
+Commodity_3,2020-03-11,Gold ,1642.3,404350
+Commodity_3,2020-03-10,Gold ,1660.3,385480
+Commodity_3,2020-03-09,Gold ,1675.7,504160
+Commodity_3,2020-03-06,Gold ,1672.4,659630
+Commodity_3,2020-03-05,Gold ,1668,363000
+Commodity_3,2020-03-04,Gold ,1643,313340
+Commodity_3,2020-03-03,Gold ,1644.4,466530
+Commodity_3,2020-03-02,Gold ,1594.8,443530
+Commodity_3,2020-02-28,Gold ,1566.7,745840
+Commodity_3,2020-02-27,Gold ,1642.5,573290
+Commodity_3,2020-02-26,Gold ,1643.1,531900
+Commodity_3,2020-02-25,Gold ,1650,672760
+Commodity_3,2020-02-24,Gold ,1676.6,680820
+Commodity_3,2020-02-21,Gold ,1648.8,489190
+Commodity_3,2020-02-20,Gold ,1620.5,403040
+Commodity_3,2020-02-19,Gold ,1611.8,307890
+Commodity_3,2020-02-18,Gold ,1603.6,414240
+Commodity_3,2020-02-14,Gold ,1586.4,227110
+Commodity_3,2020-02-13,Gold ,1578.8,276250
+Commodity_3,2020-02-12,Gold ,1571.6,189550
+Commodity_3,2020-02-11,Gold ,1570.1,231830
+Commodity_3,2020-02-10,Gold ,1579.5,191750
+Commodity_3,2020-02-07,Gold ,1573.4,286420
+Commodity_3,2020-02-06,Gold ,1570,229000
+Commodity_3,2020-02-05,Gold ,1562.8,306050
+Commodity_3,2020-02-04,Gold ,1555.5,349000
+Commodity_3,2020-02-03,Gold ,1582.4,320600
+Commodity_3,2020-01-31,Gold ,1587.9,343370
+Commodity_3,2020-01-30,Gold ,1589.2,382600
+Commodity_3,2020-01-29,Gold ,1570.4,251270
+Commodity_3,2020-01-28,Gold ,1569.8,378010
+Commodity_3,2020-01-27,Gold ,1577.4,398060
+Commodity_3,2020-01-24,Gold ,1571.9,427140
+Commodity_3,2020-01-23,Gold ,1565.4,361030
+Commodity_3,2020-01-22,Gold ,1556.7,286080
+Commodity_3,2020-01-21,Gold ,1560.8,2220
+Commodity_3,2020-01-17,Gold ,1560.3,264930
+Commodity_3,2020-01-16,Gold ,1550.5,260050
+Commodity_3,2020-01-15,Gold ,1554,310070
+Commodity_3,2020-01-14,Gold ,1544.6,340910
+Commodity_3,2020-01-13,Gold ,1550.6,311730
+Commodity_3,2020-01-10,Gold ,1560.1,344340
+Commodity_3,2020-01-09,Gold ,1554.3,372880
+Commodity_3,2020-01-08,Gold ,1560.2,813410
+Commodity_3,2020-01-07,Gold ,1574.3,435870
+Commodity_3,2020-01-06,Gold ,1568.8,558970
+Commodity_3,2020-01-03,Gold ,1552.4,436740
+Commodity_3,2020-01-02,Gold ,1528.1,270550
