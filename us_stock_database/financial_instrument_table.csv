@@ -1,0 +1,14 @@
+Instrument_Name,Instrument _Type
+Natural_Gas,Commodity
+Crude_Oil,Commodity
+Gold ,Commodity
+Bitcoin ,Cryptocurrency
+Ethereum,Cryptocurrency
+S&P_500,Index 
+Apple,Stock
+Tesla,Stock
+Microsoft,Stock
+Google,Stock
+Nvidia,Stock
+Amazon,Stock
+Meta,Stock

@@ -1,0 +1,6 @@
+ticker,company_name,sector,industry,country,currency,market_cap
+AAPL,Apple Inc.,Technology,Consumer Electronics,United States,USD,3676245065728
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,United States,USD,2939877064704
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,United States,USD,3656681259008
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,United States,USD,1467951349760
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,United States,USD,2229321072640

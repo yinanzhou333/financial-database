@@ -1,0 +1,266 @@
+{
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "GOOGL",
+    "TSLA",
+    "AMZN"
+  ],
+  "report_date": "2026-03-15",
+  "portfolio_analysis": {
+    "correlation_matrix": {
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA",
+        "AMZN"
+      ],
+      "calculation_date": "2026-03-15",
+      "correlation_matrix": {
+        "AAPL": {
+          "AAPL": 1.0,
+          "AMZN": 0.34030531242021983,
+          "MSFT": 0.473971992444623,
+          "TSLA": 0.32488738942206336,
+          "GOOGL": 0.3608862478015874
+        },
+        "AMZN": {
+          "AAPL": 0.34030531242021983,
+          "AMZN": 1.0,
+          "MSFT": 0.6876353004178936,
+          "TSLA": 0.316906338541507,
+          "GOOGL": 0.5399834456622227
+        },
+        "MSFT": {
+          "AAPL": 0.473971992444623,
+          "AMZN": 0.6876353004178936,
+          "MSFT": 1.0,
+          "TSLA": 0.2998254281597053,
+          "GOOGL": 0.5727117724173744
+        },
+        "TSLA": {
+          "AAPL": 0.32488738942206336,
+          "AMZN": 0.316906338541507,
+          "MSFT": 0.2998254281597053,
+          "TSLA": 1.0,
+          "GOOGL": 0.25075415082290164
+        },
+        "GOOGL": {
+          "AAPL": 0.3608862478015874,
+          "AMZN": 0.5399834456622227,
+          "MSFT": 0.5727117724173744,
+          "TSLA": 0.25075415082290164,
+          "GOOGL": 1.0
+        }
+      }
+    }
+  },
+  "individual_analysis": {
+    "AAPL": {
+      "rsi": {
+        "rsi": 58.384900990099034,
+        "period": 14,
+        "signal": "Neutral",
+        "ticker": "AAPL",
+        "calculation_date": "2026-03-15"
+      },
+      "momentum": {
+        "ticker": "AAPL",
+        "20d_momentum_pct": 5.2624952788618895,
+        "50d_momentum_pct": 7.435644836595712,
+        "calculation_date": "2026-03-15",
+        "200d_momentum_pct": 46.632760434935115
+      },
+      "volatility": {
+        "ticker": "AAPL",
+        "calculation_date": "2026-03-15",
+        "daily_volatility": 0.014308759613782671,
+        "annual_volatility": 0.22714451704724145,
+        "current_rolling_volatility": 0.0095457547273536
+      },
+      "sharpe_ratio": {
+        "ticker": "AAPL",
+        "sharpe_ratio": 1.108015213313355,
+        "annual_return": 0.30167958050905797,
+        "calculation_date": "2026-03-15",
+        "annual_volatility": 0.22714451704724145
+      },
+      "moving_averages": {
+        "ma_20": 247.91299999999995,
+        "ma_50": 235.9304,
+        "ma_200": 211.5158,
+        "ticker": "AAPL",
+        "current_price": 250.83,
+        "calculation_date": "2026-03-15",
+        "price_vs_ma20_pct": 1.1766224441638995,
+        "price_vs_ma50_pct": 6.315252294744544,
+        "price_vs_ma200_pct": 18.586885707828916
+      }
+    },
+    "AMZN": {
+      "rsi": {
+        "rsi": 44.45986583391165,
+        "period": 14,
+        "signal": "Neutral",
+        "ticker": "AMZN",
+        "calculation_date": "2026-03-15"
+      },
+      "momentum": {
+        "ticker": "AMZN",
+        "20d_momentum_pct": 5.025864932846091,
+        "50d_momentum_pct": 17.096142653050418,
+        "calculation_date": "2026-03-15",
+        "200d_momentum_pct": 26.877651645453525
+      },
+      "volatility": {
+        "ticker": "AMZN",
+        "calculation_date": "2026-03-15",
+        "daily_volatility": 0.01771941528114147,
+        "annual_volatility": 0.28128699726826795,
+        "current_rolling_volatility": 0.01891407908609147
+      },
+      "sharpe_ratio": {
+        "ticker": "AMZN",
+        "sharpe_ratio": 1.3055892156394793,
+        "annual_return": 0.41724527013306206,
+        "calculation_date": "2026-03-15",
+        "annual_volatility": 0.28128699726826795
+      },
+      "moving_averages": {
+        "ma_20": 224.33650000000003,
+        "ma_50": 209.23719999999997,
+        "ma_200": 189.51394999999997,
+        "ticker": "AMZN",
+        "current_price": 221.3,
+        "calculation_date": "2026-03-15",
+        "price_vs_ma20_pct": -1.3535470153095974,
+        "price_vs_ma50_pct": 5.765131630513132,
+        "price_vs_ma200_pct": 16.77240646400966
+      }
+    },
+    "MSFT": {
+      "rsi": {
+        "rsi": 31.14106019766399,
+        "period": 14,
+        "signal": "Neutral",
+        "ticker": "MSFT",
+        "calculation_date": "2026-03-15"
+      },
+      "momentum": {
+        "ticker": "MSFT",
+        "20d_momentum_pct": -1.4267307016516462,
+        "50d_momentum_pct": 1.797595141896302,
+        "calculation_date": "2026-03-15",
+        "200d_momentum_pct": 2.5918611172067285
+      },
+      "volatility": {
+        "ticker": "MSFT",
+        "calculation_date": "2026-03-15",
+        "daily_volatility": 0.012588773485483118,
+        "annual_volatility": 0.19984058372347271,
+        "current_rolling_volatility": 0.012652899314009428
+      },
+      "sharpe_ratio": {
+        "ticker": "MSFT",
+        "sharpe_ratio": 0.5005660404282397,
+        "annual_return": 0.15003340971132664,
+        "calculation_date": "2026-03-15",
+        "annual_volatility": 0.19984058372347271
+      },
+      "moving_averages": {
+        "ma_20": 436.0845000000001,
+        "ma_50": 423.9772,
+        "ma_200": 419.78595,
+        "ticker": "MSFT",
+        "current_price": 420.76,
+        "calculation_date": "2026-03-15",
+        "price_vs_ma20_pct": -3.514112517184187,
+        "price_vs_ma50_pct": -0.758814389075646,
+        "price_vs_ma200_pct": 0.23203492160706052
+      }
+    },
+    "TSLA": {
+      "rsi": {
+        "rsi": 55.56182037857432,
+        "period": 14,
+        "signal": "Neutral",
+        "ticker": "TSLA",
+        "calculation_date": "2026-03-15"
+      },
+      "momentum": {
+        "ticker": "TSLA",
+        "20d_momentum_pct": 16.89210003080457,
+        "50d_momentum_pct": 89.13004077933849,
+        "calculation_date": "2026-03-15",
+        "200d_momentum_pct": 155.18738154918387
+      },
+      "volatility": {
+        "ticker": "TSLA",
+        "calculation_date": "2026-03-15",
+        "daily_volatility": 0.04001620578745124,
+        "annual_volatility": 0.6352375735558775,
+        "current_rolling_volatility": 0.03769224307706512
+      },
+      "sharpe_ratio": {
+        "ticker": "TSLA",
+        "sharpe_ratio": 1.051592618925827,
+        "annual_return": 0.7180111436157125,
+        "calculation_date": "2026-03-15",
+        "annual_volatility": 0.6352375735558775
+      },
+      "moving_averages": {
+        "ma_20": 416.5675,
+        "ma_50": 342.52020000000005,
+        "ma_200": 237.63595,
+        "ticker": "TSLA",
+        "current_price": 417.41,
+        "calculation_date": "2026-03-15",
+        "price_vs_ma20_pct": 0.20224813505616,
+        "price_vs_ma50_pct": 21.864345518892023,
+        "price_vs_ma200_pct": 75.65103259839265
+      }
+    },
+    "GOOGL": {
+      "rsi": {
+        "rsi": 64.88880512627216,
+        "period": 14,
+        "signal": "Neutral",
+        "ticker": "GOOGL",
+        "calculation_date": "2026-03-15"
+      },
+      "momentum": {
+        "ticker": "GOOGL",
+        "20d_momentum_pct": 11.641545950384158,
+        "50d_momentum_pct": 17.159034958148702,
+        "calculation_date": "2026-03-15",
+        "200d_momentum_pct": 35.9520068561634
+      },
+      "volatility": {
+        "ticker": "GOOGL",
+        "calculation_date": "2026-03-15",
+        "daily_volatility": 0.017690933374457294,
+        "annual_volatility": 0.28083486101656024,
+        "current_rolling_volatility": 0.02237820217130439
+      },
+      "sharpe_ratio": {
+        "ticker": "GOOGL",
+        "sharpe_ratio": 1.0981109843275154,
+        "annual_return": 0.35838784566437576,
+        "calculation_date": "2026-03-15",
+        "annual_volatility": 0.28083486101656024
+      },
+      "moving_averages": {
+        "ma_20": 185.743,
+        "ma_50": 176.44600000000003,
+        "ma_200": 168.1042,
+        "ticker": "GOOGL",
+        "current_price": 190.36,
+        "calculation_date": "2026-03-15",
+        "price_vs_ma20_pct": 2.4856925967600585,
+        "price_vs_ma50_pct": 7.885698740691205,
+        "price_vs_ma200_pct": 13.239288488925329
+      }
+    }
+  }
+}
