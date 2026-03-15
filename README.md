@@ -1,14 +1,14 @@
 # Financial Database & Analysis System
 
-A professional Python + MySQL system for downloading financial data, building a normalized database, and performing sophisticated quantitative financial analysis. Perfect for a GitHub portfolio demonstrating data engineering, finance, and analytics skills.
+A professional Python + MySQL system for downloading financial data, building a normalized database, and performing sophisticated quantitative financial analysis.
 
-## 🎯 Portfolio Highlights
+## 🎯 Highlights
 
 This project demonstrates:
 - ✅ **Professional Data Engineering**: Complete ETL pipeline with MySQL integration
 - ✅ **Financial Analysis**: 6+ sophisticated metrics (Sharpe, Volatility, RSI, Moving Averages, Momentum, Correlation)
 - ✅ **Advanced SQL**: Window functions, correlations, technical indicators, aggregations
-- ✅ **Data Visualization**: 8+ professional charts for comprehensive portfolio analysis
+- ✅ **Data Visualization**: 8+ professional charts for comprehensive analysis
 - ✅ **Database Design**: Normalized schema with 6 interconnected tables and proper indexing
 - ✅ **Clean Code**: Modular architecture with logging, error handling, and best practices
 - ✅ **Professional Documentation**: Comprehensive guides, SQL queries, and setup instructions
@@ -113,13 +113,13 @@ python3 create_visuals.py
 
 ## 🔍 Advanced SQL Analytics
 
-### Portfolio Overview (12 queries)
+### Overview (12 queries)
 ```bash
 cat sql/1_portfolio_overview.sql
 ```
 
 **Professional Queries:**
-- Portfolio performance summary
+- Performance summary
 - Stock performance ranking by return %
 - Daily volatility analysis
 - Multi-period momentum (30d, 90d, 1Y)
