@@ -1,17 +1,7 @@
 # Financial Database & Analysis System
 
-A professional Python + MySQL system for downloading financial data, building a normalized database, and performing sophisticated quantitative financial analysis.
+A Python + MySQL system for downloading financial data, building a normalized database, and performing sophisticated quantitative financial analysis.
 
-## 🎯 Highlights
-
-This project demonstrates:
-- ✅ **Professional Data Engineering**: Complete ETL pipeline with MySQL integration
-- ✅ **Financial Analysis**: 6+ sophisticated metrics (Sharpe, Volatility, RSI, Moving Averages, Momentum, Correlation)
-- ✅ **Advanced SQL**: Window functions, correlations, technical indicators, aggregations
-- ✅ **Data Visualization**: 8+ professional charts for comprehensive analysis
-- ✅ **Database Design**: Normalized schema with 6 interconnected tables and proper indexing
-- ✅ **Clean Code**: Modular architecture with logging, error handling, and best practices
-- ✅ **Professional Documentation**: Comprehensive guides, SQL queries, and setup instructions
 
 ## 📂 Project Structure
 
@@ -184,13 +174,6 @@ ORDER BY ticker, price_date DESC
 LIMIT 50;
 ```
 
-### In VS Code
-1. Install **MySQL** extension (Jun Han)
-2. Connect to localhost:3306
-3. Browse tables with autocomplete
-4. Execute queries with syntax highlighting
-5. View results in beautiful tables
-
 ## 📈 Financial Metrics Calculated
 
 ### 6 Core Metrics
@@ -204,7 +187,7 @@ LIMIT 50;
 | **Moving Averages** | Trend direction | SMA(20), SMA(50), SMA(200) |
 | **RSI** | Overbought/oversold | 100 - (100 / (1 + RS)) where RS = gain/loss |
 
-## 🎓 Data Engineering Highlights
+## 🎓 Highlights
 
 ### ETL Pipeline
 - **Extract**: Yahoo Finance API via yfinance
@@ -223,36 +206,6 @@ LIMIT 50;
 - Duplicate prevention with UNIQUE constraints
 - Date validation and sorting
 
-## 📚 Documentation
-
-| File | Purpose |
-|------|---------|
-| `SIMPLE_STEPS.md` | Copy-paste commands for each step |
-| `STEP_BY_STEP.md` | Detailed walkthrough with output |
-| `MYSQL_FIX.md` | MySQL setup & troubleshooting |
-| `SQL_QUERIES.md` | Comprehensive SQL reference |
-
-## 🔧 Troubleshooting
-
-### MySQL Connection Error
-```bash
-# Test connection
-python3 mysql_helper.py test_connection
-
-# Update .env with correct password
-cat .env.example > .env
-# Edit .env with your credentials
-```
-
-### No Data Downloaded
-- Check internet connection
-- Verify ticker symbols (AAPL, MSFT, GOOGL, TSLA, AMZN)
-- Check date range in `.env`
-
-### Database Already Exists
-- Normal! Safe to re-run
-- Existing data is preserved
-- Uses `CREATE TABLE IF NOT EXISTS`
 
 ## 💡 Customization
 
