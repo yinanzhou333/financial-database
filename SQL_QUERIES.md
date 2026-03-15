@@ -469,4 +469,3 @@ df.to_csv('aapl_data.csv', index=False)
 
 ---
 
-**Last Updated**: March 15, 2024

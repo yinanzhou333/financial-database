@@ -16,17 +16,14 @@ financial-database/
 ├── data/                         # Downloaded CSV files
 ├── output/                       # Generated reports (JSON)
 ├── .env                         # MySQL credentials (ignored in git)
-├── .env.example                 # Example .env template
-├── main.py                      # Main pipeline orchestrator
 ├── requirements.txt             # Python dependencies
-└── step*.py                     # Individual step scripts
 ```
 
 ## 💾 Database Location
 
 **MySQL Database:** `financial_analysis_db`
 
-**Stored at:** Wherever MySQL is installed on your system (typically `/usr/local/var/mysql` on macOS)
+**Stored at:** Wherever MySQL is installed on your system
 
 **Database Host:** localhost (from `.env`)
 
@@ -53,12 +50,8 @@ MYSQL_PORT=3306
 
 ### 3. Run Pipeline
 
-**Option A: Run all steps at once**
-```bash
-python3 main.py
-```
 
-**Option B: Run steps individually**
+**Run steps individually**
 ```bash
 python3 step1_create_schema.py      # Create database & schema (1 min)
 python3 step2_download_data.py      # Download stock data (3-5 min)
@@ -66,8 +59,6 @@ python3 step3_load_database.py      # Load into MySQL (2-3 min)
 python3 step4_run_analysis.py       # Run analysis (2-3 min)
 python3 step5_export_results.py     # Export results (1 min)
 ```
-
-**Total time:** 10-15 minutes
 
 ## 📊 What Gets Created
 
@@ -110,9 +101,8 @@ python3 step5_export_results.py     # Export results (1 min)
 - `src/utilities.py` - Helper functions
 
 ### Configuration
-- `.env` - MySQL credentials (create from `.env.example`)
+- `.env` - MySQL credentials
 - `requirements.txt` - Python dependencies
-- `myenv/` - Virtual environment
 
 ### Results
 - `data/` - Downloaded CSV files
@@ -136,28 +126,6 @@ SELECT ticker, AVG(closing_price) FROM stock_prices GROUP BY ticker;
 SELECT * FROM market_analysis ORDER BY analysis_date DESC LIMIT 1;
 ```
 
-### In VS Code
-1. Install MySQL extension (Jun Han)
-2. Connect to localhost:3306
-3. Browse tables and run queries
-
-## ⚙️ Troubleshooting
-
-### MySQL Connection Error
-Update `.env` with correct credentials. Test with:
-```bash
-python3 mysql_helper.py test_connection
-```
-
-### No Data Downloaded
-- Check internet connection
-- Verify ticker symbols (AAPL, MSFT, etc.)
-- Try fewer tickers
-
-### Database Already Exists
-- Normal! `CREATE TABLE IF NOT EXISTS` prevents errors
-- Tables are preserved across runs
-
 ## 📈 Next Steps
 
 1. ✅ Run the pipeline (Steps 1-5)
@@ -166,39 +134,18 @@ python3 mysql_helper.py test_connection
 4. Adjust date ranges in `.env`
 5. Add more financial metrics to `src/analysis.py`
 
-## � Portfolio & Visualizations
+## Visualizations
 
 ### Create Professional Charts
 After running the pipeline:
 
 ```bash
-python3 create_portfolio_visuals.py
+python3 create_visuals.py
 ```
 
-This generates 5 professional visualizations perfect for GitHub portfolios:
+This generates 5 professional visualizations:
 - 📈 Stock Performance Comparison
 - 📊 Risk vs Return Analysis
 - 📉 Price Trends Over Time
 - 💰 Trading Volume Analysis
 - 🔥 Monthly Returns Heatmap
-
-### Impressive SQL Queries
-See `PORTFOLIO_QUERIES.md` for 9 portfolio-ready SQL queries:
-1. Stock performance ranking
-2. Monthly performance trends
-3. Volatility analysis
-4. Trading volume analysis
-5. Best & worst trading days
-6. Correlation analysis
-7. Performance vs market index
-8. Year-to-date performance
-9. Analysis metadata
-
-## �💡 Need Help?
-
-- See `SIMPLE_STEPS.md` for copy-paste commands
-- See `PORTFOLIO_QUERIES.md` for impressive SQL queries & analysis
-- See `MYSQL_FIX.md` for database connection troubleshooting
-
----
-
